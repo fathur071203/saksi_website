@@ -1,0 +1,32 @@
+<aside id="app-sidebar" aria-hidden="true" class="fixed inset-y-0 left-0 z-40 flex w-80 max-w-[88vw] -translate-x-full flex-col bg-deepBlue text-white transition duration-300 lg:static lg:max-w-none lg:translate-x-0 lg:transition-none">
+    <div class="flex items-center justify-between border-b border-white/10 px-6 py-6">
+        <div>
+            <p class="text-xs uppercase tracking-[0.3em] text-prestigeGold">Command Center</p>
+            <h2 class="mt-2 text-xl font-semibold">Navigasi Litigasi</h2>
+        </div>
+        <button id="sidebar-close" type="button" aria-label="Tutup navigasi" class="rounded-xl border border-white/10 px-3 py-2 text-sm lg:hidden">✕</button>
+    </div>
+    <nav class="flex-1 space-y-2 px-4 py-6">
+        <a href="{{ url_for('dashboard.index') }}" data-sidebar-link class="flex items-center gap-3 rounded-2xl px-4 py-3 transition {{ 'bg-white/10 text-prestigeGold shadow-glow' if active_page == 'dashboard' else 'text-slate-300 hover:bg-white/5 hover:text-white' }}">
+            <span>📊</span><span>Expert Mapping Dashboard</span>
+        </a>
+        <a href="{{ url_for('interrogation.index') }}" data-sidebar-link class="flex items-center gap-3 rounded-2xl px-4 py-3 transition {{ 'bg-white/10 text-prestigeGold shadow-glow' if active_page == 'interrogation' else 'text-slate-300 hover:bg-white/5 hover:text-white' }}">
+            <span>⚖️</span><span>Virtual Interrogation Room</span>
+        </a>
+        <a href="{{ url_for('legal.index') }}" data-sidebar-link class="flex items-center gap-3 rounded-2xl px-4 py-3 transition {{ 'bg-white/10 text-prestigeGold shadow-glow' if active_page == 'legal' else 'text-slate-300 hover:bg-white/5 hover:text-white' }}">
+            <span>📄</span><span>AI Legal Brief Generator</span>
+        </a>
+        <a href="{{ url_for('livia.index') }}" data-sidebar-link class="flex items-center gap-3 rounded-2xl px-4 py-3 transition {{ 'bg-white/10 text-prestigeGold shadow-glow' if active_page == 'livia' else 'text-slate-300 hover:bg-white/5 hover:text-white' }}">
+            <span>💬</span><span>Livia</span>
+        </a>
+        <a href="{{ url_for('competency.index') }}" data-sidebar-link class="flex items-center gap-3 rounded-2xl px-4 py-3 transition {{ 'bg-white/10 text-prestigeGold shadow-glow' if active_page == 'competency' else 'text-slate-300 hover:bg-white/5 hover:text-white' }}">
+            <span>🏆</span><span>My Competency</span>
+        </a>
+    </nav>
+    <div class="border-t border-white/10 px-5 py-5">
+        <div class="rounded-3xl border border-prestigeGold/25 bg-white/5 p-4">
+            <p class="text-xs uppercase tracking-[0.2em] text-prestigeGold">Closed-Domain AI</p>
+            <p class="mt-2 text-sm text-slate-300">Prototype memakai JSON lokal sebagai knowledge base sementara sebelum scale-up ke ChromaDB/FAISS + Gemini API terenkripsi.</p>
+        </div>
+    </div>
+</aside>

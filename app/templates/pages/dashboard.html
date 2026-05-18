@@ -1,0 +1,99 @@
+{% extends 'base.html' %}
+{% block title %} · Expert Mapping Dashboard{% endblock %}
+{% block content %}
+<section class="hero-grid overflow-hidden rounded-[2rem] border border-slate-200 bg-white px-6 py-8 shadow-command lg:px-8">
+    <div class="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
+        <div>
+            <p class="text-sm font-semibold uppercase tracking-[0.3em] text-prestigeGold">Expert Mapping Dashboard</p>
+            <h1 class="mt-3 text-3xl font-black tracking-tight text-biNavy lg:text-4xl">Selamat Datang. Status Kesiapan Litigasi KPSP: {{ payload.metrics.readiness }}% Optimal.</h1>
+            <p class="mt-4 max-w-3xl text-slate-600">Pantau distribusi saksi ahli secara objektif berdasarkan sertifikasi, jam terbang persidangan, dan kesiapan penugasan real-time.</p>
+        </div>
+        <div class="rounded-3xl border border-prestigeGold/30 bg-white/70 px-5 py-4 shadow-glow">
+            <p class="text-xs uppercase tracking-[0.25em] text-slate-500">Recommendation Engine</p>
+            <p class="mt-2 text-lg font-semibold text-slateInk">Prioritaskan penugasan berbasis topik kasus, bukan availability semata.</p>
+        </div>
+    </div>
+</section>
+
+<section class="mt-6 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+    <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+        <p class="text-sm text-slate-500">Total SDM Tersertifikasi</p>
+        <p class="mt-3 text-4xl font-black text-biNavy">{{ payload.metrics.certified_total }}</p>
+    </div>
+    <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+        <p class="text-sm text-slate-500">Rata-rata SLA Persiapan BAP</p>
+        <p class="mt-3 text-4xl font-black text-biNavy">{{ payload.metrics.avg_sla }} <span class="text-lg font-semibold text-slate-500">menit</span></p>
+    </div>
+    <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+        <p class="text-sm text-slate-500">Pengawas Available</p>
+        <p class="mt-3 text-4xl font-black text-validGreen">{{ payload.metrics.available_count }}</p>
+    </div>
+    <div class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
+        <p class="text-sm text-slate-500">Knowledge Base</p>
+        <p class="mt-3 text-lg font-bold text-biNavy">Closed-Domain JSON</p>
+        <p class="mt-2 text-sm text-slate-500">Siap migrasi ke vector database.</p>
+    </div>
+</section>
+
+<section class="mt-6 rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+    <div class="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+        <div>
+            <h2 class="text-2xl font-bold text-biNavy">Expert Matrix</h2>
+            <p class="text-sm text-slate-500">Filter cerdas berdasarkan topik kasus APH.</p>
+        </div>
+        <div id="topic-filters" class="flex flex-wrap gap-3">
+            {% for topic in payload.topics %}
+            <button class="topic-filter rounded-full border px-4 py-2 text-sm font-semibold transition {{ 'border-prestigeGold bg-prestigeGold text-deepBlue' if topic == payload.active_topic else 'border-slate-200 bg-cleanSlate text-slate-600 hover:border-prestigeGold hover:text-biNavy' }}" data-topic="{{ topic }}">{{ topic }}</button>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="mt-6 overflow-hidden rounded-3xl border border-slate-200">
+        <div id="dashboard-skeleton" class="hidden p-6">
+            <div class="space-y-4">
+                {% for _ in range(4) %}
+                <div class="shimmer-card h-16 rounded-2xl animate-shimmer"></div>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="overflow-x-auto">
+            <table class="min-w-full divide-y divide-slate-200 text-left text-sm">
+                <thead class="bg-cleanSlate text-slate-500">
+                    <tr>
+                        <th class="px-6 py-4 font-semibold">Nama Pengawas</th>
+                        <th class="px-6 py-4 font-semibold">e-Badge Dimiliki</th>
+                        <th class="px-6 py-4 font-semibold">Jam Terbang Persidangan</th>
+                        <th class="px-6 py-4 font-semibold">Status Saat Ini</th>
+                    </tr>
+                </thead>
+                <tbody id="experts-table-body" class="divide-y divide-slate-100 bg-white">
+                    {% for expert in payload.experts %}
+                    <tr class="transition hover:bg-slate-50/80">
+                        <td class="px-6 py-5">
+                            <p class="font-semibold text-slateInk">{{ expert.name }}</p>
+                            <p class="mt-1 text-xs text-slate-500">{{ expert.unit }}</p>
+                        </td>
+                        <td class="px-6 py-5">
+                            <div class="flex flex-wrap gap-2">
+                                {% if expert.badges %}
+                                    {% for badge in expert.badges %}
+                                    <span title="{{ badge.awarded_at }} · {{ badge.description }}" class="cursor-help rounded-full border border-prestigeGold/40 bg-prestigeGold/10 px-3 py-1 text-xs font-semibold text-prestigeGold transition hover:-translate-y-0.5 hover:bg-prestigeGold hover:text-deepBlue">{{ badge.topic }} · {{ badge.level }}</span>
+                                    {% endfor %}
+                                {% else %}
+                                <span class="rounded-full border border-slate-200 bg-cleanSlate px-3 py-1 text-xs font-semibold text-slate-500">Belum ada e-Badge</span>
+                                {% endif %}
+                            </div>
+                        </td>
+                        <td class="px-6 py-5 font-semibold text-biNavy">{{ expert.courtroom_hours }} jam</td>
+                        <td class="px-6 py-5">
+                            <span class="rounded-full px-3 py-1 text-xs font-bold {{ 'bg-emerald-100 text-validGreen' if expert.status == 'Available' else 'bg-amber-100 text-amber-700' }}">{{ expert.status }}</span>
+                            <p class="mt-2 text-xs text-slate-500">{{ expert.expertise_summary }}</p>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,1979 @@
+[Halaman 1]
+BANK INDONESIA
+PERATURAN ANGGOTA DEWAN GUBERNUR INTERN
+NOMOR 26 TAHUN 2025
+TENTANG
+PELAKSANAAN STANDARDISASI KOMPETENSI DI BIDANG
+SISTEM PEMBAYARAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+ANGGOTA DEWAN GUBERNUR BANK INDONESIA,
+Menimbang : a. bahwa telah dilakukan penyelarasan ketentuan mengenai
+pengembangan dan penerapan standardisasi kompetensi
+di bidang sistem pembayaran melalui penerbitan
+Peraturan Bank Indonesia Nomor 5 Tahun 2024 tentang
+Standardisasi Kompetensi di Bidang Sistem Pembayaran;
+b. bahwa untuk efektivitas implementasi standardisasi
+kompetensi di bidang sistem pembayaran, perlu didukung
+dengan adanya peraturan pelaksanaan yang mengatur
+mengenai mekanisme pelaksanaan terkait standardisasi
+kompetensi di bidang sistem pembayaran sebagai
+pedoman satuan kerja di Bank Indonesia;
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam huruf a dan b perlu menetapkan Peraturan Anggota
+Dewan Gubernur Intern tentang Pelaksanaan
+Standardisasi Kompetensi di Bidang Sistem Pembayaran;
+Mengingat : Peraturan Bank Indonesia Nomor 5 Tahun 2024 tentang
+Standardisasi Kompetensi di Bidang Sistem Pembayaran
+(Lembaran Negara Republik Indonesia Tahun 2024 Nomor
+16/BI, Tambahan Lembaran Negara Republik Indonesia Nomor
+84/BI)
+MEMUTUSKAN:
+Menetapkan : PERATURAN ANGGOTA DEWAN GUBERNUR INTERN
+TENTANG PELAKSANAAN STANDARDISASI KOMPETENSI DI
+BIDANG SISTEM PEMBAYARAN
+Bl 100 (F4B)
+
+[Halaman 2]
+4]) BANK INDONESJA
+Halaman .2..
+BABI
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Anggota Dewan Gubernur Intern ini yang
+dimaksud dengan:
+Standardisasi Kompetensi Bidang Sistem Pembayaran
+yang selanjutnya disebut SK SP adalah penerapan standar
+kompetensi kerja nasional Indonesia dan jenjang
+kualifikasi nasional Indonesia di bidang sistem
+pembayaran.
+2. Standar Kompetensi Kerja Nasional Indonesia Bidang
+Sistem Pembayaran yang selanjutnya disebut SKKNI
+Bidang Sistem Pembayaran adalah rumusan kemampuan
+kerja bidang sistem pembayaran yang mencakup aspek
+pengetahuan, keterampilan dan/atau keahlian, serta
+sikap kerja.
+3. Kerangka Kualifikasi Nasional Indonesia Bidang Sistem
+Pembayaran yang selanjutnya disebut KKNI Bidang Sistem
+Pembayaran adalah kerangka penjenjangan kualifikasi
+kompetensi yang dapat membandingkan, menyetarakan,
+dan mengintegrasikan antara bidang pendidikan dan
+bidang pelatihan kerja serta pengalaman kerja dalam
+rangka pemberian pengakuan kompetensi kerja sesuai
+dengan struktur pekerjaan di berbagai sektor.
+4. Jenjang Kualifikasi dalam KKNI Bidang Sistem
+Pembayaran yang selanjutnya disebut Jenjang Kualifikasi
+Sistem Pembayaran adalah jenjang pencapaian
+pembelajaran bidang sistem pembayaran yang
+kedudukannya disetarakan dengan jenjang tertentu dalam
+kerangka kualifikasi nasional Indonesia sebagaimana
+dimaksud da1am ketentuan peraturan perundang-
+undangan mengenai kerangka kualifikasi nasional
+Indonesia.
+5. Pelatihan Berbasis Kompetensi Sistem Pembayaran yang
+selanjutnya disebut PBK Sistem Pembayaran adalah
+pelatihan kerja yang menitikberatkan pada penguasaan
+kemampuan kerja sesuai dengan SKKNI Bidang Sistem
+Pembayaran dan persyaratan di tempat kerja.
+6. Sertifikasi Kompetensi Sistem Pembayaran adalah proses
+pemberian sertifikat kompetensi sistem pembayaran yang
+dilakukan secara sistematis dan objektif melalui uji
+kompetensi sesuai dengan SKKNI Bidang Sistem
+Pembayaran.
+7. Sertifikat Pelatihan Berbasis Kompetensi Sistem
+Pembayaran yang selanjutnya disebut Sertifikat PBK
+Sistem Pembayaran adalah bukti tertulis yang diterbitkan
+oleh lembaga pelatihan kerja sistem pembayaran yang
+menyatakan bahwa seseorang telah kompeten sesuai
+dengan PBK Sistem Pembayaran yang diikuti.
+8. Sertifikat Kompetensi Sistem Pembayaran adalah bukti
+tertulis yang diterbitkan oleh lembaga sertifikasi profesi
+sistem pembayaran yang menerangkan bahwa seseorang
+telah menguasai kompetensi kerja tertentu di bidang
+sistem pembayaran sesuai dengan Sertifikasi Kompetensi
+Sistem Pembayaran yang diikuti.
+Bl 101 (F4B)
+
+[Halaman 3]
+([)BANK INDONESIA
+Halaman
+9. Pelaku SK SP adalah bank dan lembaga selain bank yang
+menyelenggarakan kegiatan sistem pembayaran.
+10. Bank adalah bank umum dan bank perekonomian rakyat
+sebagaimana dimaksud dalam Undang-Undang mengenai
+perbankan, termasuk kantor cabang bank asing di
+Indonesia, dan bank umum syariah, unit usaha syariah,
+dan bank perekonomian rakyat syariah sebagaimana
+dimaksud dalam Undang-Undang mengenai perbankan
+syariah.
+1 1. Lembaga Selain Bank yang selanjutnya disingkat LSB
+adalah badan usaha bukan Bank yang berbadan hukum
+dan didirikan berdasarkan hukum Indonesia.
+12. Kegiatan Sistem Pembayaran adalah kegiatan yang
+menerapkan SK SP.
+13. Satuan Kerja Operasional adalah unit kerja atau fungsi
+operasional pada struktur organisasi Pelaku SK SP yang
+melaksanakan Kegiatan Sistem Pembayaran.
+14. Sumber Daya Manusia Pelaku SK SP yang selanjutnya
+disebut SDM adalah orang dalam kelompok jenjang
+jabatan tertentu pada Satuan Kerja Operasional yang
+melaksanakan Kegiatan Sistem Pembayaran.
+15. Lembaga Pelatihan Kerja Sistem Pembayaran yang
+selanjutnya disebut LPK Sistem Pembayaran adalah
+lembaga pelatihan kerja yang telah memperoleh izin atau
+tanda daftar dari lembaga yang berwenang dan
+memperoleh pengakuan dari Bank Indonesia.
+16. Lembaga Sertifikasi Profesi Sistem Pembayaran yang
+selanjutnya disebut LSP Sistem Pembayaran adalah
+lembaga sertifikasi profesi yang telah memperoleh lisensi
+dari badan atau lembaga yang berwenang dan memperoleh
+pengakuan dari Bank Indonesia.
+17. Penyelenggara SK SP adalah pihak yang
+menyelenggarakan PBK Sistem Pembayaran dan yang
+menyelenggarakan Sertifikasi Kompetensi Sistem
+Pembayaran.
+18. Program Pelatihan Berbasis Kompetensi Sistem
+Pembayaran yang selanjutnya disebut Program PBK
+Sistem Pembayaran adalah program pelatihan Kegiatan
+Sistem Pembayaran bagi SDM yang disusun secara
+sistematis yang digunakan sebagai acuan dalam
+melaksanakan PBK Sistem Pembayaran.
+19. Skema Sertifikasi Kompetensi Sistem Pembayaran adalah
+paket kompetensi dan persyaratan spesifik sesuai dengan
+jenjang jabatan tertentu dalam Kegiatan Sistem
+Pembayaran yang digunakan sebagai acuan dalam
+melaksanakan uji Sertifikasi Kompetensi Sistem
+Pembayaran.
+20. Kementerian Ketenagakerjaan Republik Indonesia yang
+selanjutnya disingkat Kemnaker RI adalah kementerian
+yang menyelenggarakan urusan pemerintahan di bidang
+ketenagakerjaan.
+2 1. Badan Nasional Sertifikasi Profesi yang selanjutnya
+disingkat BNSP adalah lembaga yang berwenang
+melaksanakan sertifikasi kompetensi kerj a sebagaimana
+dimaksud dalam ketentuan peraturan perundang
+undangan mengenai badan nasional sertifikasi profesi.
+Bl 101 (F4B)
+
+[Halaman 4]
+dJ) BANK INDONESIA
+Halaman
+22. Pemeliharaan Kompetensi Sistem Pembayaran adalah
+proses penginian kompetensi SDM pemilik Sertifikat
+PBK Sistem Pembayaran dan Sertifikat Kompetensi
+Sistem Pembayaran.
+23. Anggota Direksi adalah direktur atau setingkat direktur
+yang membawahi Kegiatan Sistem Pembayaran.
+24. Pejabat Eksekutif adalah kelompok jenjang jabatan pada
+Pelaku SK SP yang bertanggung jawab langsung kepada
+Anggota Direksi dan/atau mempunyai pengaruh yang
+signifikan terhadap kebijakan dan/atau operasional
+Kegiatan Sistem Pembayaran.
+25. Penyelia adalah kelompok jenjang jabatan pada Satuan
+Kerja Operasional yang berada di bawah Pejabat Eksekutif
+yang melakukan supervisi atas Kegiatan Sistem
+Pembayaran yang dilakukan oleh pelaksana.
+26. Pelaksana adalah kelompok jenjang jabatan pada Satuan
+Kerja Operasiona1 yang melaksanakan Kegiatan Sistem
+Pembayaran dan berada di bawah supervisi Penyelia.
+27. Instansi Setempat adalah instansi yang bertanggung
+jawab di bidang ketenagakerjaan dan instansi yang
+menyelenggarakan kegiatan pelayanan terpadu satu pintu
+tingkat provinsi atau tingkat kabupaten/kota, yang
+berwenang dalam perizinan dan pendaftaran lembaga
+pelatihan kerja.
+28. Departemen Penyelenggaraan Sistem Pembayaran yang
+selanjutnya disingkat DPSP adalah satuan kerja yang
+melaksanakan fungsi:
+a. penyelenggaraan sistem pembayaran dan setelmen
+pasar keuangan, Pemerintah Republik Indonesia, dan
+ritel;
+b. penatausahaan surat utang yang diterbitkan
+Pemerintah Republik Indonesia dan Bank Indonesia;
+c. peningkatan interkoneksi dan interoperabilitas
+transaksi elektronik;
+d. perluasan elektronifikasi transaksi Pemerintah
+Republik Indonesia dan ritel; dan
+e. pengembangan dan monitoring implementasi
+standardisasi kompetensi di bidang sistem
+pembayaran dan pengelolaan uang rupiah.
+29. Departemen Surveilans Sistem Pembayaran dan
+Pelindungan Konsumen yang selanjutnya disebut DSPK
+adalah satuan kerja yang melaksanakan fungsi surveilans
+sistem pembayaran serta pengaturan, pemantauan, dan
+fasilitasi mediasi pelindungan konsumen.
+30. Kantor Perwakilan Bank Indonesia Dalam Negeri yang
+selanjutnya disebut KPWDN ada1ah satuan kerja yang
+melaksanakan fungsi:
+a. perumusan kebijakan ekonomi daerah;
+b. implementasi kebijakan ekonomi daerah;
+c. implementasi kebijakan sistem pembayaran,
+pengelolaan uang rupiah, dan keuangan inklusif di
+daerah;
+d. implementasi pengawasan sistem pembayaran dan
+pengelolaan uang rupiah di daerah;
+e. implementasi pengelolaan uang rupiah di daerah; dan
+f. manajemen intern.
+Bl 101 (F4B)
+
+[Halaman 5]
+(J) BANK INDONESIA Ha1aman...
+3 1. Hari Kerja adalah hari kerja Bank Indonesia, tidak
+termasuk hari yang ditetapkan Bank Indonesia untuk
+melakukan kegiatan operasional terbatas.
+BAB 11
+CAKUPAN, RUANG LINGKUP, TUGAS DAN TANGGUNG
+JAWAB SATUAN KERJA DALAM PELAKSANAAN SK SP
+Bagian Kesatu
+Cakupan SK SP dan Ruang Lingkup Pengaturan
+Pasa1 2
+(1) Pengaturan SK SP berlaku bagi Pelaku SK SP dan
+Penyelenggara SK SP.
+(2) Pelaku SK SP sebagaimana dimaksud pada ayat (1) terdiri
+atas:
+a. penyedia jasa pembayaran;
+b. penyelenggara infrastruktur sistem pembayaran;
+c. penyelenggara jasa pengolahan uang rupiah;
+d. penyelenggara kegiatan usaha penukaran valuta
+asing bukan Bank; dan
+e. Bank yang merupakan peserta sistem pembayaran
+Bank Indonesia.
+(3) Penyelenggara SK SP sebagaimana dimaksud pada ayat (1)
+terdiri atas:
+a. LPK Sistem Pembayaran; dan
+b. LSP Sistem Pembayaran.
+Pasal 3
+SK SP mencakup Kegiatan Sistem Pembayaran yang terdiri
+atas:
+a. kegiatan operasional sistem pembayaran;
+b. kegiatan operasional jasa pengolahan uang rupiah;
+c. kegiatan usaha penukaran valuta asing dan
+pembawaan uang kertas asing;
+d. kegiatan operasional setelmen transaksi tresuri dan
+pembiayaan perdagangan;
+e. kegiatan operasional sistem penatausahaan surat
+berharga; dan
+f. kegiatan operasional sistem pembayaran lainnya yang
+ditetapkan oleh Bank Indonesia.
+Pasal 4
+Ruang lingkup pengaturan Peraturan Anggota Dewan
+Gubernur Intern ini meliputi:
+a. komite standar kompetensi bidang sistem pembayaran;
+b. penyelenggaraan SK SP;
+c. pelaporan SK SP;
+d. pengawasan dan pemantauan SK SP; dan
+e. pengenaan sanksi administratif.
+Bl 101 (F4B)
+
+[Halaman 6]
+()BANK INDONESIA Halaman.6
+Bagian Kedua
+Tugas dan Tanggung Jawab Satuan Kerja dalam Pelaksanaan
+SKSP
+Pasal 5
+(1) Satuan kerja yang terlibat dalam pelaksanaan SK SP
+sebagai berikut:
+a. DPSP selaku satuan kerja yang melaksanakan fungsi
+antara lain penyelenggaraan sistem pembayaran dan
+penerapan standardisasi kompetensi di bidang sistem
+pembayaran;
+b. Departemen Kebijakan Sistem Pembayaran atau
+DKSP selaku satuan kerja yang melaksanakan fungsi
+antara lain perumusan kebijakan sistem pembayaran
+dan pengelolaan uang rupiah, dan perizinan sistem
+pembayaran;
+c. Departemen Pengelolaan Uang atau DPU selaku
+satuan kerja yang melaksanakan fungsi antara lain
+pengelolaan uang rupiah;
+d. Departemen Jasa Perbankan, Perizinan, dan
+Operasional Tresuri atau DPPT selaku satuan kerja
+yang melaksanakan fungsi antara lain
+penyelenggaraan dan pengembangan sistem layanan
+jasa perbankan, penyelesaian transaksi operasi
+moneter dan pengelolaan cadangan devisa, dan
+perizinan;
+e. Departemen Regional atau DR selaku satuan kerja
+yang melaksanakan fungsi antara lain
+operasionalisasi kebijakan utama Bank Indonesia di
+Kantor Perwakilan Bank Indonesia Dalam Negeri;
+f. DSPK selaku satuan kerja yang melaksanakan fungsi
+antara lain surveilans sistem pembayaran;
+g. KPWDN selaku satuan kerja yang melaksanakan
+fungsi antara lain implementasi pengawasan sistem
+pembayaran dan pengelolaan uang rupiah di daerah;
+h. Departemen Pengelolaan dan Kepatuhan Laporan
+atau DPKL selaku satuan kerja yang melaksanakan
+fungsi antara lain pelaporan untuk mendukung
+penyediaan informasi;
+i. Departemen Statistik atau DSta selaku satuan kerja
+yang melaksanakan fungsi antara lain penyediaan
+dan pengembangan statistik dan informasi ekonomi;
+j. Departemen Inovasi dan Digitalisasi Data atau DIDD
+selaku satuan kerja yang melaksanakan fungsi
+antara lain inovasi dan digitalisasi data kebijakan
+utama dan kelembagaan;
+k. Departemen Layanan Digital dan Keamanan Siber
+atau DLDS selaku satuan kerja yang melaksanakan
+fungsi antara lain layanan digital dan keamanan
+siber; dan
+1. Departemen Komunikasi atau DKom selaku satuan
+kerja yang melaksanakan fungsi antara lain
+komunikasi guna mendukung efektivitas kebijakan
+Bank Indonesia.
+(2) Tugas dan tanggung jawab dalam melaksanakan SK SP
+dilakukan oleh satuan kerja sebagaimana dimaksud pada
+Bl 101 (F4B)
+
+[Halaman 7]
+4T BANK INDONESIA
+Halaman .7.
+ayat (1) didasarkan pada prinsip sebagai berikut:
+a. tata kelola yang baik (good govemance);
+b. akuntabel dan transparan; dan
+c. profesional dan berintegritas,
+untuk mewujudkan penyelenggaraan SK SP yang kredibel.
+Paragraf 1
+Tugas dan Fungsi DPSP
+Pasal 6
+DPSP sebagaimana dimaksud dalam Pasa1 5 ayat (1) huruf a
+memiliki tugas dan tanggungjawab sebagai berikut:
+a. melaksanakan tugas dan fungsi komite standar
+kompetensi bidang sistem pembayaran;
+b. melakukan penyusunan ketentuan mengenai
+standardisasi kompetensi di bidang sistem pembayaran;
+c. melakukan pemantauan terhadap Penyelenggara SK SP;
+d. memproses permohonan rekomendasi dan pengakuan
+calon Penyelenggara SK SP;
+e. memproses permohonan perubahan data profil
+Penyelenggara SK SP;
+f. memproses permohonan perubahan Program PBK Sistem
+Pembayaran dari LPK Sistem Pembayaran;
+g. memproses permohonan rekomendasi dan pengakuan
+penambahan Program PBK Sistem Pembayaran dari LPK
+Sistem Pembayaran;
+h. memproses permohonan materi pelatihan PBK Sistem
+Pembayaran;
+i. memproses permohonan rekomendasi dan pengakuan
+perubahan Skema Sertifikasi Kompetensi SP dari LSP
+Sistem Pembayaran;
+j. menetapkan dan mengenakan sanksi administratif kepada
+Penyelenggara SK SP; dan
+k. menindaklanjuti pengenaan atau pencabutan sanksi
+administratif terkait kepesertaan sistem pembayaran
+Bank Indonesia, atas rekomendasi satuan kerja yang
+melaksanakan fungsi pengawasan,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Paragraf 2
+Tugas dan Fungsi DKSP
+Pasa1 7
+DKSP sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b
+memiliki tugas dan tanggungjawab sebagai berikut:
+a. mendukung penyusunan dan pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran;
+b. memberikan masukan terhadap materi PBK Sistem
+Pembayaran dan penyelenggaraan Sertifikasi Kompetensi
+Sistem Pembayaran; dan
+c. terlibat da1am keanggotaan komite standar kompetensi
+bidang sistem pembayaran,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Bl 101 (F4B)
+
+[Halaman 8]
+(J) BANK INDONESIA
+Halaman 8
+Paragraf 3
+Tugas dan Fungsi DPU
+Pasal 8
+DPU sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c
+memiliki tugas dan tanggung jawab sebagai berikut:
+a. mendukung penyusunan dan pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran;
+b. memberikan masukan terhadap materi PBK Sistem
+Pembayaran dan penyelenggaraan Sertifikasi Kompetensi
+Sistem Pembayaran; dan
+c. terlibat dalam keanggotaan komite standar kompetensi
+bidang sistem pembayaran,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Paragraf 4
+Tugas dan Fungsi DPPT
+Pasal 9
+DPPT sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d
+memiliki tugas dan tanggungjawab sebagai berikut:
+a. mendukung penyusunan dan pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran;
+b. memberikan masukan terhadap materi PBK Sistem
+Pembayaran dan penyelenggaraan Sertifikasi Kompetensi
+Sistem Pembayaran; dan
+c. terlibat dalam keanggotaan komite standar kompetensi
+bidang sistem pembayaran,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Paragraf 5
+Tugas dan Fungsi DR
+Pasal 10
+DR sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf e
+memiliki tugas dan tanggung jawab sebagai berikut:
+a. mendukung penyusunan dan pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran;
+b. memberikan masukan terhadap materi PBK Sistem
+Pembayaran dan penyelenggaraan Sertifikasi Kompetensi
+Sistem Pembayaran; dan
+c. terlibat da1am keanggotaan komite standar kompetensi
+bidang sistem pembayaran,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Paragraf 6
+Tugas dan Fungsi DSPK
+Pasa1 11
+DSPK sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf f
+memiliki tugas dan tanggung jawab sebagai berikut:
+a. melakukan pengawasan kepada Pelaku SK SP;
+b. menyediakan informasi, data, dan/atau dokumen hasil
+Bl 101 (F4B)
+
+[Halaman 9]
+()BANK INDONESIA
+Halaman .9.
+pengawasan terhadap Pelaku SK SP berdasarkan
+permintaan satuan kerja terkait;
+c. mendukung penyusunan dan pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran;
+d. melakukan pengenaan atau pencabutan sanksi
+administratif terhadap Pelaku SK SP; dan
+e. terlibat dalam keanggotaan komite standar kompetensi
+bidang sistem pembayaran,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Paragraf 7
+Tugas dan Fungsi KPWDN
+Pasal 12
+KPWDN sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf g
+memiliki tugas dan tanggungjawab sebagai berikut:
+a. melakukan pengawasan kepada Pelaku SK SP;
+b. menyediakan informasi, data, dan/atau dokumen hasil
+pengawasan terhadap Pelaku SK SP berdasarkan
+permintaan satuan kerja terkait;
+c. melakukan pengenaan atau pencabutan sanksi
+administratif terhadap Pelaku SK SP;
+d. mendukung penyusunan dan pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran; dan
+e. melakukan kegiatan terkait penerapan sistem pelaporan SK
+SP,
+sesuai dengan kewenangan yang diatur dalam ketentuan terkait.
+Paragraf 8
+Tugas dan Fungsi DPKL
+Pasal 13
+DPKL sebagaimana dimaksud dalam Pasa1 5 ayat (1) huruf h
+memiliki tugas dan tanggung jawab melakukan kegiatan terkait
+penerapan sistem pelaporan SK SP sesuai kewenangan yang
+diatur da1am ketentuan terkait.
+Paragraf 9
+Tugas dan Fungsi DSta
+Pasal 14
+DSta sebagaimana dimaksud dalam Pasa1 5 ayat (1) huruf i
+memiliki tugas dan tanggung jawab untuk melakukan kegiatan
+terkait penerapan sistem pelaporan SK SP sesuai kewenangan
+yang diatur dalam ketentuan terkait.
+Paragraf 1 O
+Tugas dan Fungsi DIDD
+Pasal 15
+DIDD sebagaimana dimaksud dalam Pasa1 5 ayat (1) huruf j
+memiliki tugas dan tanggung jawab melaksanakan fungsi
+inovasi dan digitalisasi data terkait sistem pelaporan SK SP
+sesuai kewenangan yang diatur dalam ketentuan terkait.
+Bl 101 (F4B)
+
+[Halaman 10]
+BANK INDONESIA
+Halaman 1Q
+Paragraf 1 1
+Tugas dan Fungsi DLDS
+Pasal 16
+DLDS sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf k
+memiliki tugas dan tanggung jawab melaksanakan
+pemeliharaan dan dukungan operasional terkait dengan sistem
+pelaporan SK SP sesuai kewenangan yang diatur dalam
+ketentuan terkait.
+Paragraf 1 2
+Tugas dan Fungsi DKom
+Pasal 17
+DKom sebagaimana dimaksud dalam Pasa1 5 ayat (1) huruf 1
+memiliki tugas dan tanggung jawab melakukan publikasi
+terkait SK SP dalam laman resmi Bank Indonesia sesuai
+kewenangan yang diatur dalam ketentuan terkait.
+BAB 111
+KOMITE STANDAR KOMPETENSI BIDANG
+SISTEM PEMBAYARAN
+Pasal 18
+(1) DPSP melaksanakan tugas dan fungsi standardisasi
+kompetensi bidang sistem pembayaran sebagaimana
+dimaksud dalam Pasa1 6 huruf a.
+(2) Dalam pelaksanaan tugas dan fungsi sebagaimana
+dimaksud pada ayat (1) DPSP membentuk komite standar
+kompetensi bidang sistem pembayaran.
+(3) Dalam pembentukan komite standar kompetensi bidang
+sistem pembayaran, DPSP dapat melibatkan satuan kerja
+terkait dan/atau pihak terkait.
+(4) Komite standar kompetensi bidang sistem pembayaran
+ditetapkan oleh Deputi Gubernur yang membawahi DPSP
+mela1ui surat keputusan.
+(5) Surat keputusan komite standar kompetensi bidang
+sistem pembayaran memuat antara lain struktur
+keanggotaan, tugas dan tanggung jawab komite standar
+kompetensi bidang sistem pembayaran sebagaimana
+tercantum dalam Lampiran yang merupakan bagian yang
+tidak terpisahkan dari Peraturan Anggota Dewan
+Gubernur Intern ini.
+Bl 101 (F4B)
+
+[Halaman 11]
+()BANK INDONESIA
+Halaman .1.1
+BAB IV
+PENYELENGGARAAN SK SP
+Bagian Kesatu
+LPK Sistem Pembayaran
+Paragraf 1
+Pemberian Rekomendasi kepada Calon LPK Sistem
+Pembayaran
+Pasal 19
+(1) DPSP menerima dokumen permohonan rekomendasi dari
+calon LPK Sistem Pembayaran.
+(2) Dalam memproses permohonan rekomendasi dari calon
+LPK Sistem Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh calon LPK Sistem
+Pembayaran; dan
+b. dalam hal diperlukan, dapat dilakukan kunjungan ke
+lokasi calon LPK Sistem Pembayaran untuk
+memastikan kesiapan operasiona1 ca1on LPK Sistem
+Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Da1am hal dokumen lengkap dan sesuai ketentuan,
+permohonan rekomendasi ca1on LPK Sistem Pembayaran
+dapat disetujui.
+(5) Persetujuan permohonan rekomendasi kepada ca1on LPK
+Sistem Pembayaran disampaikan mela1ui surat yang
+ditandatangani oleh Kepa1a DPSP pa1ing lambat 14 (empat
+belas) Hari Kerja setelah dokumen diterima secara lengkap
+dan sesuai ketentuan, dengan tembusan kepada Instansi
+Setempat.
+(6) Dalam hal dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan ca1on LPK Sistem
+Pembayaran untuk melengkapi dan/atau memperbaiki
+dokumen mela1ui surat yang ditandatangani pimpinan
+DPSP.
+(7) Calon LPK Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(6) da1am jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tangga1 pemberitahuan.
+(8) Dalam ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (7) ca1on LPK Sistem Pembayaran
+belum melengkapi dan/atau memperbaiki dokumen, ca1on
+LPK Sistem Pembayaran dianggap membata1kan
+permohonan rekomendasi.
+Paragraf 2
+Pemberian Pengakuan sebagai LPK Sistem Pembayaran
+Pasal 20
+(1) DPSP menerima dokumen permohonan pengakuan dari
+ca1on LPK Sistem Pembayaran.
+(2) Da1am memproses permohonan pengakuan dari ca1on LPK
+Sistem Pembayaran, DPSP melakukan:
+Bl 101 (F4B)
+
+[Halaman 12]
+(J) BANK INDONESIA
+Halaman .1.2.
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh calon LPK Sistem
+Pembayaran; dan
+b. dalam hal diperlukan, dapat dilakukan kunjungan ke
+lokasi calon LPK Sistem Pembayaran untuk
+memastikan kesiapan operasional calon LPK Sistem
+Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Dalam ha1 dokumen lengkap dan sesuai ketentuan,
+permohonan pengakuan dari ca1on LPK Sistem
+Pembayaran dapat disetujui, DPSP melakukan ha1-ha1
+sebagai berikut:
+a. menyampaikan surat persetujuan pengakuan kepada
+ca1on LPK Sistem Pembayaran yang ditandatangani
+oleh Kepa1a DPSP pa1ing lambat 14 (empat belas) Hari
+Kerja setelah dokumen diterima secara lengkap dan
+sesuai ketentuan; dan
+b. menyampaikan memorandum kepada DKom untuk
+memublikasikan LPK Sistem Pembayaran da1am
+laman resmi Bank Indonesia.
+(5) Da1am ha1 dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan ca1on LPK Sistem
+Pembayaran untuk melengkapi dan/atau memperbaiki
+dokumen mela1ui surat yang ditandatangani pimpinan
+DPSP.
+(6) Ca1on LPK Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(5) dalam jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tangga1 pemberitahuan.
+(7) Da1am ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (6) ca1on LPK Sistem Pembayaran
+belum melengkapi dan/atau memperbaiki dokumen, ca1on
+LPK Sistem Pembayaran dianggap membata1kan
+permohonan pengakuan sebagai LPK Sistem Pembayaran.
+Pasal 21
+(1) Da1am hal terdapat perubahan status badan hukum LPK
+Sistem Pembayaran, LPK Sistem Pembayaran harus
+mengajukan kembali permohonan pembentukan LPK
+Sistem Pembayaran kepada Bank Indonesia.
+(2) DPSP memproses permohonan pembentukan LPK Sistem
+Pembayaran sebagaimana dimaksud da1am Pasa1 19 dan
+Pasa1 20.
+Paragraf 3
+Perubahan Program PBK Sistem Pembayaran
+Pasal 22
+(1) DPSP menerima laporan perubahan Program PBK Sistem
+Pembayaran dari LPK Sistem Pembayaran yang melakukan
+perubahan Program PBK Sistem Pembayaran dilengkapi
+dengan dokumen persyaratan.
+(2) Daiam memproses laporan perubahan Program PBK Sistem
+Pembayaran, DPSP melakukan penelitian administratif.
+Bl 101 (F4B)
+
+[Halaman 13]
+BANK INDONESIA
+Halamanl.3.
+(3) Dalam hal penyampaian laporan perubahan Program PBK
+Sistem Pembayaran tidak sesuai ketentuan SK SP, DPSP
+melakukan langkah-langkah pengenaan sanksi.
+Paragraf 4
+Pemberian Rekomendasi Penambahan Program PBK Sistem
+Pembayaran kepada LPK Sistem Pembayaran
+Pasal 23
+(1) DPSP menerima dokumen permohonan rekomendasi
+penambahan Program PBK Sistem Pembayaran dari LPK
+Sistem Pembayaran.
+(2) Dalam memproses permohonan rekomendasi
+penambahan Program PBK Sistem Pembayaran dari LPK
+Sistem Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh LPK Sistem
+Pembayaran; dan
+b. da1am ha1 diperlukan, dapat dilakukan kunjungan ke
+lokasi LPK Sistem Pembayaran untuk memastikan
+kesiapan operasiona1 LPK Sistem Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Dalam hal dokumen lengkap dan sesuai ketentuan,
+permohonan rekomendasi penambahan Program PBK
+Sistem Pembayaran dari LPK Sistem Pembayaran dapat
+disetujui.
+(5) Persetujuan permohonan rekomendasi penambahan
+Program PBK Sistem Pembayaran kepada LPK Sistem
+Pembayaran disampaikan mela1ui surat yang
+ditandatangani oleh Kepa1a DPSP pa1ing lambat 14 (empat
+belas) Hari Kerja setelah dokumen diterima secara lengkap
+dan sesuai ketentuan, dengan tembusan kepada Instansi
+Setempat.
+(6) Da1am hal dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan LPK Sistem
+Pembayaran untuk melengkapi dan/atau memperbaiki
+dokumen mela1ui surat yang ditandatangani pimpinan
+DPSP.
+(7) LPK Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(6) dalam jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tangga1 pemberitahuan.
+(8) Da1am ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (7) LPK Sistem Pembayaran belum
+melengkapi dan/atau memperbaiki dokumen, LPK Sistem
+Pembayaran dianggap membata1kan permohonan
+rekomendasi penambahan Program PBK Sistem
+Pembayaran.
+Bl 101 (F4B)
+
+[Halaman 14]
+BANK INDONESIA
+Halaman 1.
+Paragraf 5
+Pemberian Pengakuan Penambahan Program PBK Sistem
+Pembayaran
+Pasal 24
+(1) DPSP menerima dokumen permohonan pengakuan
+penambahan Program PBK Sistem Pembayaran dari LPK
+Sistem Pembayaran.
+(2) Dalam memproses permohonan pengakuan penambahan
+Program PBK Sistem Pembayaran dari LPK Sistem
+Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh calon LPK Sistem
+Pembayaran; dan
+b. dalam hal diperlukan, dapat dilakukan kunjungan ke
+lokasi LPK Sistem Pembayaran untuk memastikan
+kesiapan operasional LPK Sistem Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Da1am hal dokumen lengkap dan sesuai ketentuan,
+permohonan pengakuan penambahan Program PBK Sistem
+Pembayaran dari LPK Sistem Pembayaran dapat disetujui,
+DPSP melakukan ha1-ha1 sebagai berikut:
+a. menyampaikan surat persetujuan pengakuan kepada
+LPK Sistem Pembayaran yang ditandatangani oleh
+Kepa1a DPSP paling lambat 14 (empat belas) Hari Kerja
+setelah dokumen diterima secara lengkap dan sesuai
+ketentuan; dan
+b. menyampaikan memorandum kepada DKom untuk
+memublikasikan LPK Sistem Pembayaran da1am
+laman resmi Bank Indonesia.
+(5) Da1am ha1 dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan LPK Sistem Pembayaran
+untuk melengkapi dan/atau memperbaiki dokumen
+melalui surat yang ditandatangani pimpinan DPSP.
+(6) LPK Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(5) da1am jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tanggal pemberitahuan.
+(7) Da1am ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (6) LPK Sistem Pembayaran belum
+melengkapi dan/atau memperbaiki dokumen, LPK Sistem
+Pembayaran dianggap membatalkan permohonan
+pengakuan penambahan Program PBK Sistem Pembayaran.
+Paragraf 6
+Perubahan Data Profil LPK Sistem Pembayaran
+Pasal 25
+(1) DPSP menerima laporan perubahan data profil dari LPK
+Sistem Pembayaran dengan dilengkapi dokumen
+perubahan data profil.
+(2) Da1am memproses laporan perubahan data profil dari LPK
+Sistem Pembayaran, DPSP melakukan penelitian
+administratif terhadap:
+Bl 101 (F4B)
+
+[Halaman 15]
+()BANK INDONESJA
+Ha1aman1.
+a. pemenuhan batas waktu penyampaian laporan; dan
+b. kelengkapan dan kesesuaian dokumen.
+(3) Dalam hal dokumen lengkap dan sesuai ketentuan, DPSP
+melakukan hal-hal sebagai berikut:
+a. melakukan penginian data profil LPK Sistem
+Pembayaran; dan
+b. dalam hal perubahan mencakup data korespondensi,
+menyampaikan memorandum kepada DKom
+mengenai perubahan data profil LPK Sistem
+Pembayaran yang ditandatangani oleh pimpinan
+DPSP.
+(4) Da1am hal dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP menyampaikan informasi kepada LPK
+Sistem Pembayaran melalui surat yang ditandatangani oleh
+pimpinan DPSP untuk melengkapi dan/atau memperbaiki
+dokumen.
+Paragraf 7
+Persetujuan Materi Pelatihan PBK Sistem Pembayaran
+Pasal 26
+(1) DPSP menerima dokumen permohonan persetujuan materi
+pelatihan PBK Sistem Pembayaran dari forum LPK Sistem
+Pembayaran.
+(2) Da1am memproses permohonan persetujuan materi
+pelatihan PBK Sistem Pembayaran, DPSP melakukan
+penelitian terhadap kesesuaian materi pelatihan.
+(3) Da1am melakukan penelitian terhadap kesesuaian materi
+pelatihan PBK Sistem Pembayaran, DPSP dapat meminta
+masukan dari satuan kerja terkait.
+(4) Da1am ha1 materi pelatihan PBK Sistem Pembayaran sesuai
+ketentuan, DPSP menyampaikan surat persetujuan materi
+pelatihan PBK Sistem Pembayaran kepada forum LPK
+Sistem Pembayaran yang ditandatangani oleh Kepa1a DPSP.
+(5) Da1am ha1 materi pelatihan PBK Sistem Pembayaran tidak
+sesuai ketentuan, DPSP menyampaikan informasi kepada
+forum LPK Sistem Pembayaran mela1ui surat yang
+ditandatangani oleh pimpinan DPSP untuk memperbaiki
+materi pelatihan PBK Sistem Pembayaran.
+Bagian Kedua
+LSP Sistem Pembayaran
+Paragraf 1
+Pemberian Rekomendasi kepada Calon LSP Sistem
+Pembayaran
+Pasal 27
+(1) DPSP menerima dokumen permohonan rekomendasi dari
+ca1on LSP Sistem Pembayaran.
+(2) Da1am memproses permohonan rekomendasi dari calon
+LSP Sistem Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh ca1on LSP Sistem
+Pembayaran; dan
+Bl 101 (F4B)
+
+[Halaman 16]
+OBANK INDONESIA
+Halaman 16
+b. dalam hal diperlukan, dapat dilakukan kunjungan ke
+lokasi calon LSP Sistem Pembayaran untuk
+memastikan kesiapan operasional calon LSP Sistem
+Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Da1am hal dokumen lengkap dan sesuai ketentuan,
+permohonan rekomendasi ca1on LSP Sistem Pembayaran
+dapat disetujui.
+(5) Persetujuan permohonan rekomendasi kepada ca1on LSP
+Sistem Pembayaran disampa1kan mela1ui surat yang
+ditandatangani oleh Kepa1a DPSP paling lambat 14 (empat
+belas) Hari Kerja setelah dokumen diterima secara lengkap
+dan sesuai ketentuan, dengan tembusan kepada BNSP.
+(6) Da1am ha1 dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan ca1on LSP Sistem
+Pembayaran untuk melengkapi dan/atau memperbaiki
+dokumen mela1ui surat yang ditandatangani pimpinan
+DPSP.
+(7) Calon LSP Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(6) da1am jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tanggal pemberitahuan.
+(8) Dalam ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (7) ca1on LSP Sistem Pembayaran
+belum melengkapi dan/ atau memperbaiki dokumen, ca1on
+LSP Sistem Pembayaran dianggap membata1kan
+permohonan rekomendasi.
+Paragraf 2
+Pemberian Pengakuan sebagai LSP Sistem Pembayaran
+Pasal 28
+(1) DPSP menerima dokumen permohonan pengakuan dari
+ca1on LSP Sistem Pembayaran.
+(2) Da1am memproses permohonan pengakuan dari ca1on LSP
+Sistem Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh calon LSP Sistem
+Pembayaran; dan
+b. da1am ha1 diperlukan, dapat dilakukan kunjungan ke
+lokasi ca1on LSP Sistem Pembayaran untuk
+memastikan kesiapan operasiona1 ca1on LSP Sistem
+Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Dalam hal dokumen lengkap dan sesuai ketentuan,
+permohonan pengakuan dari ca1on LSP Sistem Pembayaran
+dapat disetujui, DPSP melakukan hal-ha1 sebagai berikut:
+a. menyampaikan surat persetujuan pengakuan kepada
+ca1on LSP Sistem Pembayaran yang ditandatangani
+oleh Kepa1a DPSP paling lambat 14 (empat belas) Hari
+Kerja setelah dokumen diterima secara lengkap dan
+sesuai ketentuan; dan
+b. menyampaikan memorandum kepada DKom untuk
+memublikasikan LSP Sistem Pembayaran dalam
+Bl 101 (F4B)
+
+[Halaman 17]
+()BANK INDONESIA
+Ha1aman1
+laman resmi Bank Indonesia.
+(5) Dalam hal dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan calon LSP Sistem
+Pembayaran untuk melengkapi dan/atau memperbaiki
+dokumen melalui surat yang ditandatangani oleh pimpinan
+DPSP.
+(6) Calon LSP Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(5) dalam jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tanggal pemberitahuan.
+(7) Da1am ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (6) ca1on LSP Sistem Pembayaran
+belum melengkapi dan/atau memperbaiki dokumen, ca1on
+LSP Sistem Pembayaran dianggap membata1kan
+permohonan pengakuan sebagai LSP Sistem Pembayaran.
+Paragraf 3
+Pemberian Rekomendasi Perubahan Skema Sertifikasi
+Kompetensi Sistem Pembayaran kepada LSP Sistem
+Pembayaran
+Pasal 29
+(1) DPSP menerima dokumen permohonan rekomendasi
+perubahan Skema Sertifikasi Kompetensi Sistem
+Pembayaran dari LSP Sistem Pembayaran.
+(2) Da1am memproses permohonan rekomendasi perubahan
+Skema Sertifikasi Kompetensi Sistem Pembayaran dari LSP
+Sistem Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh LSP Sistem
+Pembayaran; dan
+b. dalam ha1 diperlukan, dapat dilakukan kunjungan ke
+lokasi LSP Sistem Pembayaran untuk memastikan
+kesiapan operasiona1 LSP Sistem Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Dalam hal dokumen lengkap dan sesuai ketentuan,
+permohonan rekomendasi perubahan Skema Sertifikasi
+Kompetensi Sistem Pembayaran dari LSP Sistem
+Pembayaran dapat disetujui.
+(5) Persetujuan permohonan rekomendasi perubahan Skema
+Sertifikasi Kompetensi Sistem Pembayaran kepada LSP
+Sistem Pembayaran disampaikan mela1ui surat yang
+ditandatangani oleh Kepa1a DPSP paling lambat 14 (empat
+belas) Hari Kerja setelah dokumen diterima secara lengkap
+dan sesuai ketentuan, dengan tembusan kepada BNSP.
+(6) Da1am ha1 dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan LSP Sistem Pembayaran
+untuk melengkapi dan/atau memperbaiki dokumen
+mela1ui surat yang ditandatangani pimpinan DPSP.
+(7) LSP Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(6) da1am jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tangga1 pemberitahuan.
+(8) Da1am ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (7) LSP Sistem Pembayaran belum
+Bl 101 (F4B)
+121;
+
+[Halaman 18]
+(J BANK INDONESIA
+Halamanl.&
+melengkapi dan/atau memperbaiki dokumen, LSP Sistem
+Pembayaran dianggap membatalkan permohonan
+rekomendasi perubahan Skema Sertifikasi Kompetensi
+Sistem Pembayaran.
+Paragraf 4
+Pemberian Pengakuan Perubahan Skema Sertifikasi
+Kompetensi Sistem Pembayaran
+Pasal 30
+(1) DPSP menerima dokumen permohonan pengakuan
+perubahan Skema Sertifikasi Kompetensi Sistem
+Pembayaran dari LSP Sistem Pembayaran.
+(2) Dalam memproses permohonan pengakuan perubahan
+Skema Sertifikasi Kompetensi Sistem Pembayaran dari LSP
+Sistem Pembayaran, DPSP melakukan:
+a. penelitian administratif terhadap pemenuhan
+persyaratan yang disampaikan oleh LSP Sistem
+Pembayaran; dan
+b. dalam hal diperlukan, dapat dilakukan kunjungan ke
+lokasi LSP Sistem Pembayaran untuk memastikan
+kesiapan operasiona1 LSP Sistem Pembayaran.
+(3) Penelitian administratif meliputi penelitian terhadap
+kelengkapan dan kesesuaian dokumen persyaratan.
+(4) Dalam hal dokumen lengkap dan sesuai ketentuan,
+permohonan pengakuan perubahan Skema Sertifikasi
+Kompetensi Sistem Pembayaran dari LSP Sistem
+Pembayaran dapat disetujui, DPSP melakukan ha1-ha1
+sebagai berikut:
+a. menyampaikan surat persetujuan pengakuan kepada
+LSP Sistem Pembayaran yang ditandatangani oleh
+Kepa1a DPSP pa1ing lambat 14 (empat belas) Hari Kerja
+setelah dokumen diterima secara lengkap dan sesuai
+ketentuan; dan
+b. menyampaikan memorandum kepada DKom untuk
+memublikasikan LSP Sistem Pembayaran da1am
+laman resmi Bank Indonesia.
+(5) Da1am ha1 dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP memberitahukan LSP Sistem Pembayaran
+untuk melengkapi dan/atau memperbaiki dokumen
+mela1ui surat yang ditandatangani pimpinan DPSP.
+(6) LSP Sistem Pembayaran harus melengkapi dan/atau
+memperbaiki dokumen sebagaimana dimaksud pada ayat
+(5) da1am jangka waktu 14 (empat belas) Hari Kerja
+terhitung sejak tangga1 pemberitahuan.
+(7) Da1am ha1 sampai dengan jangka waktu sebagaimana
+dimaksud pada ayat (6) LSP Sistem Pembayaran belum
+melengkapi dan/atau memperbaiki dokumen, LSP Sistem
+Pembayaran dianggap membatalkan permohonan
+pengakuan perubahan Skema Sertifikasi Kompetensi
+Sistem Pembayaran.
+Bl 101 (F4B)
+
+[Halaman 19]
+BANK INDONESIA
+Halaman i9
+Paragraf 5
+Perubahan Data Profil LSP Sistem Pembayaran
+Pasal 31
+(1) DPSP menerima laporan perubahan data profil dari LSP
+Sistem Pembayaran dengan dilengkapi dokumen
+perubahan data profil.
+(2) Dalam memproses laporan perubahan data profil dari LSP
+Sistem Pembayaran, DPSP penelitian administratif
+terhadap:
+a. pemenuhan batas waktu penyampaian laporan; dan
+b. kelengkapan dan kesesuaian dokumen.
+(3) Dalam hal dokumen lengkap dan sesuai ketentuan, DPSP
+melakukan ha1-ha1 sebagai berikut:
+a. melakukan penginian data profil LSP Sistem
+Pembayaran; dan
+b. dalam hal perubahan mencakup data korespondensi,
+menyampaikan memorandum kepada DKom
+mengenai perubahan data profil LSP Sistem
+Pembayaran yang ditandatangani oleh pimpinan
+DPSP.
+(4) Da1am hal dokumen tidak lengkap dan/atau tidak sesuai
+ketentuan, DPSP menyampaikan informasi kepada LSP
+Sistem Pembayaran mela1ui surat yang ditandatangani oleh
+pimpinan DPSP untuk melengkapi dan/atau memperbaiki
+dokumen.
+BABV
+PELAPORAN SK SP
+Pasal 32
+Laporan SK SP diterima oleh Bank Indonesia secara:
+a. Luring da1am format laporan sebagaimana tercantum
+da1am lampiran Peraturan Anggota Dewan Gubernur
+tentang Pelaksanaan SK SP; dan/atau
+b. Daring da1am format dan definisi yang seragam sesuai
+dengan metadata yang ditetapkan oleh Bank Indonesia.
+Bagian Kesatu
+Pelaporan oleh Pelaku SK SP
+Pasal 33
+(1) KPWDN menerima laporan SK SP yang disampaikan secara
+luring sebagaimana dimaksud da1am Pasa1 32 huruf a dari
+Pelaku SK SP berupa LSB:
+a. penyelenggara kegiatan usaha penukaran va1uta asing
+bukan Bank;
+b. penyedia jasa pembayaran bukan Bank yang
+menyelenggarakan kegiatan pengelolaan transfer
+dana; dan
+c. penyelenggara jasa pengolahan uang rupiah yang
+berkantor pusat di luar wilayah kerja Kantor Pusat
+Bank Indonesia,
+sesuai dengan wilayah kerja sebagaimana tercantum da1am
+Lampiran XVI Peraturan Anggota Dewan Gubernur Nomor
+Bl 101 (F4B)
+
+[Halaman 20]
+BANK INDONESIA
+Ha1arnan.Q
+17 Tahun 2024 tentang Pelaksanaan SK SP.
+(2) DSPK menerima laporan SK SP yang disampaikan secara
+luring sebagaimana dimaksud dalam Pasal 32 huruf a dari
+Pelaku SK SP berupa:
+a. Bank; dan
+b. LSB selain pihak sebagaimana dimaksud pada ayat
+(1).
+(3) Batas waktu laporan insidental yang diperlukan oleh Bank
+Indonesia ditetapkan oleh DSPK atau KPWDN.
+(4) Penerimaan laporan SK SP dari Pelaku SK SP secara daring
+sebagaimana dimaksud dalam Pasal 32 huruf b mengikuti
+ketentuan mengenai pelaporan SK SP.
+Bagian Kedua
+Pelaporan oleh LPK Sistem Pembayaran
+Pasal 34
+(1) DPSP menerima laporan SK SP yang disampaikan secara
+luring sebagaimana dimaksud dalam Pasa1 32 huruf a dari
+LPK Sistem Pembayaran.
+(2) Penerimaan laporan SK SP dari LPK Sistem Pembayaran
+secara daring sebagaimana dimaksud dalam Pasal 32 huruf
+b mengikuti ketentuan mengenai pelaporan SK SP.
+Bagian Kedua
+Pelaporan oleh LSP Sistem Pembayaran
+Pasal 35
+(1) DPSP menerima laporan SK SP yang disampaikan secara
+luring sebagaimana dimaksud dalam Pasa1 32 huruf a dari
+LSP Sistem Pembayaran.
+(2) Penerimaan laporan SK SP dari LSP Sistem Pembayaran
+secara daring sebagaimana dimaksud dalam Pasal 32 huruf
+b mengikuti ketentuan mengenai pelaporan SK SP.
+BAB VI
+PENGAWASAN DAN PEMANTAUAN SK SP
+Bagian Kesatu
+Pengawasan terhadap Pelaku SK SP
+Pasa1 36
+(1) Pengawasan terhadap Pelaku SK SP dilaksanakan oleh
+DSPK atau KPWDN sesuai dengan kewenangan yang diatur
+dalam ketentuan terkait.
+(2) Pengawasan terhadap Pelaku SK SP dilaksanakan untuk
+memastikan kepatuhan dan pemenuhan kewajiban Pelaku
+SK SP terhadap ketentuan Bank Indonesia yang mengatur
+mengenai SK SP.
+(3) Pengawasan terhadap Pelaku SK SP meliputi:
+a. pengawasan tidak langsung; dan
+b. pengawasan langsung.
+(4) Dalam melaksanakan pengawasan, DSPK atau KPWDN
+dapat meminta dokumen, data, informasi, keterangan,
+dan/atau penjelasan dari Pelaku SK SP.
+Bl 101 (F4B)
+t,
+
+[Halaman 21]
+(J) BANK INDONESJA
+Halaman2.
+(5) Pelaksanaan pengawasan terhadap Pelaku SK SP mengacu
+pada ketentuan mengenai pengawasan Pelaku SK SP.
+Pasal 37
+(1) Pengawasan tidak langsung sebagaimana dimaksud
+dalam Pasal 36 ayat (3) huruf a dilakukan melalui
+penelitian administratif atas laporan yang diterima dari
+Pelaku SK SP.
+(2) Penelitian administratif sebagaimana dimaksud pada
+ayat (1) dilakukan oleh DSPK atau KPWDN.
+(3) Penelitian administratif laporan meliputi:
+a. pemenuhan batas waktu penyampaian laporan; dan
+b. kelengkapan dan kesesuaian isi laporan.
+(4) Dalam hal terdapat ketidaksesuaian isi laporan, DSPK
+atau KPWDN memberitahukan kepada Pelaku SK SP
+untuk melengkapi dan/atau memperbaiki laporan.
+(5) Pemberitahuan sebagaimana dimaksud pada ayat (4),
+paling sedikit memuat:
+a. informasi mengenai ketidaksesuaian isi laporan;
+dan
+b. jangka waktu untuk melengkapi dan/atau
+memperbaiki laporan sebagaimana diatur dalam
+Peraturan Anggota Dewan Gubernur tentang
+Pelaksanaan SK SP.
+(6) Dalam melakukan penelitian administratif, DSPK atau
+KPWDN dapat meminta informasi dan/atau
+berkoordinasi dengan satuan kerja terkait atau pihak
+lainnya.
+(7) Dalam hal berdasarkan penelitian administratif laporan
+Pelaku SK SP ditemukan pelanggaran, DSPK atau
+KPWDN melakukan langkah-langkah pengenaan sanksi
+administratif.
+Pasal 38
+(1) Pengawasan langsung sebagaimana dimaksud dalam Pasa1
+36 ayat (3) huruf b dilaksanakan mela1ui pemeriksaan
+terhadap Pelaku SK SP.
+(2) Dalam pengawasan langsung, DSPK dan/atau KPWDN
+dapat menugaskan pihak lain untuk dan atas nama Bank
+Indonesia.
+(3) Dalam ha1 tugas pelaksanaan pengawasan langsung
+dilaksanakan oleh pihak lain, mengacu pada ketentuan
+terkait.
+Bagian Kedua
+Pemantauan terhadap Penyelenggara SK SP
+Pasal 39
+(1) Pemantauan terhadap Penyelenggara SK SP dilaksanakan
+oleh DPSP sesuai dengan kewenangan yang diatur da1am
+ketentuan terkait.
+(2) Pemantauan terhadap Penyelenggara SK SP dilaksanakan
+untuk memastikan kepatuhan dan pemenuhan kewajiban
+Penyelenggara SK SP terhadap ketentuan Bank Indonesia
+yang mengatur mengenai SK SP.
+(3) Pemantauan terhadap Penyelenggara SK SP dilakukan
+Bl 101 (F4B)
+
+[Halaman 22]
+4]) BANK INDONESIA
+Ha1aman2.
+melalui penelitian administratif atas laporan yang
+disampaikan Penyelenggara SK SP, dan apabila diperlukan
+dapat dilakukan kunjungan ke lokasi Penyelenggara SK SP.
+(4) Pemantauan terhadap Penyelenggara SK SP meliputi aspek:
+a. kelembagaan;
+b. perangkat;
+c. sarana dan prasarana; dan
+d. data dan informasi.
+(5) Dalam melakukan pemantauan, DPSP dapat
+dokumen, data, informasi, keterangan,
+penjelasan dari Penyelenggara SK SP.
+(6) Dalam melaksanakan pemantauan terhadap Penyelenggara
+SK SP, DPSP dapat menugaskan pihak lain yang ditunjuk
+untuk dan atas nama Bank Indonesia.
+(7) Penugasan pihak lain yang ditunjuk dalam pelaksanaan
+pemantauan terhadap Penyelenggara SK SP dilakukan
+berdasarkan persetujuan Kepa1a DPSP.
+(8) Pihak lain yang ditugaskan untuk melaksanakan
+pemantauan terhadap Penyelenggara SK SP harus
+melakukan hal berikut:
+a. melaporkan hasil pemantauan kepada Bank
+Indonesia setelah pelaksanaan pemantauan; dan
+b. menjaga kerahasiaan data, informasi, dan/atau
+keterangan yang diperoleh dari hasil pemantauan.
+(9) Da1am ha1 tugas pemantauan dilaksanakan oleh pihak lain,
+mengacu pada ketentuan terkait.
+(10) Pelaksanaan pemantauan terhadap Penyelenggara SK SP
+mengacu pada pedoman pemantauan Penyelenggara SK SP.
+BAB VII
+PENGENAAN SANKSI ADMINISTRATIF
+Bagian Kesatu
+Pengenaan Sanksi Administratif terhadap Pelaku SK SP
+Paragraf 1
+Jenis Sanksi Administratif
+Pasal 40
+(1) Pelaku SK SP yang melanggar ketentuan SK SP dikenakan
+sanksi administratif.
+(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
+berupa:
+a.
+b.
+teguran tertulis;
+penundaan pemberian perizinan, persetujuan
+pengembangan aktivitas, produk, dan keija sama
+da1am Kegiatan Sistem Pembayaran, dan/atau
+penundaan kepesertaan sistem pembayaran Bank
+Indonesia.
+c. penghentian sementara, sebagian atau seluruh
+Kegiatan Sistem Pembayaran termasuk pelaksanaan
+kerja sama; dan/atau
+d. pencabutan izin sebagai penyedia jasa pembayaran,
+pencabutan penetapan sebagai penyelenggara
+infrastruktur sistem pembayaran, pencabutan izin
+penyelenggara jasa pengolahan uang rupiah atau
+meminta
+dan/atau
+Bl 101 (F4B)
+
+[Halaman 23]
+4]) BANK INDONESIA
+Halaman 23
+pencabutan izin penyelenggara kegiatan usaha
+penukaran valuta asing bukan Bank.
+Paragraf 2
+Tata Cara Pengenaan Sanksi Administratif
+Pasal 4 1
+(1) DSPK atau KPWDN melakukan pengenaan sanksi
+administratif terhadap Pelaku SK SP yang melanggar
+ketentuan SK SP dengan tahapan:
+a. mengumpulkan dokumen pendukung dan analisis
+pelanggaran;
+b. mengusulkan pengenaan sanksi administratif; dan
+c. melaksanakan pengenaan sanksi administratif.
+(2) DSPK atau KPWDN mengusulkan pengenaan sanksi
+administratif sebagaimana dimaksud pada ayat (1) huruf
+b melalui memorandum kepada pimpinan DSPK atau
+KPWDN yang mencakup usulan jenis sanksi
+administratifyang akan dikenakan kepada Pelaku SK SP
+yang melanggar ketentuan SK SP sebagaimana
+dimaksud da1am Pasa1 40 ayat (2).
+(3) Dalam menetapkan usulan pengenaan sanksi administratif
+sebagaimana dimaksud pada ayat (2), mempertimbangkan:
+a. tingkat kesalahan dan/atau pelanggaran;
+b. akibat yang ditimbulkan; dan/atau
+c. aspek lainnya.
+Pasal 42
+(1) DSPK atau KPWDN mengenakan sanksi administratif
+sebagaimana dimaksud dalam Pasa1 4 1 ayat (1) huruf c
+berdasarkan persetujuan pimpinan DSPK atau KPWDN.
+(2) DSPK atau KPWDN dapat menginformasikan kepada
+satuan kerja terkait atas sanksi administratif yang
+diberikan kepada Pelaku SK SP.
+(3) Tata cara pengenaan sanksi diatur da1am ketentuan terkait
+dengan pengawasan dan ketentuan terkait lainnya.
+Pasal 43
+Mekanisme pengenaan sanksi administratif atas pelanggaran
+kewajiban pelaporan bagi Pelaku SK SP secara daring, dilakukan
+sesuai dengan Peraturan Anggota Dewan Gubernur Intern yang
+mengatur mengenai pelaporan SK SP.
+Paragraf 3
+Tata Cara Penghentian Sanksi Administratif
+Pasal 44
+(1) Da1am hal Pelaku SK SP telah menindaklanjuti hasil
+pengawasan dari pengenaan sanksi, DSPK atau KPWDN
+dapat menghentikan masa pengenaan sanksi administratif.
+(2) Penghentian sanksi administratif dilakukan berdasarkan
+persetujuan pimpinan DSPK atau KPWDN.
+(3) Penghentian masa pengenaan sanksi administratif
+disampaikan kepada Pelaku SK SP melalui surat yang
+ditandatangani oleh pimpinan DSPK atau KPWDN.
+Bl 101 (F4B)
+
+[Halaman 24]
+BANK INDONESIA
+Ha1aman4.
+(4) Surat penghentian masa pengenaan sanksi administratif
+kepada Pelaku SK SP disampaikan secara tertulis kepada
+satuan keija atau unit kerja terkait untuk ditindaklanjuti
+sesuai kewenangan.
+Bagian Kedua
+Pengenaan Sanksi Administratif terhadap
+Penyelenggara SK SP
+Paragraf 1
+Jenis Sanksi Administratif
+Pasal 45
+(1) DPSP mengenakan sanksi administratif kepada
+Penyelenggara SK SP atas pelanggaran ketentuan SK SP.
+(2) Sanksi administratif sebagaimana dimaksud pada ayat (1)
+berupa:
+a. teguran tertulis;
+b. pembekuan sebagai Penyelenggara SK SP yang diakui
+Bank Indonesia; dan/atau
+c. pencabutan sebagai Penyelenggara SK SP yang diakui
+Bank Indonesia.
+Paragraf 2
+Tata Cara Pengenaan Sanksi Administratif
+Pasal 46
+DPSP melakukan pengenaan sanksi administratif kepada
+Penyelenggara SK SP yang melanggar ketentuan SK SP dengan
+mekanisme sebagai berikut:
+a. mengumpulkan dokumen pendukung dan analisis
+pelanggaran;
+b. mengusulkan pengenaan sanksi administratif; dan
+c. melaksanakan pengenaan sanksi administratif.
+Pasal 47
+(1) DPSP melakukan pengumpulan dokumen pendukung dan
+analisis pelanggaran sebagaimana dimaksud dalam Pasal
+46 huruf a berdasarkan informasi yang berasal dari antara
+lain hasil pemantauan, laporan dari satuan kerja terkait,
+dan/atau informasi dari instansi atau otoritas terkait.
+(2) Dalam hal diperlukan, DPSP dapat meminta konfirmasi
+dan dokumen serta keterangan dari Penyelenggara SK SP
+dan/atau pihak terkait lainnya.
+Pasal 48
+(1) DPSP mengusulkan pengenaan sanksi administratif
+sebagaimana dimaksud dalam Pasal 46 huruf b melaiui
+memorandum kepada Kepa1a DPSP.
+(2) Dalam menetapkan usulan pengenaan sanksi
+administratif, mempertimbangkan:
+a. tingkat kesalahan dan/atau pelanggaran;
+b. akibat yang ditimbulkan; dan/atau
+c. aspek lainnya.
+Bl 101 (F4B)
+
+[Halaman 25]
+BANK INDONESIA
+Ha1aman.
+Pasal 49
+(1) DPSP mengenakan sanksi administratif sebagaimana
+dimaksud dalam Pasal 46 huruf c berdasarkan persetujuan
+Kepala DPSP.
+(2) Pengenaan sanksi administratif dilakukan melalui
+penyampaian surat kepada Penyelenggara SK SP yang
+pa1ing sedikit memuat informasi sebagai berikut:
+a. jenis pelanggaran;
+b. jenis sanksi administratif;
+c. periode pengenaan sanksi, dalam ha1 sanksi
+administratif berupa pembekuan dari daftar
+Penyelenggara SK SP; dan/atau
+d. tanggal efektif pengenaan sanksi, da1am ha1 sanksi
+administratif berupa pencabutan dari daftar
+Penyelenggara SK SP.
+Pasa1 50
+(1) Da1am ha1 sanksi administratif kepada Penyelenggara SK
+Sp berupa pembekuan atau pencabutan dari daftar
+Penyelenggara SK SP, DPSP menyampaikan memorandum
+kepada DKom mengenai publikasi penginian status
+Penyelenggara SK SP.
+(2) Da1am ha1 diperlukan, DPSP dapat menyampaikan surat
+pemberitahuan pengenaan sanksi pembekuan atau
+pencabutan dari daftar Penyelenggara SK SP kepada:
+a. Instansi Setempat yang mengeluarkan izin atau tanda
+daftar bagi LPK Sistem Pembayaran; dan/atau
+b. BNSP selaku instansi yang menerbitkan lisensi bagi
+LSP Sistem Pembayaran.
+Pasal 51
+Mekanisme pengenaan sanksi administratif atas pelanggaran
+kewajiban pelaporan bagi Penyelenggara SK SP yang dilakukan
+secara daring, dilakukan sesuai dengan Peraturan Anggota
+Dewan Gubernur Intern yang mengatur mengenai pelaporan SK
+SP.
+Paragraf 3
+Tata Cara Penghentian Sanksi Administratif
+Pasal 52
+(1) Da1am ha1 Penyelenggara SK SP telah menindaklanjuti hasil
+pemantauan dari pengenaan sanksi administratif berupa
+pembekuan dari daftar Penyelenggara SK SP, DPSP dapat
+menghentikan masa pengenaan sanksi.
+(2) Penghentian sanksi pembekuan dari daftar Penyelenggara
+SK SP dilakukan berdasarkan persetujuan Kepa1a DPSP.
+(3) Informasi penghentian masa pengenaan sanksi pembekuan
+dari daftar Penyelenggara SK SP disampaikan kepada:
+a. Penyelenggara SK SP yang dikenakan sanksi, mela1ui
+surat yang ditandatangani oleh Kepa1a DpSP; dan
+b. DKom, mela1ui memorandum mengenai penginian
+daftar Penyelenggara SK SP.
+(4) Da1am ha1 diperlukan, DPSP dapat menyampaikan surat
+pemberitahuan penghentian pengenaan sanksi kepada
+Instansi Setempat dan/atau BNSP.
+Bl 101 (F4B)
+
+[Halaman 26]
+BAB VIII
+KETENTUAN PENUTUP
+Pasal 53
+Halaman 26
+Pada saat Peraturan Anggota Dewan Gubernur Intern ini mulai
+berlaku, Peraturan Anggota Dewan Gubernur Intern Nomor
+22/69/PADG INTERN/2020 tanggal 29 Desember 2020 tentang
+Pedoman Pelaksanaan Standardisasi Kompetensi di Bidang
+Sistem Pembayaran dan Pengelolaan Uang Rupiah, dicabut dan
+dinyatakan tidak berlaku.
+Pasal 54
+Peraturan Anggota Dewan Gubernur Intern ini mulai berlaku
+pada tanggal ditetapkan.
+Ditetapkan di
+Pada tanggal
+Jakarta
+8 Agustus 2025
+ANGGOTA DEWAN
+GUBERNUR
+/t.
+FILIANINGSIH HENDARTA
+BANK INDONESIA
+Bl 101 (F4B)
+
+[Halaman 27]
+OBANK INDONESIA
+PENJELASAN
+ATAS
+PERATURAN ANGGOTA DEWAN GUBERNUR INTERN
+NOMOR 26 TAHUN 2025
+TENTANG
+PELAKSANAAN STANDARDISASI KOMPETENSI DI BIDANG
+SISTEM PEMBAYARAN
+UMUM
+Bank Indonesia telah menerbitkan Peraturan Bank Indonesia
+Nomor 5 Tahun 2024 tentang Standardisasi Kompetensi di Bidang Sistem
+Pembayaran dan Peraturan Anggota Dewan Gubernur Nomor 1 7 Tahun
+2024 tentang Pelaksanaan Standardisasi Kompetensi di Bidang Sistem
+Pembayaran, untuk menyelaraskan ketentuan mengenai pengembangan
+dan penerapan SK SP.
+Selanjutnya, implementasi SK SP perlu dilakukan secara efektif. Hal
+tersebut memerlukan dukungan melalui adanya aturan pelaksanaan yang
+mengatur mekanisme pelaksanaan ketentuan Standardisasi Kompetensi
+di Bidang Sistem Pembayaran di internal Bank Indonesia, sehingga dapat
+terlaksana dengan baik.
+Berdasarkan hal tersebut di atas, perlu ditetapkan Peraturan
+Anggota Dewan Gubernur Intern tentang Pelaksanaan Standardisasi
+Kompetensi di Bidang Sistem Pembayaran.
+11. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas.
+Pasal 2
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas
+Huruf d
+Penyelenggara kegiatan usaha penukaran valuta asing
+bukan Bank termasuk juga kegiatan pembawaan uang
+Bl 100 (F4B)
+
+[Halaman 28]
+1) BANK INDONESIA
+Halaman..2.
+kertas asing.
+Huruf e
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 3
+Huruf a
+Kegiatan operasional sistem pembayaran antara lain kegiatan
+pengelolaan transfer dana dan kegiatan dalam tahapan
+pemrosesan transaksi pembayaran oleh penyedia jasa
+pembayaran dan penyelenggara infrastruktur sistem
+pembayaran, baik kegiatan dalam penyelenggaraan sistem
+pembayaran ritel industri, maupun penyelenggaraan sistem
+pembayaran lainnya yang ditetapkan oleh Bank Indonesia.
+Huruf b
+Kegiatan operasiona1 jasa pengolahan uang rupiah antara lain
+kegiatan layanan kas yang meliputi distribusi uang rupiah,
+penyimpanan uang di khazanah, pemrosesan uang rupiah,
+dan pengisian, pengambilan, dan/ atau pemantauan
+kecukupan uang rupiah pada automated teller machine, cash
+deposit machine, dan/atau cash recycling machine.
+Huruf c
+Kegiatan usaha penukaran va1uta asing antara lain kegiatan
+jua1 dan beli uang kertas asing dan pembelian cek pelawat.
+Kegiatan usaha pembawaan uang kertas asing antara lain
+kegiatan memasukkan dan/atau mengeluarkan uang kertas
+asing ke da1am dan/atau ke luar daerah pabean yang
+dilakukan dengan cara membawa sendiri atau dengan
+menggunakanjasa pihak lain untuk kepentingan sendiri atau
+pihak lain baik mela1ui kargo dan/atau barang bawaan
+penumpang.
+Huruf d
+Yang dimaksud dengan kegiatan operasiona1 setelmen
+transaksi tresuri ada1ah kegiatan setelmen atas transaksi
+tresuri.
+Kegiatan operasiona1 setelmen transaksi tresuri antara lain
+transaksi pasar uang (money market), transaksi Jixed income,
+transaksi da1am va1uta asing (foreign exchange), dan transaksi
+derivatif.
+Yang dimaksud dengan kegiatan operasiona1 setelmen
+transaksi pembiayaan perdagangan ada1ah kegiatan
+setelmen pembayaran atas transaksi pembelian dan
+penjua1an barang dan jasa da1am perdagangan internasiona1
+maupun da1am negeri (tradefinance).
+Kegiatan operasiona1 setelmen transaksi pembiayaan
+perdagangan antara lain documentary credit dan documentary
+collection seperti letter of credit, surat kredit berdokumen
+da1am negeri, open account, bank garansi, standby letter of
+credit, demand guarantee, dan bank payment obligation.
+Huruf e
+Yang dimaksud dengan kegiatan operasiona1 sistem
+penatausahaan surat berharga ada1ah kegiatan
+penatausahaan surat berharga milik nasabah yang dilakukan
+oleh Pelaku SK SP sebagai sub-registry mela1ui Bank Indonesia
+Scripless Securities Settlement System. Kegiatan
+Bl 101 (F4B)
+
+[Halaman 29]
+BANK INDONESIA
+Halaman ..3..
+penatausahaan surat berharga milik nasabah antara lain
+kegiatan pencatatan kepemilikan, penyelesaian transaksi, dan
+aksi korporasi.
+Huruf f
+Cukup jelas.
+Pasal 4
+Cukup jelas.
+Pasal 5
+Cukup jelas.
+Pasal 6
+Cukup jelas.
+Pasai 7
+Cukup jelas.
+Pasa1 8
+Cukup jelas.
+Pasa1 9
+Cukup jelas.
+Pasa1 10
+Cukup jelas.
+Pasa1 1 1
+Cukup jelas.
+Pasa1 12
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Cukup jelas.
+Huruf e
+Yang dimaksud dengan penerapan sistem pelaporan SK SP
+antara lain memantau kepatuhan laporan atas pelapor yang
+menjadi kewenangannya.
+Pasai 13
+Yang dimaksud dengan penerapan sistem pelaporan SK SP antara
+lain memantau kepatuhan laporan atas pelapor yang menjadi
+kewenangannya dan penyelenggaraan coaching clinic sistem
+pelaporan online SK SP.
+Pasa1 14
+Yang dimaksud dengan penerapan sistem pelaporan SK SP antara
+lain pengaturan dan penyusunan metadata bisnis laporan daring
+sesuai kewenangan.
+Bl 101 (F4B)
+
+[Halaman 30]
+4]) BANK INDONESJA
+Halaman ..4.
+Pasal 15
+Cukup jelas.
+Pasal 16
+Cukup jelas.
+Pasal 17
+Cukup jelas.
+Pasal 18
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Satuan kerja terkait antara lain DKSP, DSPK, DPU, DR, dan
+DPPT.
+Pihak terkait antara lain Otoritas Jasa Keuangan, Kemnaker
+RI, BNSP, asosiasi profesi, asosiasi industri, Pelaku SK SP,
+dan/atau Penyelenggara SK SP.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Pasa1 19
+Cukup jelas.
+Pasa1 20
+Cukup jelas.
+Pasa1 2 1
+Ayat (1)
+Contoh: LPK A merupakan LPK Sistem Pembayaran yang
+dibentuk oleh asosiasi profesi dan/atau asosiasi industri
+sistem pembayaran dengan badan hukum berupa yayasan.
+Kemudian, LPK A berganti status badan hukum menjadi
+Perseroan Terbatas (PT). Berdasarkan ha1 tersebut, LPK A
+harus mengajukan kemba1i permohonan pembentukan LPK
+Sistem Pembayaran kepada Bank Indonesia mengikuti
+persyaratan pembentukan LPK Sistem Pembayaran yang
+diatur daiarn Peraturan Anggota Dewan Gubernur tentang
+Pelaksanaan SK SP.
+Ayat (2)
+Cukup jelas.
+Pasa1 22
+Ayat (1)
+Yang dimaksud dengan perubahan adalah penyesuaian
+yang dilakukan oleh LPK Sistem Pembayaran atas Program
+PBK Sistem Pembayaran yang sedang berja1an.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Bl 101 (F4B)
+
+[Halaman 31]
+T) BANK INDONESIA
+Halaman ..5.
+Pasal 23
+Ayat (1)
+Yang dimaksud dengan penambahan adalah penambahan
+Program PBK Sistem Pembayaran baru oleh LPK Sistem
+Pembayaran di luar Program PBK Sistem Pembayaran yang
+sedang berjalan.
+Ayat (2)
+Culcup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Ayat (7)
+Cukup jelas.
+Ayat (8)
+Cukup jelas.
+Pasa1 24
+Ayat (1)
+Lihat penjelasan Pasa1 23 ayat (1).
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Ayat (7)
+Cukup jelas.
+Pasa1 25
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Huruf a
+Cukup jelas.
+Huruf b
+Data Korespondensi antara lain meliputi nama dan
+a1amat LSP Sistem Pembayaran.
+Ayat (4)
+Cukup jelas.
+Bl 101 (F4B)
+
+[Halaman 32]
+BANK INDONESIA
+Halaman ...
+Pasal 26
+Ayat (1)
+Yang dimaksud dengan materi pelatihan adalah serangkaian
+panduan materi pelatihan yang memenuhi standar
+kompetensi dan ukuran tertentu dan digunakan dalam proses
+pelatihan sesuai dengan ketentuan otoritas ketenagakerjaan.
+Ayat (2)
+Kesesuaian materi pelatihan antara lain mengacu pada KKNI
+Bidang Sistem Pembayaran.
+Ayat (3)
+Satuan kerja terkait antara lain DKSP, DSPK, DPU, DPPT, DR,
+dan KPWDN.
+Ayat (4)
+Yang dimaksud dengan forum LPK Sistem Pembayaran
+adalah perkumpulan yang beranggotakan seluruh LPK Sistem
+Pembayaran. Tujuan pembentukan forum LPK Sistem
+Pembayaran yaitu sebagai sarana komunikasi antara Bank
+Indonesia dengan LPK Sistem Pembayaran dalam mendukung
+penyelenggaraan PBK Sistem Pembayaran.
+Ayat (5)
+Cukup jelas.
+Pasa1 27
+Cukup jelas.
+Pasa1 28
+Cukup jelas.
+Pasa1 29
+Ayat (1)
+Yang dimaksud dengan perubahan ada1ah penambahan
+atau pengurangan Skema Sertifikasi Kompetensi Sistem
+Pembayaran yang dimintakan lisensi oleh LPK Sistem
+Pembayaran kepada lembaga yang berwenang.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Ayat (7)
+Cukup jelas.
+Ayat (8)
+Cukup jelas.
+Pasa1 30
+Ayat (1)
+Lihat penjelasan pasa1 29 ayat (1 ).
+Ayat (2)
+Cukup jelas.
+Bl 101 (F4B)
+
+[Halaman 33]
+BANK INDONESIA
+Halaman ..7..
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Ayat (7)
+Cukup jelas.
+Pasal 31
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Huruf a
+Cukup jelas.
+Huruf b
+Data Korespondensi antara lain meliputi nama dan
+alamat LSP Sistem Pembayaran.
+Ayat (4)
+Cukup jelas.
+Pasa1 32
+Huruf a
+Yang dimaksud dengan luring ada1ah penyampaian
+laporan ke Bank Indonesia dengan menggunakan media
+antara lain email atau media lain yang ditentukan oleh
+Bank Indonesia
+Huruf b
+Yang dimaksud dengan daring adalah penyampaian laporan
+ke Bank Indonesia mela1ui sistem pelaporan Bank Indonesia
+termasuk secara langsung maupun mela1ui Application
+Programming Interface (API).
+Pasa1 33
+Ayat (1)
+Lihat Penjelasan Pasa1 32 Huruf a.
+Ayat (2)
+Lihat Penjelasan Pasa1 32 Huruf a.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Lihat Penjelasan Pasa1 32 Huruf b.
+Pasa1 34
+Ayat (1)
+Lihat Penjelasan Pasa1 32 Huruf a.
+Ayat (2)
+Lihat Penjelasan Pasa1 32 Huruf b.
+Bl 101 (F4B)
+
+[Halaman 34]
+BANK INDONESIA
+Ha1aman....
+Pasal 35
+Ayat (1)
+Lihat Penjelasan Pasal 32 Huruf a.
+Ayat (2)
+Lihat Penjelasan Pasal 32 Huruf b.
+Pasal 36
+Cukup jelas.
+Pasal 37
+Cukup jelas.
+Pasa1 38
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Pihak lain yang ditugaskan oleh Bank Indonesia antara lain
+auditor eksternal.
+Ayat (3)
+Cukup jelas.
+Pasa1 39
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Huruf a
+Aspek kelembagaan antara lain dokumen Anggaran
+Dasar dan Anggaran Rumah Tangga (AD/ART) beserta
+perubahannya, serta perangkat organisasi.
+Huruf b
+Aspek perangkat antara lain ketersediaan instruktur
+PBK Sistem Pembayaran dan/atau asesor Sertifikasi
+Kompetensi Sistem Pembayaran, serta Program PBK
+Sistem Pembayaran dan/atau Skema Sertifikasi
+Kompetensi Sistem Pembayaran.
+Huruf c
+Aspek sarana dan prasarana antara lain ruang
+pelatihan, perangkat pelatihan, jaringan teknologi
+informasi dan komunikasi, serta sistem manajemen
+pelatihan.
+Huruf d
+Aspek data dan informasi antara lain data Sertifikat
+PBK Sistem Pembayaran dan/atau Sertifikat
+Kompetensi Sistem Pembayaran, data Pemeliharaan
+PBK Sistem Pembayaran dan/atau Kompetensi Sistem
+Pembayaran, data akreditasi, dan sistem informasi
+pengolahan data.
+Ayat (5)
+Cukup jelas.
+Bl 101 (F4B)
+
+[Halaman 35]
+BANK INDONESIA
+Ha1aman...
+Ayat (6)
+Pihak lain yang ditugaskan Bank Indonesia untuk melakukan
+pemantauan terhadap Penyelenggara SK SP antara lain Self
+Regulatory Organization (SRO) bidang Sistem Pembayaran.
+Ayat (7)
+Cukup jelas.
+Ayat (8)
+Cukup jelas.
+Ayat (9)
+Cukup jelas.
+Ayat (10)
+Cukup jelas.
+Pasal 40
+Cukup jelas.
+Pasal 4 1
+Cukup jelas.
+Pasal 42
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Satuan kerja terkait antara lain satuan kerja yang memiliki
+fungsi perizinan dan/atau penetapan penyelenggara SP.
+Ayat (3)
+Cukup jelas.
+Pasa1 43
+Cukup jelas.
+Pasa1 44
+Cukup jelas.
+Pasa1 45
+Cukup jelas.
+Pasa1 46
+Cukup jelas.
+Pasa1 47
+Cukup jelas.
+Pasa1 48
+Cukup jelas.
+Pasa1 49
+Cukup jelas.
+Pasa1 50
+Cukup jelas.
+Pasa1 51
+Cukup jelas.
+Bl 101 (F4B)
+
+[Halaman 36]
+(J BANK INDONESJA
+Ha1aman.Q
+Pasal 52
+Cukup jelas.
+Pasal 53
+Cukup jelas.
+Pasal 54
+Cukup jelas.
+Bl 101 (F4B)
+
+[Halaman 37]
+LAMPIRAN
+PERATURAN ANGGOTA DEWAN GUBERNUR INTERN
+NOMOR 26 TAHUN 2025
+TANGGAL 8 AGUSTUS 2025
+TENTANG PELAKSANAAN STANDARDISASI
+KOMPETENSI DI BIDANG SISTEM PEMBAYARAN
+SUSUNAN KEANGGOTAAN
+KOMITE STANDAR KOMPETENSI BIDANG SISTEM
+PEMBAYARAN
+Posisi Satuan Kerja
+Pengarah Kepala Departemen Penyelenggaraan Sistem Pembayaran
+Ketua Kepala Grup Elektronifikasi dan Standardisasi
+Kompetensi SP-PUR
+Sekretaris Koordinator Kelompok Pengembangan Standardisasi
+Kompetensi SP-PUR
+Anggota*) 1. Departemen Penyelenggaraan Sistem Pembayaran
+2. Departemen Kebijakan Sistem Pembayaran
+3. Departemen Surveilans Sistem Pembayaran dan
+Pelindungan Konsumen
+4. Departemen Pengelolaan Uang
+5. Departemen Jasa Perbankan Perizinan dan
+Operasional Tresuri
+6. Departemen Regional
+*) Minimal setingkat Manajer
+
+[Halaman 38]
+TUGAS DAN TANGGUNGJAWAB
+KOMITE STANDAR KOMPETENSI BIDANG SISTEM PEMBAYARAN
+Pengarah 1. Memberikan arahan kebijakan dalam penyusunan
+Rencana Induk Pengembangan (RIP) SKKNI Bidang
+Sistem Pembayaran.
+2. Memberikan arahan umum terkait pembentukan tim
+perumus dan tim verifikasi SKKNI Bidang Sistem
+Pembayaran atau KKNI Bidang Sistem Pembayaran.
+3. Memberikan rekomendasi terkait penyusunan SKKNI
+Bidang Sistem Pembayaran.
+4. Memberikan rekomendasi terka1t pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran.
+5. Memberikan rekomendasi terkait paket pengemasan
+subbidang Bidang Sistem Pembayaran yang digunakan
+pada PBK Sistem Pembayaran dan Sertifikasi
+Kompetensi Sistem Pembayaran.
+6. Menerima laporan penyelenggaraan Prakonvensi dan
+Konvensi Rancangan SKKNI Bidang Sistem Pembayaran
+dan KKNI Bidang Sistem Pembayaran.
+7. Menerima laporan secara berka1a dari Ketua terkait kaji
+ulang SKKNI Bidang Sistem Pembayaran dan KKNI
+Bidang Sistem Pembayaran.
+Ketua 1. Memutuskan RIP SKKNI Bidang Sistem Pembayaran.
+2. Memutuskan Tim Perumus dan Tim Verifikasi SKKNI
+Bidang Sistem Pembayaran atau KKNI Bidang Sistem
+Pembayaran.
+3. Memutuskan usulan penyusunan SKKNI Bidang Sistem
+Pembayaran dan KKNI Bidang Sistem Pembayaran.
+4. Memimpin dan mengoordinasikan kegiatan
+pengembangan SKKNI Bidang Sistem Pembayaran dan
+KKNI Bidang Sistem Pembayaran.
+5. Memutuskan pengemasan unit kompetensi subbidang
+
+[Halaman 39]
+KKNI Bidang Sistem Pembayaran yang digunakan pada
+PBK Sistem Pembayaran dan Sertifikasi Kompetensi
+Sistem Pembayaran.
+6. Memimpin dan mengoordinasikan Penyelenggaraan
+Prakonvensi dan Konvensi Rancangan SKKNI Bidang
+Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran.
+7. Memimpin dan mengoordinasikan pemantauan dan kaji
+ulang SKKNI Bidang Sistem Pembayaran dan KKNI
+Bidang Sistem Pembayaran.
+Sekretaris 1. Menyusun administrasi dan dokumentasi seluruh
+kegiatan penyusunan SKKNI Bidang Sistem
+Pembayaran.
+2. Menyusun notulen, laporan kegiatan, dan
+mendistribusikan dokumen kepada anggota komite.
+3. Mengatur waktu pertemuan dan komunikasi bagi
+anggota komite.
+4. Mendukung tugas Ketua dalam aspek operasional dan
+teknis.
+Anggota 1. Berpartisipasi aktif dalam pembahasan, penyusunan,
+dan penelaahan unit-unit kompetensi pada SKKNI
+Bidang Sistem Pembayaran.
+2. Berpartisipasi aktif dalam Tim Perumus dan Tim
+Verifikasi SKKNI Bidang Sistem Pembayaran dan KKNI
+Bidang Sistem Pembayaran.
+3. Ikut serta da1am penyusunan SKKNI Bidang Sistem
+Pembayaran.
+4. Berpartisipasi aktif dalam pengembangan SKKNI
+Bidang Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran.
+5. Ikut serta dalam penentuan pengemasan unit
+kompetensi subbidang KKNI Bidang Sistem
+Pembayaran yang digunakan pada PBK Sistem
+
+[Halaman 40]
+Pembayaran dan Sertifikasi Kompetensi Sistem
+Pembayaran.
+6. Berpartisipasi aktif dalam penyelenggaraan
+Prakonvensi dan Konvensi Rancangan SKKNI Bidang
+Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran.
+7. Melakukan pemantauan dan kaji ulang SKKNI Bidang
+Sistem Pembayaran dan KKNI Bidang Sistem
+Pembayaran.
+ANGGOGUBERNUR,
+FILIANINGSIH HENDARTA

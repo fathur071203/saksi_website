@@ -1,0 +1,3743 @@
+[Halaman 1]
+- 1 - 
+ 
+PERATURAN BANK INDONESIA 
+NOMOR 22/23/PBI/2020 
+TENTANG 
+SISTEM PEMBAYARAN 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+GUBERNUR BANK INDONESIA, 
+ 
+ 
+Menimbang : a. bahwa perkembangan digitalisasi dan inovasi sistem 
+pembayaran di satu sisi meningkatkan efisiensi industri 
+sistem pembayaran dan percepatan inklusi ekonomi 
+dan keuangan digital, di sisi lain meningkatkan risiko 
+dengan semakin tingginya kompleksitas kegiatan dan 
+variasi model bisnis penyelenggara sistem pembayaran; 
+b. bahwa perkembangan digitalisasi dan inovasi sistem 
+pembayaran menuntut dilakukannya penataan kembali 
+industri sistem pembayaran melalui reformasi 
+pengaturan sistem pembayaran; 
+c. bahwa diperlukan pengaturan sistem pembayaran yang 
+efektif dan responsif yang meliputi seluruh aspek 
+penyelenggaraan s istem pembayaran guna 
+mengakomodasi perkembangan ekonomi dan keuangan 
+digital; 
+d. bahwa berdasarkan pertimbangan sebagaimana 
+dimaksud dalam huruf a, huruf b, dan huruf c, perlu 
+menetapkan Peraturan Bank Indonesia tentang Sistem 
+Pembayaran;
+
+[Halaman 2]
+- 2 - 
+ 
+Mengingat : 1. Undang-Undang Nomor 23 Tahun 1999 tentang Bank 
+Indonesia (Lembaran Negara Republik Indonesia Tahun 
+1999 Nomor 66, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 3843) sebagaimana telah beberapa kali 
+diubah, terakhir dengan Undang-Undang Nomor 6 Tahun 
+2009 tentang Penetapan Peraturan Pemerintah Pengganti 
+Undang-Undang Nomor 2 Tahun 2008 tentang Perubahan 
+Kedua atas Undang -Undang Nomor 23 Tahun 1999 
+tentang Bank Indonesia menjadi Undang -Undang 
+(Lembaran Negara Republik Indonesia Tahun 2009 Nomor 
+7, Tambahan Lembaran Negara Republik Indonesia Nomor 
+4962); 
+2. Undang-Undang Nomor 3 Tahun 20 11 tentang Transfer 
+Dana (Lembaran Negara Republik Indonesia Tahun 2011 
+Nomor 39, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5204); 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN BANK INDONESIA TENTANG SISTEM 
+PEMBAYARAN. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: 
+1. Sistem Pembayaran adalah suatu sistem yang mencakup 
+seperangkat aturan, lembaga, mekanisme, infrastruktur , 
+sumber dana untuk pembayaran , dan akses ke sumber 
+dana untuk pembayaran , yang digunakan untuk 
+melaksanakan pemindahan dana guna memenuhi suatu 
+kewajiban yang timbul dari suatu kegiatan ekonomi. 
+2. Bank adalah bank umum dan bank perkreditan rakyat 
+sebagaimana dimaksud dalam Undang-Undang mengenai 
+perbankan, termasuk kantor cabang bank asing di 
+Indonesia, dan bank umum syariah dan bank pembiayaan
+
+[Halaman 3]
+- 3 - 
+ 
+rakyat syariah sebagaimana dimaksud dalam Undang -
+Undang mengenai perbankan syariah. 
+3. Lembaga Selain Bank adalah badan usaha berbadan 
+hukum Indonesia bukan Bank. 
+4. Penyedia Jasa Pembayaran yang selanjutnya dis ingkat 
+PJP adalah Bank atau Lembaga Selain Bank yang 
+menyediakan jasa untuk memfasilitasi transaksi 
+pembayaran kepada pengguna jasa. 
+5. Penyelenggara Infrastruktur Sistem Pembayaran yang 
+selanjutnya disebut PIP adalah pihak yang 
+menyelenggarakan infrastruktur sebagai sarana yang 
+dapat digunakan untuk melakukan pemindahan dana 
+bagi kepentingan anggotanya. 
+6. Penyelenggara Penunjang adalah pihak yang bekerja sama 
+dengan PJP dan PIP untuk menunjang penyelenggaraan 
+kegiatan jasa Sistem Pembayaran. 
+7. Pengguna Jasa adalah pihak yang menggunakan jasa dari 
+PJP. 
+8. Penyedia Barang dan/atau Jasa adalah pihak yang 
+menjual barang dan/atau jasa yang menerima 
+pembayaran dari Pengguna Jasa. 
+9. Self-Regulatory Organization di Bidang Sistem Pembayaran 
+yang s elanjutnya disebut SRO adalah suatu forum atau 
+institusi yang berbadan hukum Indonesia yang mewakili 
+industri dan ditetapkan oleh Bank Indonesia untuk 
+mendukung penyelenggaraan Sistem Pembayaran. 
+10. Penyelenggara Sistem Pembayaran Sistemik yang 
+selanjutnya disingkat PSPS adalah PJP dan PIP yang 
+memiliki dampak sistemik terhadap Sistem Pembayaran 
+dan/atau sistem keuangan dalam hal PJP dan PIP 
+mengalami gangguan atau kegagalan. 
+11. Penyelenggara Sistem Pemb ayaran Kritikal yang 
+selanjutnya disingkat PSPK adalah PJP dan PIP yang 
+memiliki dampak kritikal terhadap Sistem Pembayaran 
+dan/atau sistem keuangan dalam hal PJP dan PIP 
+mengalami gangguan atau kegagalan.
+
+[Halaman 4]
+- 4 - 
+ 
+12. Penyelenggara Sistem Pembayaran Umum yang 
+selanjutnya disingkat PSPU adalah PJP dan PIP yang tidak 
+memiliki dampak signifikan terhadap Sistem Pembayaran 
+dan/atau sistem keuangan dalam hal PJP dan PIP 
+mengalami gangguan atau kegagalan. 
+13. Sumber Dana Untuk Pembayaran yang selanjutnya 
+disebut Sumber Dana adalah sumber dana yang 
+digunakan untuk memenuhi kewajiban dalam transaksi 
+pembayaran dan ditatausahakan dalam suatu akun untuk 
+pembayaran. 
+ 
+Pasal 2 
+Penyelenggaraan Sistem Pembayaran bertujuan untuk 
+menciptakan Sistem Pembayaran yang cepat, mudah, murah, 
+aman, dan andal, dengan tetap memperhatikan perluasan 
+akses dan perlindungan konsumen. 
+ 
+Pasal 3 
+Visi penyelenggaraan Sistem Pembayaran Indonesia meliputi: 
+a. mendukung integrasi ekonomi dan keuangan digital 
+nasional sehingga menjamin fungsi Bank Indonesia dalam 
+proses pengedaran uang, kebijakan moneter dan stabilitas 
+sistem keuangan, serta mendukung inklusi keuangan; 
+b. mendukung digitalisasi perbankan sebagai lembaga 
+utama dalam ekonomi keuangan digital melalui open 
+application programming interface maupun pemanfaatan 
+teknologi digital dan data dalam bisnis keuangan; 
+c. menjamin interlink antara teknologi finansial dengan 
+perbankan untuk menghindari risiko shadow banking 
+melalui pengaturan teknologi digital seperti open 
+application programming interface, kerja sama bisnis, 
+maupun kepemilikan perusahaan;
+
+[Halaman 5]
+- 5 - 
+ 
+d. menjaga keseimbangan antara inovasi dengan 
+perlindungan konsumen, integritas dan stabilitas , serta 
+persaingan usaha yang sehat melalui: 
+1. penerapan prinsip mengenal nasabah serta 
+penerapan anti pencucian uang dan pencegahan 
+pendanaan terorisme; 
+2. kewajiban keterbukaan untuk data, informasi, atau 
+bisnis publik; dan 
+3. penggunaan teknologi inovatif oleh industri untuk 
+memastikan kepatuhan terhadap ketentuan dan 
+meningkatkan efektivitas pengawasan serta 
+pengawasan berbasis teknologi dalam kewajiban 
+pelaporan, regulasi, dan pengawasan; dan 
+e. menjamin kepentingan nasional dalam ekonomi keuangan 
+digital antarnegara melalui kewajiban pemrosesan semua 
+transaksi domestik di dalam ne geri dan kerja sama 
+penyelenggara asing dengan domestik, dengan 
+memperhatikan prinsip resiprokalitas. 
+ 
+BAB II 
+KOMPONEN, PENYELENGGARA JASA SISTEM PEMBAYARAN, 
+DAN TAHAPAN PEMROSESAN SISTEM PEMBAYARAN 
+ 
+Pasal 4 
+Komponen Sistem Pembayaran terdiri atas: 
+a. mekanisme; 
+b. infrastruktur; 
+c. kelembagaan; dan 
+d. Sumber Dana dan akses ke Sumber Dana. 
+ 
+Pasal 5 
+(1) Penyelenggara jasa Sistem Pembayaran terdiri atas: 
+a. PJP; dan 
+b. PIP. 
+(2) Penyelenggara jasa Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (1) dapat melakukan kerja sama
+
+[Halaman 6]
+- 6 - 
+ 
+dengan Penyelenggara Penunjang dalam mendukung 
+penyelenggaraan aktivitas Sistem Pembayaran. 
+(3) Penyelenggara jasa Sistem Pembayaran berupa PIP 
+sebagaimana dimaksud pada ayat (1) huruf b terdiri atas: 
+a. Bank Indonesia sebagai penyelenggara infrastruktur 
+Sistem Pembayaran Bank Indonesia; dan 
+b. pihak lain yang menyelenggarakan infrastruktur 
+Sistem Pembayaran di industri. 
+ 
+Pasal 6 
+Tahapan pemrosesan transaksi pembayaran meliputi kegiatan: 
+a. pratransaksi; 
+b. inisiasi; 
+c. otorisasi; 
+d. kliring; 
+e. penyelesaian akhir; dan 
+f. pascatransaksi. 
+ 
+BAB III 
+KEWENANGAN BANK INDONESIA DI BIDANG 
+SISTEM PEMBAYARAN 
+ 
+Bagian Kesatu 
+Umum 
+ 
+Pasal 7 
+Bank Indonesia berwenang untuk melakukan: 
+a. perumusan, penetapan, dan komunikasi kebijakan di 
+bidang Sistem Pembayaran; 
+b. penerbitan peraturan di bidang Sistem Pembayaran; 
+c. penetapan akses ke penyelenggaraan Sistem Pembayaran; 
+d. persetujuan dan pelaporan terhadap pengembangan 
+aktivitas, pengembangan produk, dan/atau kerja sama 
+dalam penyelenggaraan Sistem Pembayaran; 
+e. penyelenggaraan infrastruktur Sistem Pembayaran; 
+f. pengawasan dan pengenaan sanksi;
+
+[Halaman 7]
+- 7 - 
+ 
+g. pengelolaan data dan/atau informasi terkait Sistem 
+Pembayaran; dan 
+h. kewenangan lain di bidang Sistem Pembayaran yang 
+ditetapkan Bank Indonesia. 
+ 
+Pasal 8 
+(1) Perumusan, penetapan, dan komunikasi kebijakan 
+sebagaimana dimaksud dalam Pasal 7 huruf a meliputi: 
+a. kebijakan perizinan dan penetapan bagi PJP dan PIP; 
+b. kebijakan penyelenggaraan aktivitas bagi PJP dan 
+PIP; 
+c. kebijakan terkait data; 
+d. kebijakan penghentian akses ke penyelenggaraan 
+Sistem Pembayaran; dan 
+e. kebijakan lainnya yang ditetapkan Bank Indonesia. 
+(2) Kewenangan perumusan, penetapan, dan komunikasi 
+kebijakan sebagaimana dimaksud dalam Pasal 7 huruf a 
+dilaksanakan untuk mencapai tujuan Sistem Pembayaran 
+sebagaimana dimaksud dalam Pasal 2 dan untuk: 
+a. mendorong pertumbuhan industri yang inovatif, 
+berkualitas, dan berkelanjutan; 
+b. menciptakan interkoneksi dan interoperabilitas 
+Sistem Pembayaran; dan/atau 
+c. menjaga persaingan usaha yang sehat termasuk 
+melalui pengelolaan dan penggunaan data transaksi 
+pembayaran. 
+ 
+Bagian Kedua 
+SRO 
+ 
+Pasal 9 
+Bank Indonesia berwenang mengatur kriteria, mekanisme, dan 
+persyaratan bagi pihak yang dapat ditetapkan sebagai SRO.
+
+[Halaman 8]
+- 8 - 
+ 
+Pasal 10 
+Guna mendukung pelaksanaan kewenangan di bidang Sistem 
+Pembayaran, Bank Indonesia dapat menugaskan SRO untuk: 
+a. mendukung implementasi kebijakan Bank Indonesia; 
+b. mendukung implementasi proses perizinan, persetujuan, 
+dan pengawasan; 
+c. menyusun dan menerbitkan ketentuan di bidang Sistem 
+Pembayaran yang bersifat teknis dan mikro berdasarkan 
+persetujuan Bank Indonesia; dan 
+d. menyusun dan mengelola standar yang ditetapkan oleh 
+Bank Indonesia. 
+ 
+Pasal 11 
+Ketentuan lebih lanjut mengenai penetapan dan pelaksanaan 
+tugas SRO diatur dengan Peraturan Anggota Dewan Gubernur. 
+ 
+BAB IV 
+AKTIVITAS PJP, PIP, DAN PENYELENGGARA PENUNJANG, 
+SERTA PERIZINAN PJP DAN PENETAPAN PIP 
+ 
+Bagian Kesatu 
+Aktivitas PJP, PIP, dan Penyelenggara Penunjang 
+ 
+Pasal 12 
+(1) PJP sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf 
+a menyelenggarakan aktivitas meliputi: 
+a. penyediaan informasi Sumber Dana; 
+b. payment initiation dan/atau acquiring services; 
+c. penatausahaan Sumber Dana; dan/atau 
+d. layanan remitansi. 
+(2) Aktivitas penyediaan informasi Sumber Dana 
+sebagaimana dimaksud pada ayat (1) huruf a mencakup 
+penyediaan informasi Sumber Dana untuk inisiasi 
+pembayaran berdasarkan persetujuan Pengguna Jasa. 
+(3) Aktivitas payment initiation dan/atau acquiring services 
+sebagaimana dimaksud pada ayat (1) huruf b mencakup 
+penerusan transaksi pembayaran.
+
+[Halaman 9]
+- 9 - 
+ 
+(4) Aktivitas penatausahaan Sumber Dana sebagaimana 
+dimaksud pada ayat (1) huruf c mencakup pelaksanaan 
+otorisasi transaksi pembayaran. 
+(5) Aktivitas layanan remitansi sebagaimana dimaksud pada 
+ayat (1) huruf d mencakup pengaksepan dan pelaksanaan 
+perintah transfer dana yang sumber dana nya bukan 
+berasal dari akun yang ditatausahakan oleh 
+penyelenggara layanan remitansi. 
+ 
+Pasal 13 
+(1) PIP sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b 
+menyelenggarakan aktivitas meliputi: 
+a. kliring; dan/atau 
+b. penyelesaian akhir, 
+bagi kepentingan anggota PIP. 
+(2) Aktivitas kliring sebagaimana dimaksud pada ayat (1) 
+huruf a mencakup kegiatan merekonsiliasi, 
+mengonfirmasi, dan menghitung hak dan kewajiban 
+keuangan anggota PIP sebelum pelaksanaan penyelesaian 
+akhir. 
+(3) Aktivitas penyelesaian akhir sebagaimana dimaksud pada 
+ayat (1) huruf b mencakup penyelesaian yang bersifat final 
+dan mengikat melalui pendebitan dan pengkreditan akun 
+para pihak atas hak dan kewajiban keuangan anggota PIP 
+berdasarkan hasil kliring. 
+ 
+Pasal 14 
+(1) Penyelenggara Penunjang sebagaimana dimaksud dalam 
+Pasal 5 ayat (2) menyelenggarakan aktivita s yang 
+mendukung aktivitas PJP atau PIP dengan ketentuan: 
+a. Penyelenggara Penunjang hanya menyediakan 
+layanan pendukung yang bersifat teknis atau 
+memberikan solusi; 
+b. kendali pemrosesan transaksi pembayaran tetap 
+berada pada PJP atau PIP; dan
+
+[Halaman 10]
+- 10 - 
+ 
+c. Penyelenggara Penunjang tidak diperbolehkan 
+mengakses dan/atau menatausahakan Sumber 
+Dana. 
+(2) Aktivitas Penyelenggara Penunjang dalam pemrosesan 
+transaksi pembayaran mencakup penyediaan: 
+a. teknologi untuk pemrosesan transaksi pembayaran; 
+dan/atau 
+b. layanan penunjang kegiatan penyelenggaraan Sistem 
+Pembayaran lainnya. 
+(3) Ketentuan mengenai aktivitas Penyelenggara Penunjang 
+diatur dengan Peraturan Bank Indonesia. 
+ 
+Bagian Kedua 
+Perizinan PJP 
+ 
+Pasal 15 
+(1) Setiap pihak yang bertindak sebagai PJP sebagaim ana 
+dimaksud dalam Pasal 5 ayat (1) huruf a harus terlebih 
+dahulu memperoleh izin dari Bank Indonesia. 
+(2) Pihak yang mengajukan permohonan izin untuk menjadi 
+PJP harus berupa: 
+a. Bank; atau 
+b. Lembaga Selain Bank. 
+ 
+Pasal 16 
+(1) Izin kepada PJP untuk melakukan aktivitas sebagaimana 
+dimaksud dalam Pasal 12 ayat (1) diberikan berdasarkan 
+kategori izin terdiri atas: 
+a. kategori izin satu meliputi aktivitas: 
+1. penyediaan informasi Sumber Dana; 
+2. payment initiation dan/atau acquiring services; 
+3. penatausahaan Sumber Dana; dan 
+4. layanan remitansi; 
+b. kategori izin dua meliputi aktivitas: 
+1. penyediaan informasi Sumber Dana; dan 
+2. payment initiation dan/atau acquiring services ; 
+dan/atau
+
+[Halaman 11]
+- 11 - 
+ 
+c. kategori izin tiga meliputi aktivitas: 
+1. layanan remitansi; dan/atau 
+2. lainnya yang ditetapkan Bank Indonesia. 
+(2) Bank Indonesia dapat menetapkan jangka waktu tertentu 
+untuk berlakunya izin yang diberikan kepada PJP 
+sebagaimana dimaksud pada ayat (1). 
+ 
+Pasal 17 
+(1) Setiap pihak yang mengajukan izin sebagaimana 
+dimaksud dalam Pasal 1 5 ayat (1) harus mematuhi 
+mekanisme dan tata cara pengajuan izin yang ditetapkan 
+oleh Bank Indonesia. 
+(2) Mekanisme dan tata cara pengajuan izin sebagaimana 
+dimaksud pada ayat (1) dilakukan melalui sistem 
+elektronik dengan mengacu kepada P eraturan Bank 
+Indonesia mengenai perizinan terpadu Bank Indonesia 
+melalui front office perizinan. 
+(3) Tahapan penelitian perizinan PJP terdiri atas: 
+a. penelitian administratif; dan 
+b. analisis substansi permohonan sesuai dengan 
+kategori izin yang diajukan. 
+(4) Selain tahapan penelitian perizinan PJP sebagaimana 
+dimaksud pada ayat (3), dilakukan pemeriksaan. 
+(5) Berdasarkan hasil penelitian perizinan sebagaimana 
+dimaksud pada ayat (3 ) dan pemeriksaan sebagaimana 
+dimaksud pada ayat (4) , Bank Indonesia menetapkan 
+keputusan untuk: 
+a. menyetujui; atau 
+b. menolak, 
+permohonan perizinan yang diajukan. 
+ 
+Pasal 18 
+(1) Pihak yang mengajukan permohonan izin untuk menjadi 
+PJP harus memenuhi persyaratan izin yang ditetapkan 
+Bank Indonesia meliputi aspek: 
+a. kelembagaan; 
+b. permodalan dan keuangan;
+
+[Halaman 12]
+- 12 - 
+ 
+c. manajemen risiko; dan 
+d. kapabilitas sistem informasi. 
+(2) Aspek kelembagaan sebagaimana dimaksud pada ayat (1) 
+huruf a meliputi legalitas badan hukum , kepemilikan, 
+pengendalian, dan kepengurusan. 
+(3) Aspek permodalan dan keuangan sebagaimana dimaksud 
+pada ayat (1) huruf b meliputi persyaratan minimal modal 
+disetor, analisis kelayakan, dan proyeksi bisnis. 
+(4) Aspek manajemen risiko sebagaimana dimaksud pada 
+ayat (1) huruf c meliputi risiko hukum, risiko operasional, 
+dan risiko likuiditas. 
+(5) Aspek kapabilitas sist em informasi sebagaimana 
+dimaksud pada ayat (1) huruf d meliputi keamanan dan 
+keandalan sistem informasi. 
+ 
+Pasal 19 
+(1) Aspek kelembagaan berupa kepemilikan sebagaimana 
+dimaksud dalam Pasal 18 ayat (2) bagi PJP yang berbentuk 
+Lembaga Selain Bank diatur sebagai berikut: 
+a. komposisi kepemilikan saham paling sedikit 15 % 
+(lima belas persen) sahamnya dimiliki oleh: 
+1. warga negara Indonesia; dan/atau 
+2. badan hukum Indonesia; dan 
+b. perhitungan komposisi kepemilikan saham bagi PJP 
+berupa Lembaga Selain Bank yang berbentuk 
+perseroan terbuka hanya dilakukan terhadap 
+kepemilikan saham dengan persentase kepemilikan 
+saham sebesar 5% (lima persen) atau lebih. 
+(2) Aspek kelembagaan berupa pengendalian sebagaimana 
+dimaksud dalam Pasal 18 ayat (2) bagi PJP berupa 
+Lembaga Selain Bank diatur sebagai berikut: 
+a. komposisi saham dengan hak suara paling sedikit 
+51% (lima puluh satu persen) harus dimiliki oleh 
+pihak domestik, yaitu: 
+1. warga negara Indonesia; dan/atau 
+2. badan hukum Indonesia;
+
+[Halaman 13]
+- 13 - 
+ 
+b. dalam hal terdapat hak khusus untuk mencalonkan 
+mayoritas anggota direksi dan/atau anggota dewan 
+komisaris, hak tersebut harus dimiliki oleh pihak 
+domestik; dan 
+c. dalam hal terdapat hak khusus berupa hak veto 
+terhadap suatu keputusan atau persetuj uan dalam 
+rapat umum pemegang saham yang berdampak 
+signifikan terhadap perusahaan , hak tersebut harus 
+dimiliki oleh pihak domestik. 
+(3) PJP berupa Lembaga Selain Bank yang telah memperoleh 
+izin wajib tetap memelihara pemenuhan komposisi 
+kepemilikan saham sebagaimana dimaksud pada ayat (1) 
+dan pengendalian domestik sebagaimana dimaksud pada 
+ayat (2). 
+(4) Bank Indonesia dapat menetapkan aspek kelembagaan 
+berupa pengendalian lainnya berdasarkan penilaian Bank 
+Indonesia. 
+(5) Dalam hal PJP telah memperoleh izin kelembagaan dari 
+otoritas lain, Bank Indonesia dapat menetapkan kebijakan 
+lain terkait dengan aspek kelembagaan berupa 
+kepemilikan dan/atau pengendalian. 
+ 
+Pasal 20 
+Dalam hal diperlukan, Bank Indonesia dapat meminta calon 
+PJP menyampaikan data dan/atau informasi tambahan untuk 
+memenuhi persyaratan sebagaimana dimaksud dalam Pasal 
+18. 
+ 
+Pasal 21 
+Ketentuan mengenai perizinan PJP diatur dengan Peraturan 
+Bank Indonesia.
+
+[Halaman 14]
+- 14 - 
+ 
+Bagian Ketiga 
+Penetapan PIP 
+ 
+Pasal 22 
+(1) Setiap pihak yang bertindak sebagai PIP sebagaimana 
+dimaksud dalam Pasal 5 ayat (1) huruf b harus terlebih 
+dahulu memperoleh penetapan dari Bank Indonesia. 
+(2) Pihak yang dapat memperoleh penetapan menjadi PIP 
+harus berupa: 
+a. Bank; atau 
+b. Lembaga Selain Bank. 
+(3) Ketentuan seb agaimana dimaksud pada ayat (1) tidak 
+berlaku bagi Bank Indonesia sebagai PIP. 
+ 
+Pasal 23 
+(1) Penetapan sebagaimana dimaksud dalam Pasal 2 2 
+dilakukan berdasarkan penilaian Bank Indonesia. 
+(2) Bank Indonesia melakukan penilaian sebagaimana 
+dimaksud pada ayat (1) dengan mempertimbangkan: 
+a. dampak terhadap stabilitas sistem keuangan; 
+dan/atau 
+b. kepentingan publik. 
+(3) Bank Indonesia dapat menetapkan jangka waktu tertentu 
+untuk berlakunya penetapan yang diberikan kepada PIP 
+sebagaimana dimaksud pada ayat (1). 
+ 
+Pasal 24 
+(1) Selain mempertimbangkan hal -hal sebagaimana 
+dimaksud dalam Pasal 2 3 ayat (2), Bank Indonesia 
+mengharuskan calon PIP untuk memenuhi persyaratan 
+penetapan yang mencakup aspek: 
+a. kelembagaan; 
+b. permodalan dan keuangan; 
+c. manajemen risiko; dan 
+d. kapabilitas sistem informasi.
+
+[Halaman 15]
+- 15 - 
+ 
+(2) Aspek kelembagaan sebagaimana dimaksud pada ayat (1) 
+huruf a meliputi legalitas badan hukum, kepemilikan, 
+pengendalian, dan kepengurusan. 
+(3) Aspek permodalan dan keuangan sebagaimana dimaksud 
+pada ayat (1) huruf b meliputi persyaratan minimal modal 
+disetor, analisis kelayakan, dan proyeksi bisnis. 
+(4) Aspek manajemen risiko sebagaimana dimaksud pada 
+ayat (1) huruf c meliputi risiko hukum, risiko operasional, 
+dan risiko likuiditas. 
+(5) Aspek kapabilitas sistem informasi sebagaimana 
+dimaksud pada ayat (1) huruf d meliputi keamanan dan 
+keandalan sistem informasi. 
+ 
+Pasal 25 
+(1) Aspek kelembagaan berupa kepemilikan sebagaimana 
+dimaksud dalam Pasal 24 ayat (2) bagi PIP yang berbentuk 
+Lembaga Selain Bank diatur sebagai berikut: 
+a. komposisi kepemilikan saham paling sedikit 80 % 
+(delapan puluh persen) sahamnya dimiliki oleh: 
+1. warga negara Indonesia; dan/atau 
+2. badan hukum Indonesia; dan 
+b. perhitungan komposisi kepemilikan saham bagi PI P 
+berupa Lembaga Selain Bank yang berbentuk 
+perseroan terbuka hanya dilakukan terhadap 
+kepemilikan saham dengan persentase kepemilikan 
+saham sebesar 5% (lima persen) atau lebih. 
+(2) Aspek kelemba gaan berupa pengendalian sebagaimana 
+dimaksud dalam Pasal 24 ayat (2) bagi PI P berupa 
+Lembaga Selain Bank diatur sebagai berikut: 
+a. komposisi saham dengan hak suara paling sedikit 
+80% (delapan puluh persen) harus dimiliki oleh pihak 
+domestik, yaitu: 
+1. warga negara Indonesia; dan/atau 
+2. badan hukum Indonesia; 
+b. dalam hal terdapat hak khusus untuk mencalonkan 
+mayoritas anggota direksi dan/atau anggota dewan
+
+[Halaman 16]
+- 16 - 
+ 
+komisaris, hak tersebut harus dimiliki oleh pihak 
+domestik; dan 
+c. dalam hal terdapat hak khusus berupa hak veto 
+terhadap suatu keputusan atau persetuj uan dalam 
+rapat umum pemegang saham yang berdampak 
+signifikan terhadap perusahaan, hak tersebut harus 
+dimiliki oleh pihak domestik. 
+(3) PIP berupa Lembaga Selain Bank yang telah memperoleh 
+penetapan wajib tetap memelihara pemenuhan komposisi 
+kepemilikan saham sebagaimana dimaksud pada ayat (1) 
+dan pengendalian domestik sebagaimana dimaksud pada 
+ayat (2). 
+(4) Bank Indonesia dapat menetapkan aspek kelembagaan 
+berupa pengendalian lainnya berdasarkan penilaian Bank 
+Indonesia. 
+(5) Dalam hal PIP telah memperoleh izin kelemba gaan dari 
+otoritas lain, Bank Indonesia dapat menetapkan kebijakan 
+lain terkait dengan aspek kelembagaan berupa 
+kepemilikan dan/atau pengendalian. 
+ 
+Pasal 26 
+Dalam hal diperlukan, Bank Indonesia dapat meminta calon 
+PIP menyampaikan data dan/atau informasi tambahan untuk 
+memenuhi persyaratan sebagaimana dimaksud dalam Pasal 
+24. 
+ 
+Pasal 27 
+Ketentuan mengenai penetapan PIP diatur dengan Peraturan 
+Bank Indonesia. 
+ 
+Bagian Keempat 
+Pembatasan Perizinan PJP dan Penetapan PIP 
+ 
+Pasal 28 
+Setiap pihak hanya dapat mengajukan permohonan atau 
+memiliki izin atau penetapan sebagai salah satu penyelenggara
+
+[Halaman 17]
+- 17 - 
+ 
+jasa Sistem Pembayaran sebagaimana dimaksud dalam Pasal 5 
+ayat (1). 
+ 
+Pasal 29 
+Izin dan/atau penetapan yang diberikan oleh Bank Indonesia 
+tidak dapat dialihkan kepada pihak lain. 
+ 
+Pasal 30 
+(1) Bank Indonesia berwenang mengenakan sanksi 
+administratif kepada PJP dan/atau PIP atas pelanggaran 
+kewajiban sebagaimana dimaksud dalam Pasal 19 ayat (3) 
+dan Pasal 25 ayat (3) berupa: 
+a. teguran; 
+b. denda; 
+c. penghentian sementara, sebagian , atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+dan/atau 
+d. pencabutan izin sebagai PJP atau penetapan sebagai 
+PIP. 
+(2) Ketentuan mengenai t ata cara pengenaan sanksi 
+administratif sebagaimana dimaksud pada ayat (1) diatur 
+dengan Peraturan Bank Indonesia. 
+ 
+BAB V 
+PENYELENGGARAAN SISTEM PEMBAYARAN 
+ 
+Bagian Kesatu 
+Kewajiban PJP 
+ 
+Pasal 31 
+(1) Dalam menyelenggarakan Sistem Pembayaran, PJP yang 
+telah memperoleh izin wajib memenuhi kewajiban yang 
+ditetapkan Bank Indonesia. 
+(2) Kewajiban sebagaimana dimaksud pada ayat (1) meliputi 
+pemenuhan aspek: 
+a. tata kelola; 
+b. manajemen risiko termasuk prinsip kehati-hatian;
+
+[Halaman 18]
+- 18 - 
+ 
+c. standar keamanan sistem informasi; 
+d. interkoneksi dan interoperabilitas; dan 
+e. pemenuhan ketentuan peraturan perundang -
+undangan. 
+ 
+Pasal 32 
+(1) Aspek tata kelola sebagaimana dimaksud dalam Pasal 31 
+ayat (2) huruf a dilaksanakan berdasarkan prinsip: 
+a. keterbukaan; 
+b. akuntabilitas; 
+c. tanggung jawab; 
+d. independensi; dan 
+e. kewajaran. 
+(2) Ruang lingkup pelaksanaan tata kelola paling sedikit: 
+a. pelaksanaan tugas dan tanggung jawab: 
+1. direksi dan dewan komisaris bagi PJP berbadan 
+hukum perseroan terbatas; atau 
+2. fungsi atau organ yang menjalankan fungsi 
+pengurus dan pengawas bagi PJP berbadan 
+hukum lain; 
+b. pelaksanaan fungsi audit secara berkala; dan 
+c. keterbukaan i nformasi terkait penyelenggaraan 
+Sistem Pembayaran. 
+ 
+Pasal 33 
+Aspek man ajemen risiko termasuk prinsip kehati -hatian 
+sebagaimana dimaksud dalam Pasal 31 ayat (2) huruf b 
+mencakup: 
+a. pengawasan aktif oleh: 
+1. direksi dan dewan komisaris bagi PJP berbadan 
+hukum perseroan terbatas; atau 
+2. fungsi atau organ yang menjalankan fungsi pengurus 
+dan pengawas bagi PJP berbadan hukum lain. 
+b. ketersediaan kebijakan dan prosedur serta pemenuhan 
+kecukupan struktur organisasi;
+
+[Halaman 19]
+- 19 - 
+ 
+c. proses manajemen risiko dan fungsi manajemen risiko, 
+serta sumber daya manusia; dan 
+d. pengendalian intern. 
+ 
+Pasal 34 
+Aspek standar keamanan sistem informasi sebagaimana 
+dimaksud dalam Pasal 31 ayat (2) huruf c mencakup: 
+a. ketersediaan kebijakan dan prosedur tertulis sistem 
+informasi; 
+b. penggunaan sistem yang aman dan andal paling sedikit: 
+1. pengamanan dan perlindungan kerahasiaan data; 
+2. pengelolaan fraud; 
+3. pemenuhan sertifikasi dan/atau standar keamanan 
+dan keandalan sistem; dan 
+4. pemeliharaan dan peningkatan keamanan teknologi; 
+c. penerapan standar keamanan siber; 
+d. pengamanan data dan/atau informasi; dan 
+e. pelaksanaan audit sistem informasi secara berkala. 
+ 
+Pasal 35 
+(1) Aspek interkoneksi dan interoperabilitas sebagaimana 
+dimaksud dalam Pasal 31 ayat (2) huruf d mencakup: 
+a. kepatuhan terhadap mekanisme interkoneksi dan 
+interoperabilitas, termasuk standar yang ditetapkan 
+oleh Bank Indonesia; 
+b. keterhubungan dengan infrastruktur data dan 
+infrastruktur Sistem Pembayaran; dan 
+c. pemrosesan transaksi pembayaran secara domestik. 
+(2) Pemrosesan transaksi pembayaran secara domestik 
+sebagaimana dimaksud pada ayat (1) huruf c berlaku 
+untuk tahapan inisiasi, otorisasi, kliring, dan penyelesaian 
+akhir.
+
+[Halaman 20]
+- 20 - 
+ 
+(3) Pemrosesan transaksi pembayaran secara domestik 
+sebagaimana dimaksud pada ayat (2) dilakukan untuk 
+setiap transaksi yang: 
+a. menggunakan akses ke Sumber Dana berupa 
+instrumen dan/atau layanan yang diselenggarakan 
+oleh PJP; dan 
+b. dilakukan di wilayah Negara Kesatuan Republik 
+Indonesia. 
+(4) Bank Indonesia menetapkan jenis akses ke Sumber Dana 
+dan tahapan pemberlakuan pemrosesan transaksi secara 
+domestik sebagaimana dimaksud pada ayat (2). 
+(5) Transaksi pembayaran sebagaimana dimaksud pada ayat 
+(2) dapat diproses di luar wilayah Negara Kesatuan 
+Republik Indonesia sepanjang memperoleh persetujuan 
+Bank Indonesia. 
+ 
+Pasal 36 
+Penerapan kewajiban PJP dalam penyelenggaraan Sistem 
+Pembayaran sebagaimana dimaksud dalam Pasal 31 
+disesuaikan dengan aktivitas PJP. 
+ 
+Pasal 37 
+Ketentuan mengenai kewajiban PJP dalam penyelenggaraan 
+Sistem Pembayaran diatur dengan Peraturan Bank Indonesia. 
+ 
+Bagian Kedua 
+Kewajiban PIP 
+ 
+Pasal 38 
+(1) Dalam menyelenggarakan infrastruktur Sistem 
+Pembayaran, PIP yang telah memperoleh penetapan wajib 
+memenuhi kewajiban yang ditetapkan Bank Indonesia. 
+(2) Kewajiban sebagaimana dimaksud pada ayat (1) meliputi 
+pemenuhan aspek: 
+a. tata kelola; 
+b. manajemen risiko termasuk prinsip kehati-hatian; 
+c. standar keamanan sistem informasi;
+
+[Halaman 21]
+- 21 - 
+ 
+d. interkoneksi dan interoperabilitas; 
+e. ketersediaan sarana dan prasarana penyelenggaraan 
+infrastruktur; 
+f. tata cara dan mekanisme penyelenggaraan 
+infrastruktur; 
+g. kepesertaan dalam infrastruktur; dan 
+h. pemenuhan ketentuan peraturan perundang -
+undangan. 
+ 
+Pasal 39 
+(1) Aspek tata kelola sebagaimana dimaksud dalam Pasal 38 
+ayat (2) huruf a dilaksanakan berdasarkan prinsip: 
+a. keterbukaan; 
+b. akuntabilitas; 
+c. tanggung jawab; 
+d. independensi; dan 
+e. kewajaran. 
+(2) Ruang lingkup pelaksanaan tata kelola paling sedikit: 
+a. pelaksanaan tugas dan tanggung jawab direksi dan 
+dewan komisaris; 
+b. pelaksanaan fungsi audit secara berkala; 
+c. komunikasi dan kolaborasi dengan pihak terkait; dan 
+d. keterbukaan informasi terkait penyelenggaraan 
+Sistem Pembayaran. 
+ 
+Pasal 40 
+Aspek manajemen risiko termasuk prinsip kehati -hatian 
+sebagaimana dimaksud dalam Pasal 3 8 ayat (2) huruf b 
+mencakup: 
+a. pengawasan aktif direksi dan dewan komisaris; 
+b. ketersediaan kebijakan dan prosedur serta pemenuhan 
+kecukupan struktur organisasi; 
+c. proses manajemen risiko dan fungsi manajemen risiko, 
+serta sumber daya manusia; dan 
+d. pengendalian intern.
+
+[Halaman 22]
+- 22 - 
+ 
+Pasal 41 
+Aspek standar keamanan sistem informasi sebagaimana 
+dimaksud dalam Pasal 38 ayat (2) huruf c mencakup: 
+a. ketersediaan kebijakan dan prosedur tertulis sistem 
+informasi; 
+b. penggunaan sistem yang aman dan andal paling sedikit: 
+1. pengamanan dan perlindungan kerahasiaan data; 
+2. pengelolaan fraud; 
+3. pemenuhan sertifikasi dan/atau standar keamanan 
+dan keandalan sistem; dan 
+4. pemeliharaan dan peningkatan keamanan teknologi; 
+c. penerapan standar keamanan siber; 
+d. pengamanan data dan/atau informasi; dan 
+e. pelaksanaan audit sistem informasi secara berkala. 
+ 
+Pasal 42 
+(1) Aspek interkoneksi dan interoperabilitas sebagaimana 
+dimaksud dalam Pasal 38 ayat (2) huruf d mencakup: 
+a. kepatuhan terhadap mekanisme interkoneksi dan 
+interoperabilitas, termasuk standar yang ditetapkan 
+oleh Bank Indonesia; 
+b. keterhubungan dengan infrastruktur data dan 
+infrastruktur Sistem Pembayaran; dan 
+c. pemrosesan transaksi pembayaran secara domestik. 
+(2) Pemrosesan transaksi pembayaran secara domestik 
+sebagaimana dimaksud pada ayat (1) huruf c berlaku 
+untuk tahapan inisiasi, otorisasi, kliring, dan penyelesaian 
+akhir. 
+(3) Pemrosesan transaksi pembayaran secara domestik 
+sebagaimana dimaksud pada ayat (2) dilakukan untuk 
+setiap transaksi yang: 
+a. menggunakan akses ke Sumber Dana berupa 
+instrumen dan/atau layanan yang diselenggarakan 
+oleh PJP; dan 
+b. dilakukan di wilayah Negara Kesatuan Republik 
+Indonesia.
+
+[Halaman 23]
+- 23 - 
+ 
+(4) Bank Indonesia menetapkan jenis akses ke Sumber Dana 
+dan tahapan pemberlakuan pemrosesan transaksi secara 
+domestik sebagaimana dimaksud pada ayat (2). 
+(5) Transaksi pembayaran sebagaimana dimaksud pada ayat 
+(2) dapat diproses di luar wilayah Negara Kesatuan 
+Republik Indonesia sepanjang memperoleh persetujuan 
+Bank Indonesia. 
+ 
+Pasal 43 
+Aspek kepesertaan dalam infrastruktur sebagaimana dimaksud 
+dalam Pasal 38 ayat (2) huruf g mencakup: 
+a. kriteria dan persyaratan untuk menjadi peserta 
+infrastruktur; 
+b. ruang lingkup layanan PIP kepada peserta; 
+c. hak dan kewajiban peserta; 
+d. mekanisme penyelesaian sengketa antara PIP dengan 
+peserta dan antarpeserta; dan 
+e. pemantauan kepatuhan peserta dan pihak lain y ang 
+melaksanakan transaksi terhadap ketentuan Bank 
+Indonesia maupun ketentuan PIP. 
+ 
+Pasal 44 
+Ketentuan mengenai kewajiban PIP dalam penyelenggaraan 
+Sistem Pembayaran diatur dengan Peraturan Bank Indonesia. 
+ 
+Bagian Ketiga 
+Penyelenggaraan Transfer Dana 
+ 
+Pasal 45 
+Penyelenggaraan kegiatan transfer dana oleh PJP dan/atau PIP 
+dilaksanakan sesuai dengan ketentuan peraturan 
+perundangan-undangan mengenai transfer dana.
+
+[Halaman 24]
+- 24 - 
+ 
+Bagian Keempat 
+Klasifikasi PJP dan PIP 
+ 
+Pasal 46 
+Dalam penyelenggaraan Sistem Pembayaran, Bank Indonesia 
+menetapkan klasifikasi PJP dan PIP. 
+ 
+Pasal 47 
+Klasifikasi PJP dan PIP sebagaimana dimaksud dalam Pasal 46 
+terdiri atas: 
+a. PSPS; 
+b. PSPK; dan 
+c. PSPU. 
+ 
+Pasal 48 
+Dalam menetapkan klasifikasi sebagaimana dimaksud dalam 
+Pasal 47, Bank Indonesia mempertimbangkan kriteria: 
+a. ukuran; 
+b. keterhubungan; 
+c. kompleksitas; dan/atau 
+d. ketergantian. 
+ 
+Pasal 49 
+(1) Bank Indonesia dapat menetapkan pemenuhan kewajiban 
+tertentu sesuai klasifikasi PJP dan PIP sebagaimana 
+dimaksud dalam Pasal 47. 
+(2) Pemenuhan kewajiban tertentu sesuai klasifikasi PJP dan 
+PIP sebagaimana dimaksud pada ayat (1) mencakup 
+aspek: 
+a. permodalan; 
+b. manajemen risiko dan sistem informasi; dan 
+c. aspek lainnya yang ditetapkan Bank Indonesia. 
+ 
+Pasal 50 
+Bank Indonesia melakukan evaluasi terhadap penetapan 
+klasifikasi PJP dan PIP sebagaimana dimaksud dalam Pasal 47 
+secara berkala.
+
+[Halaman 25]
+- 25 - 
+ 
+Pasal 51 
+Bank Indonesia menyampaikan pemberitahuan tertulis kepada 
+PJP dan PIP mengenai: 
+a. hasil klasifikasi PJP dan PIP sebagaimana dimaksud 
+dalam Pasal 47; dan 
+b. hasil evaluasi terhadap penetapan PJP dan PIP 
+sebagaimana dimaksud dalam Pasal 5 0, jika terdapat 
+perubahan klasifikasi PJP dan PIP. 
+ 
+Pasal 52 
+Ketentuan mengenai kewajiban terkait klasifikasi PJP dan PIP 
+diatur dengan Peraturan Bank Indonesia. 
+ 
+Bagian Kelima 
+Pengembangan Aktivitas, Pengembangan Produk, 
+dan/atau Kerja Sama 
+ 
+Paragraf 1 
+Umum 
+ 
+Pasal 53 
+(1) PJP dan PIP dapat melakukan pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama dengan 
+pihak lain. 
+(2) Kerja sama dengan pihak lain sebagaimana dimaksud 
+pada ayat (1) dapat dilakukan dengan: 
+a. PJP atau PIP lainnya; dan 
+b. Penyelenggara Penunjang. 
+ 
+Paragraf 2 
+Kategori Pengembangan Aktivitas, Pengembangan Produk, 
+dan/atau Kerja Sama 
+ 
+Pasal 54 
+(1) Pengembangan aktivitas, pengembangan produk, 
+dan/atau kerja sama sebagaimana dimaksud dalam
+
+[Halaman 26]
+- 26 - 
+ 
+Pasal 53 dikategorikan menurut tingkat risiko yang terdiri 
+atas risiko rendah, risiko sedang, dan risiko tinggi. 
+(2) Kategori r isiko rendah, risiko sedang, dan risiko tinggi 
+sebagaimana dimaksud pada ayat (1) ditetapkan: 
+a. risiko rendah, dalam hal pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama: 
+1. tidak mengakibatkan perubahan model bisnis, 
+sistem, dan infrastruktur yang digunakan; atau 
+2. mengakibatkan perubahan model bisnis, sistem, 
+dan/atau infrastruktur yang digunakan dengan 
+skala rendah; 
+b. risiko sedang, dalam hal pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama 
+mengakibatkan perubahan dengan skala sedang pada 
+model bisnis, sistem, dan/atau infrastruktur; dan 
+c. risiko tinggi, dalam hal pengembanga n aktivitas, 
+pengembangan produk, dan/atau kerja sama 
+mengakibatkan perubahan dengan skala tinggi pada 
+model bisnis, sistem, dan/atau infrastruktur. 
+ 
+Paragraf 3 
+Pengajuan Pengembangan Aktivitas, Pengembangan Produk, 
+dan/atau Kerja Sama 
+ 
+Pasal 55 
+(1) PJP dan PIP harus terlebih dahulu melakukan penilaian 
+risiko secara self asessment terhadap rencana 
+pengembangan aktivitas, pengembangan produk, 
+dan/atau kerja sama yang akan diselenggarakan 
+berdasarkan kategori risiko sebagaimana dimaksud dalam 
+Pasal 54. 
+(2) Terhadap hasil penilaian PJP dan PIP secara self 
+asessment sebagaimana dimaksud pada ayat (1) , Bank 
+Indonesia dapat menetapkan kategori risiko yang berbeda 
+dari hasil penilaian PJP dan PIP. 
+(3) Dalam hal terdapat perbedaan kategori risiko antara hasil 
+penilaian PJP dan PIP sebagaimana dimaksud pada ayat
+
+[Halaman 27]
+- 27 - 
+ 
+(2) dengan penilaian Bank Indonesia, kategori risiko yang 
+digunakan merupakan kategori risiko yang ditetapkan 
+Bank Indonesia. 
+ 
+Pasal 56 
+Berdasarkan hasil penilaian risiko sebagaimana dimaksud 
+dalam Pasal 55, PJP dan PIP wajib: 
+a. menyampaikan laporan pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama kepada 
+Bank Indonesia , jika pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama memenuhi 
+kategori berisiko rendah; atau 
+b. menyampaikan perm ohonan persetujuan pengembangan 
+aktivitas, pengembangan produk, dan/atau kerja sama 
+kepada Bank Indonesia , jika pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama memenuhi 
+kategori berisiko sedang atau tinggi. 
+ 
+Pasal 57 
+Penyampaian permohonan persetujuan untuk pengembangan 
+aktivitas, pengembangan produk, dan/atau kerja sama 
+sebagaimana dimaksud dalam Pasal 56 huruf b disertai dengan 
+dokumen pendukung pemenuhan persyaratan meliputi aspek: 
+a. kesiapan operasional; 
+b. keamanan dan keandalan sistem; 
+c. penerapan manajemen risiko; dan 
+d. perlindungan konsumen. 
+ 
+Pasal 58 
+Dalam hal diperlukan, Bank Indonesia dapat meminta PJP atau 
+PIP untuk menyampaikan data dan/atau informasi tambahan 
+untuk memenuhi persyaratan sebagaimana dimaksud dalam 
+Pasal 57.
+
+[Halaman 28]
+- 28 - 
+ 
+Paragraf 4 
+Pemrosesan Pengajuan Pengembangan Aktivitas, 
+Pengembangan Produk, dan/atau Kerja Sama 
+ 
+Pasal 59 
+Untuk memproses permohonan persetujuan se bagaimana 
+dimaksud dalam Pasal 56 huruf b, Bank Indonesia melakukan: 
+a. penelitian administratif; 
+b. analisis terhadap model bisnis dari rencana 
+pengembangan aktivitas, pengembangan produk , 
+dan/atau kerja sama; 
+c. analisis terhadap pemenuhan persyaratan berdasarkan 
+dokumen yang disampaikan sebagaimana dimaksud 
+dalam Pasal 57 dan Pasal 58; dan 
+d. pemeriksaan, jika diperlukan. 
+ 
+Pasal 60 
+Berdasarkan pemrosesan permohonan persetujuan 
+sebagaimana dimaksud dalam Pasal 59, Bank Indonesia 
+menetapkan keputusan untuk: 
+a. menyetujui; atau 
+b. menolak, 
+permohonan persetujuan yang diajukan. 
+ 
+Paragraf 5 
+Kerja Sama dengan Penyelenggara Penunjang 
+ 
+Pasal 61 
+(1) PJP dan PIP yang melakukan kerja sama dengan 
+Penyelenggara Penunjang harus: 
+a. melakukan asesmen terhadap Penyelenggara 
+Penunjang; dan 
+b. bertanggung jawab penuh atas keamanan dan 
+kelancaran pemrosesan transaksi pembayaran. 
+(2) Tanggung jawab atas keamanan dan kelancaran 
+pemrosesan transaksi pembayaran sebagaimana
+
+[Halaman 29]
+- 29 - 
+ 
+dimaksud pada ayat (1) huruf b dilakukan paling sedikit 
+dengan cara: 
+a. memiliki mekanisme pemantauan terhadap kinerja 
+Penyelenggara Penunjang; 
+b. memastikan penerapan manajemen risiko oleh 
+Penyelenggara Penunjang; dan 
+c. memastikan tersedianya akses ke Penyelenggara 
+Penunjang bagi Bank Indonesia. 
+ 
+Pasal 62 
+Bank Indonesia dapat mengenakan persyaratan tertentu 
+kepada Penyelenggara Penunjang yang melakukan penerusan 
+pembayaran dari PJP kepada Penyedia Barang dan/atau Jasa. 
+ 
+Paragraf 6 
+Kerja Sama dengan Penyelenggara Penunjang dan/atau 
+Penyelenggara Jasa Sistem Pembayaran di Luar Wilayah 
+Negara Kesatuan Republik Indonesia 
+ 
+Pasal 63 
+Selain mempertimbangkan pemenuhan persyaratan 
+sebagaimana dimaksud dalam Pasal 57, dalam hal terdapat 
+pengajuan kerja sama oleh PJP atau PIP dengan Penyelenggara 
+Penunjang dan/atau penyelenggara jasa Sistem Pembayaran di 
+luar wilayah Negara Kesatuan Republik Indonesia, Bank 
+Indonesia dapat mempertimbangkan hal-hal: 
+a. aspek resiprokalitas; 
+b. kesetaraan standar penerapan manajemen risiko; dan 
+c. manfaat untuk perekonomian Indonesia. 
+ 
+Pasal 64 
+Ketentuan mengenai pengembangan aktivitas , pengembangan 
+produk, dan/atau kerja sama diatur dengan Peraturan Bank 
+Indonesia.
+
+[Halaman 30]
+- 30 - 
+ 
+Bagian Keenam 
+Aksi Korporasi, Perubahan Kepemilikan, dan Perubahan 
+Pengendalian PJP dan PIP 
+ 
+Pasal 65 
+Dalam hal PJP atau PIP melakukan aksi korporasi berupa 
+penggabungan, peleburan, pemisahan, dan/atau terdapat 
+pengambilalihan terhadap PJP atau PIP , berlaku ketentuan 
+untuk: 
+a. PJP atau PIP berupa Lembaga Selain Bank, wajib terlebih 
+dahulu memperoleh persetujuan dari Bank Indonesia; dan 
+b. PJP atau PIP berupa Bank, wajib menyampaikan laporan 
+kepada Bank Indonesia. 
+ 
+Pasal 66 
+Permohonan persetujuan sebagaimana dimaksud dalam Pasal 
+65 huruf a dan laporan sebagaimana dimaksud dalam Pasal 65 
+huruf b paling sedikit memuat informasi: 
+a. latar belakang aksi korporasi; 
+b. pihak yang akan melakukan aksi korporasi; 
+c. target waktu pelaksanaan aksi korporasi; 
+d. susunan pengurus, pemegang saham, dan struktur 
+kepemilikan korporasi setelah aksi korporasi; dan 
+e. rencana bisnis penyelenggaraan jasa Sistem Pembayaran 
+setelah aksi korporasi. 
+ 
+Pasal 67 
+Dalam hal badan hukum hasil penggabungan, peleburan, atau 
+pemisahan belum mempunyai izin sebagai PJP atau penetapan 
+sebagai PIP , badan hukum hasil penggabungan, peleburan, 
+atau pemisahan wajib terlebih dahulu memperoleh izin atau 
+penetapan dari Bank Indonesia.
+
+[Halaman 31]
+- 31 - 
+ 
+Bagian Ketujuh 
+Sumber Dana dan Akses ke Sumber Dana 
+ 
+Pasal 68 
+Sumber Dana harus memenuhi unsur: 
+a. memiliki nilai dalam satuan rupiah; 
+b. digunakan untuk tujuan pembayaran dan/atau 
+pemenuhan kegiatan ekonomi; 
+c. nilai uang pada Sumber Dana didasarkan atas dana yang 
+disetorkan terlebih dahulu kepada pihak yang 
+menatausahakan Sumber Dana atau berupa fasilitas 
+kredit yang disediakan oleh pihak ya ng menatausahakan 
+Sumber Dana; 
+d. disimpan dalam media elektronik atau media lainnya; 
+e. dapat digunakan untuk pembayaran selain pada pihak 
+yang menatausahakan Sumber Dana atau hanya dapat 
+digunakan untuk pembayaran pada pihak yang 
+menatausahakan Sumber Dana dengan batasan yang 
+ditetapkan Bank Indonesia; dan 
+f. merepresentasikan hak Pengguna Jasa dan/atau klaim 
+terhadap penerbit kecuali untuk Sumber Dana yang 
+didasarkan pada fasilitas kredit. 
+ 
+Pasal 69 
+Bank Indonesia dapat menetapkan kriteria, ruang lingkup, dan 
+jenis akses ke Sumber Dana berdasarkan mekanisme 
+perpindahan dana melalui: 
+a. transfer kredit; dan 
+b. transfer debit. 
+ 
+Pasal 70 
+Bank Indonesia dapat menetapkan persyaratan tertentu atas 
+penggunaan Sumber Dana dan akses ke Sumber Dana di 
+wilayah Negara Kesatuan Republik Indonesia yang 
+diselenggarakan oleh penyelenggara asing.
+
+[Halaman 32]
+- 32 - 
+ 
+Pasal 71 
+Bank Indonesia menetapkan aspek prudensial terkait Sumber 
+Dana dan akses ke Sumber Dana. 
+ 
+Pasal 72 
+Ketentuan mengenai Sumber Dana dan akses ke Sumber Dana 
+diatur dengan Peraturan Bank Indonesia. 
+ 
+Bagian Kedelapan 
+Larangan Bagi PJP dan PIP 
+ 
+Pasal 73 
+Bank Indonesia dapat menetapkan pengaturan mengenai 
+larangan bagi: 
+a. PJP untuk memiliki dan/atau mengelola nilai yang dapat 
+dipersamakan dengan nilai uang atau nilai selain rupiah 
+yang dapat digunakan secara luas di luar lingkup PJP yang 
+bersangkutan; dan 
+b. PJP dan PIP untuk menerima, menggunakan, mengaitkan, 
+dan/atau melakukan pemrose san transaksi pembayaran 
+dengan menggunakan virtual currency. 
+ 
+Bagian Kesembilan 
+Penyelenggaraan Interface Pembayaran Terintegrasi 
+ 
+Pasal 74 
+(1) Bank Indonesia dapat menyelenggarakan infrastruktur 
+interface pembayaran terintegrasi yang menghubungkan 
+akses ke Sumber Dana dengan PJP untuk meneruskan 
+proses inisiasi dan/atau otorisasi transaksi pembayaran. 
+(2) Ketentuan mengenai interface pembayaran terintegrasi 
+diatur dengan Peraturan Bank Indonesia.
+
+[Halaman 33]
+- 33 - 
+ 
+Bagian Kesepuluh 
+Penyelenggaraan Infrastruktur Sistem Pembayaran yang 
+Berdampak Sistemik 
+ 
+Pasal 75 
+(1) Bank Indonesia menetapkan infrastruktur Sistem 
+Pembayaran yang dikategorikan sebagai infrastruktur 
+pasar keuangan yang berdampak sistemik. 
+(2) Penetapan sebagaimana dimaksud pada ayat (1) 
+didasarkan pada pertimbangan: 
+a. jumlah dan nilai transaksi yang diproses; 
+b. jumlah dan jenis peserta; 
+c. jenis pasar yang dilayani; 
+d. pangsa pasar; 
+e. keterhubungan dengan infrastruktur pasar keuangan 
+dan institusi keuangan lainnya; 
+f. ketersediaan infrastruktur Sistem Pembayaran 
+pengganti dengan segera; dan/atau 
+g. hal lainnya yang ditetapkan Bank Indonesia. 
+ 
+Pasal 76 
+(1) Penyelenggaraan infrastruktur Sistem Pembayaran yang 
+dikategorikan sebagai infrastruktur pasar keuangan yang 
+berdampak sistemik sebagaimana dimaksud dalam Pasal 
+75 dilaksanakan sesuai standar internasional yang 
+berlaku. 
+(2) Pemenuhan standar internasional sebagaimana dimaksud 
+pada ayat (1) mencakup: 
+a. aspek penyelenggaraan infrastruktur; dan 
+b. aspek tanggung jawab otoritas dalam melakukan 
+pemantauan. 
+(3) Tindak lanjut pemantauan sebagaimana dimaksud pada 
+ayat (2) huruf b berupa: 
+a. moral suasion; 
+b. rekomendasi kebijakan, pengaturan, atau 
+pengembangan;
+
+[Halaman 34]
+- 34 - 
+ 
+c. koordinasi dengan otoritas terkait; dan/atau 
+d. tindakan lainnya yang ditetapkan Bank Indonesia. 
+ 
+Pasal 77 
+Ketentuan mengenai infrastruktur pasar keuangan yang 
+berdampak sistemik diatur dengan Peraturan Bank Indonesia. 
+ 
+Pasal 78 
+(1) Bank Indonesia berwenang mengenakan sanksi 
+administratif kepada PJP dan PIP atas pelanggaran 
+kewajiban sebagaimana dimaksud dalam Pasal 31 ayat (1), 
+Pasal 38 ayat (1), Pasal 56, Pasal 65, dan Pasal 67 berupa: 
+a. teguran; 
+b. denda; 
+c. penghentian sementara, sebagian , atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+dan/atau 
+d. pencabutan izin sebagai PJP atau penetapan sebagai 
+PIP. 
+(2) Ketentuan mengenai t ata cara pengenaan sanksi 
+administratif sebagaimana dimaksud pada ayat (1) diatur 
+dengan Peraturan Bank Indonesia. 
+ 
+BAB VI 
+INOVASI TEKNOLOGI SISTEM PEMBAYARAN 
+ 
+Pasal 79 
+Bank Indonesia menyediakan ruang uji coba pengembangan 
+inovasi teknologi Sistem Pembaya ran untuk mendukung 
+pengembangan ekonomi dan keuangan digital. 
+ 
+Pasal 80 
+Inovasi teknologi Sistem Pembayaran mencakup produk, 
+aktivitas, layanan, dan model bisnis yang menggunakan 
+teknologi inovatif dalam ekosistem ekonomi dan keuangan 
+digital yang dapat mendukung penyelenggaraan Sistem 
+Pembayaran.
+
+[Halaman 35]
+- 35 - 
+ 
+Pasal 81 
+Penyediaan ruang uji coba sebagaimana dimaksud dalam Pasal 
+79 bertujuan untuk: 
+a. mendorong inovasi teknologi; dan 
+b. melakukan pemantauan dan deteksi terhadap peluang 
+dan risiko dari inovasi teknologi, 
+terhadap pengembangan ekosistem ekonomi dan keuangan 
+digital serta penyelenggaraan Sistem Pembayaran. 
+ 
+Pasal 82 
+Uji coba pengembangan inovasi teknologi Sistem Pembayaran 
+sebagaimana dimaksud dalam Pasal 79 dilakukan Bank 
+Indonesia melalui uji coba: 
+a. pengembangan inovasi yang belum digunakan atau telah 
+digunakan di industri Sistem Pembayaran secara terbatas 
+(innovation lab); 
+b. inovasi terhadap kebijakan atau ketentuan Sistem 
+Pembayaran (regulatory sandbox); dan 
+c. inovasi yang telah digunakan di industri Sistem 
+Pembayaran dan perlu didorong untuk digunakan secara 
+luas (industrial sandbox). 
+ 
+Pasal 83 
+Uji coba pengembangan inovasi teknologi Sistem Pembayaran 
+sebagaimana dimaksud dalam Pasal 82 dapat berasal dari: 
+a. permohonan yang diajukan oleh: 
+1. PJP; 
+2. PIP; atau 
+3. pihak lain yang ditetapkan Bank Indonesia; atau 
+b. inisiatif dari Bank Indonesia. 
+ 
+Pasal 84 
+Dalam pelaksanaan uji coba pengembangan inovasi teknologi 
+Sistem Pembayaran sebagaimana dimaksud dalam Pasal 82, 
+Bank Indonesia dapat mengikutsertakan SRO dan/atau pihak 
+lain.
+
+[Halaman 36]
+- 36 - 
+ 
+Pasal 85 
+Ketentuan mengenai inovasi teknologi Sistem Pembayaran 
+diatur dengan Peraturan Bank Indonesia. 
+ 
+BAB VII 
+PENGAWASAN SISTEM PEMBAYARAN 
+ 
+Pasal 86 
+Bank Indonesia melakukan pengawasan terhadap 
+penyelenggaraan Sistem Pembayaran dengan menggunakan 
+pendekatan pengawasan berbasis risiko dan/atau kepatuhan. 
+ 
+Pasal 87 
+Pengawasan terhadap penyelenggaraan Sistem Pembayaran 
+ditujukan untuk memastikan tercapainya tujuan 
+penyelenggaraan Sistem Pembayaran sebagaimana dimaksud 
+dalam Pasal 2 dengan tetap mendorong inovasi industri Sistem 
+Pembayaran serta memperhatikan standar dan praktik 
+internasional. 
+ 
+Pasal 88 
+Objek pengawasan terhadap penyelenggaraan Sistem 
+Pembayaran sebagaimana dimaksud dalam Pasal 86 meliputi: 
+a. PJP, PIP , termasuk pihak yang bekerja sama , yang 
+dilakukan melalui pengawasan; dan 
+b. infrastruktur Sistem Pembayaran yang diselenggarakan 
+Bank Indonesia, yang dilakukan melalui pemantauan. 
+ 
+Pasal 89 
+(1) Pengawasan terhadap penyelenggaraan Sistem 
+Pembayaran sebagaimana dimaksud dalam Pasal 88 
+huruf a dilakukan melalui: 
+a. pengawasan tidak langsung; dan 
+b. pengawasan langsung. 
+(2) Bank Indonesia dapat menugaskan pihak lain untuk dan 
+atas nama Bank Indonesia dalam melaksanakan
+
+[Halaman 37]
+- 37 - 
+ 
+pengawasan langsung sebagaimana dimaksud pada ayat 
+(1) huruf b. 
+ 
+ Pasal 90 
+Cakupan pengawasan Bank Indonesia terhadap objek 
+pengawasan sebagaimana dimaksud dalam Pasal 88 huruf a 
+meliputi: 
+a. eksposur risiko, termasuk kepatuhan terhadap peraturan 
+perundang-undangan dan ketentuan yang berlaku; 
+b. penerapan tata kelola dan manajemen risiko; dan 
+c. aspek lainnya yang ditetapkan Bank Indonesia. 
+ 
+Pasal 91 
+Dalam melakukan pengawasan terhadap penyelenggaraan 
+Sistem Pembayaran sebagaimana dimaksud dalam Pasal 86 , 
+Bank Indonesia memperhatikan pula klasifikasi PJP dan PIP 
+sebagaimana dimaksud dalam Pasal 47. 
+ 
+Pasal 92 
+Dalam melakukan pengawasan sebagaimana dimaksud dalam 
+Pasal 86, Bank Indonesia dapat: 
+a. menerapkan pengawasan berbasis teknologi inovatif; 
+dan/atau 
+b. mendorong penggunaan teknologi inovatif oleh industri 
+untuk memastikan kepatuhan terhadap ketentuan dan 
+meningkatkan efektivitas pengawasan. 
+ 
+Pasal 93 
+(1) PJP, PIP, dan pihak yang bekerja sama wajib 
+menyampaikan kepada Bank Indonesia atau pihak lain 
+yang ditugaskan oleh Bank Indonesia: 
+a. dokumen, data, informasi, dan/atau laporan; 
+b. keterangan dan/atau penjelasan baik lisan maupun 
+tertulis;
+
+[Halaman 38]
+- 38 - 
+ 
+c. akses terhadap infrastruktur dan /atau sistem 
+informasi yang diperlukan dalam pengawasan ; 
+dan/atau 
+d. hal lain yang diperlukan. 
+(2) PJP, PIP, dan pihak yang bekerja sama sebagaimana 
+dimaksud pada ayat (1) wajib bertanggung jawab atas 
+keabsahan, kebenaran, kelengkapan, dan ketepatan 
+waktu atas setiap penyampaian dokumen, data, informasi, 
+laporan, keterangan, dan/atau penjelasan kepada Bank 
+Indonesia. 
+(3) Dokumen, data, informasi, laporan, keterangan, dan/atau 
+penjelasan sebagaimana dimaksud pada ayat (2) 
+disampaikan melalui: 
+a. pelaporan; 
+b. pertemuan langsung; dan/atau 
+c. sarana komunikasi lain yang ditetapkan oleh Bank 
+Indonesia. 
+ 
+Pasal 94 
+(1) Bank Indonesia dapat melakukan pengawasan secara 
+terintegrasi terhadap perusahaan induk, perusahaan 
+anak, dan/atau pihak terafiliasi lainnya. 
+(2) PJP, PIP, dan pihak sebagaimana dimaksud pada ayat (1) 
+dilarang menghambat proses pengawasan oleh Bank 
+Indonesia. 
+ 
+Pasal 95 
+Berdasarkan pengawasan sebagaimana dimaksud dalam Pasal 
+89, Bank Indonesia dapat: 
+a. meminta PJP dan/atau PIP untuk: 
+1. melakukan atau tidak melakukan sesuatu; 
+2. membatasi kegiatan atau penyelenggaraan; dan/atau 
+3. menghentikan sementara, sebagian, atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+dan/atau 
+b. mencabut izin, penetapan, dan/atau persetujuan yang 
+telah diberikan.
+
+[Halaman 39]
+- 39 - 
+ 
+Pasal 96 
+(1) Bank Indonesia berwenang mengenakan sanksi 
+administratif kepada PJP dan/atau PIP berupa: 
+a. teguran; 
+b. denda; 
+c. penghentian sementara , sebagian, atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama ; 
+dan/atau 
+d. pencabutan izin sebagai PJP atau penetapan sebagai 
+PIP. 
+(2) Ketentuan mengenai tata cara pengenaan sanksi 
+administratif sebagaimana dimaksud pada ayat (1) diatur 
+dengan Peraturan Bank Indonesia. 
+ 
+Pasal 97 
+Dalam mengenakan sanksi administratif sebagaimana 
+dimaksud dalam Pasal 96, Bank Indonesia mempertimbangkan 
+aspek: 
+a. tingkat kesalahan dan/atau pelanggaran; 
+b. akibat yang ditimbulkan terhadap: 
+1. aspek kelancaran dan keamanan Sistem 
+Pembayaran; 
+2. aspek perlindungan konsumen; 
+3. aspek anti pencucian uang dan pencegahan 
+pendanaan terorisme; dan/atau 
+4. aspek lainnya yang ditetapkan Bank Indonesia. 
+ 
+Pasal 98 
+Bank Indonesia mengenakan sanksi administratif kepada pihak 
+lain yang ditugaskan untuk melakukan pengawasan langsung 
+sebagaimana dimaksud dalam Pasal 89 ayat (2) yang melanggar 
+ketentuan Bank Indonesia, berupa: 
+a. teguran tertulis; 
+b. rekomendasi kepada instansi terkait untuk: 
+1. mengeluarkan pihak lain yang ditugaskan dari daftar 
+profesi tertentu; dan/atau 
+2. melakukan pencabutan izin usaha.
+
+[Halaman 40]
+- 40 - 
+ 
+Pasal 99 
+Ketentuan mengenai pengawasan penyelenggaraan Sistem 
+Pembayaran diatur dengan Peraturan Bank Indonesia. 
+ 
+Pasal 100 
+(1) Bank Indonesia berwenang mengenakan sanksi 
+administratif kepada PJP dan/atau PIP atas pelanggaran 
+kewajiban sebagaimana dimaksud dalam Pasal 93 berupa: 
+a. teguran; 
+b. denda; 
+c. penghentian sementara, sebagian , atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+dan/atau 
+d. pencabutan izin sebagai PJP atau penetapan sebagai 
+PIP. 
+(2) Ketentuan mengenai tata cara pengenaan sanksi 
+administratif sebagaimana dimaksud pada ayat (1) diatur 
+dengan Peraturan Bank Indonesia. 
+ 
+BAB VIII 
+PENGAKHIRAN PENYELENGGARAN SISTEM PEMBAYARAN 
+ 
+Bagian Kesatu 
+Evaluasi Izin dan Evaluasi Penetapan 
+ 
+Pasal 101 
+(1) Bank Indonesia melakukan evaluasi terhadap izin dan 
+penetapan yang telah diberikan kepada PJP dan PIP. 
+(2) Evaluasi sebagaimana dimaksud pada ayat (1) dilakukan 
+berdasarkan: 
+a. hasil pengawasan Bank Indonesia; 
+b. aksi korporasi yang dilakukan oleh PJP dan PIP; 
+c. permohonan perpanjangan izin; 
+d. rekomendasi otoritas lain; 
+e. putusan pengadilan yang telah berkekuatan hukum 
+tetap;
+
+[Halaman 41]
+- 41 - 
+ 
+f. permohonan penyelenggara PJP dan PIP untuk 
+menghentikan kegiatannya; dan/atau 
+g. pertimbangan lainnya. 
+(3) Hasil evaluasi sebagaimana dimaksud pada ayat (2) dapat 
+menjadi dasar bagi Bank Indonesia untuk: 
+a. mempersingkat masa berlaku izin; 
+b. mencabut izin PJP atau penetapan PIP; atau 
+c. memberikan perpanjangan masa berlaku izin atau 
+penetapan. 
+ 
+Bagian Kedua 
+Penyelesaian Kewajiban PJP dan PIP 
+ 
+Pasal 102 
+PJP dan PIP harus menyelesaikan seluruh kewajiban yang 
+timbul dalam penyelenggaraan Sistem Pembayaran sesuai 
+dengan mekanisme dan jangka waktu yang ditetapkan Bank 
+Indonesia sebelum izin PJP atau penetapan PIP dicabut oleh 
+Bank Indonesia. 
+ 
+Pasal 103 
+Ketentuan mengenai evaluasi izin dan evaluasi penetapan 
+diatur dengan Peraturan Bank Indonesia. 
+ 
+BAB IX 
+DATA DAN/ATAU INFORMASI 
+ 
+Bagian Kesatu 
+Pengelolaan Data dan/atau Informasi 
+ 
+Pasal 104 
+Pengelolaan data dan/atau informasi terkait Sistem 
+Pembayaran yang dilakukan Bank Indonesia bertujuan: 
+a. merumuskan kebijakan Sistem Pembayaran; 
+b. mendukung pengembangan ekonomi dan keuangan 
+digital;
+
+[Halaman 42]
+- 42 - 
+ 
+c. melakukan pengawasan penyelenggaraan Sistem 
+Pembayaran; dan/atau 
+d. melakukan analisis intelijen pasar dalam industri Sistem 
+Pembayaran. 
+ 
+Bagian Kedua 
+Subjek Perolehan Data dan/atau Informasi 
+ 
+Pasal 105 
+(1) PJP dan PIP wajib menyampaikan data dan/atau informasi 
+terkait Sistem Pembayaran kepada Bank Indonesia sesuai 
+dengan tata cara dan mekanisme yang ditetapkan Bank 
+Indonesia. 
+(2) Dalam hal diminta oleh Bank Indonesia, pihak lain yang 
+bekerja sama dengan PJP dan PIP wajib menyampaikan 
+data dan/atau informasi terkait Sistem Pembayaran 
+kepada Bank Indonesia sesuai dengan tata cara dan 
+mekanisme yang ditetapkan Bank Indonesia. 
+ 
+Bagian Ketiga 
+Mekanisme Perolehan Data dan/atau Informasi 
+ 
+Pasal 106 
+Perolehan data dan/atau informasi terkait Sistem Pembayaran 
+dari PJP, PIP, dan/atau pihak lain yang bekerja sama dengan 
+PJP dan PIP sebagaimana dimaksud dalam Pasal 10 5 
+dilakukan dengan cara: 
+a. penyampaian laporan kepada Bank Indonesia; 
+b. pengambilan data melalui koneksi antarsistem; dan/atau 
+c. mekanisme lain yang ditetapkan Bank Indonesia.
+
+[Halaman 43]
+- 43 - 
+ 
+Bagian Keempat 
+Pemrosesan Data dan/atau Informasi 
+ 
+Pasal 107 
+(1) Dalam pemrosesan data dan/atau informasi terkait Sistem 
+Pembayaran, PJP, PIP, dan/atau pihak yang bekerja sama 
+dengan PJP dan PIP wajib: 
+a. menerapkan prinsip perlindungan data pribadi 
+termasuk memenuhi aspek pe rsetujuan Pengguna 
+Jasa atas penggunaan data pribadinya; 
+b. memenuhi mekanisme pemrosesan data dan /atau 
+informasi terkait Sistem Pembayaran yang ditetapkan 
+oleh Bank Indonesia, termasuk mekanisme 
+pemrosesan melalui infrastruktur data dan 
+infrastruktur Sistem Pembayaran Bank Indonesia; 
+c. memenuhi mekanisme pemanfaatan infrastruktur 
+data pihak ketiga yang ditetapkan oleh Bank 
+Indonesia; 
+d. menerapkan manajemen risiko siber dalam 
+penyelenggaraan Sistem Pembayaran, termasuk 
+standar keamanan sistem informasi; dan 
+e. memenuhi ketentuan peraturan perundang -
+undangan. 
+(2) Mekanisme pemrosesan data dan /atau informasi terkait 
+Sistem Pembayaran sebagaimana dimaksud pada ayat (1) 
+huruf b mencakup: 
+a. akses dan tata cara pemrosesan; 
+b. standardisasi data, standardisasi teknis, 
+standardisasi keamanan, dan standardisasi tata 
+kelola; dan/atau 
+c. mekanisme lainnya yang ditetapkan Bank Indonesia.
+
+[Halaman 44]
+- 44 - 
+ 
+Bagian Kelima 
+Penggunaan dan Keterbukaan Data Individual Nasabah 
+ 
+Pasal 108 
+(1) PJP dan /atau PIP dapat melakukan pertukaran data 
+individual nasabah dengan PJP dan/atau PIP lainnya serta 
+pihak terkait lain sesuai dengan ketentuan peraturan 
+perundang-undangan mengenai perlindungan data 
+pribadi dan ketentuan Bank Indonesia. 
+(2) Pertukaran data individual nasabah sebagaimana 
+dimaksud pada ayat (1) dapat dilakukan: 
+a. secara langsung oleh PJP dan/atau PIP; dan/atau 
+b. melalui infrastruktur pengelolaan data dan/atau 
+infrastruktur Sistem Pembayaran secara terintegrasi 
+yang diselenggarakan atau difasilitasi oleh Bank 
+Indonesia. 
+ 
+Bagian Keenam 
+Transfer Data Individual Nasabah ke Luar Wilayah Negara 
+Kesatuan Republik Indonesia 
+ 
+Pasal 109 
+(1) PJP dan PIP dapat mentransfer data individual nasabah 
+kepada pihak lain di luar wilayah hukum Negara Kesatuan 
+Republik Indonesia sesuai dengan ketentuan peraturan 
+perundang-undangan mengenai perlindungan data 
+pribadi dan ketentuan Bank Indonesia. 
+(2) Dalam hal transfer data individual nasabah sebagaimana 
+dimaksud pada ayat (1) tidak sesuai dengan ketentuan 
+peraturan perundang -undangan dan/atau untuk 
+melindungi kepentingan nasional , Bank Indonesia dapa t 
+menghentikan transfer data individual nasabah.
+
+[Halaman 45]
+- 45 - 
+ 
+Pasal 110 
+(1) Bank Indonesia berwenang mengenakan sanksi 
+administratif atas pelanggaran kewajiban sebagaimana 
+dimaksud dalam Pasal 105 dan Pasal 107 berupa: 
+a. teguran; 
+b. denda; 
+c. penghentian sementara, sebagian , atau seluruh 
+kegiatan termasuk pelaksanaan kerja sama; 
+dan/atau 
+d. pencabutan izin sebagai PJP atau penetapan sebagai 
+PIP. 
+(2) Ketentuan mengenai tata cara pengenaan sanksi 
+administratif sebagaimana dimaksud pada ayat (1) diatur 
+dengan Peraturan Bank Indonesia. 
+ 
+Pasal 111 
+(1) Ketentuan mengenai data dan /atau informasi diatur 
+dengan Peraturan Bank Indonesia. 
+(2) Ketentuan mengenai standardisasi data, standardisasi 
+teknis, standardisasi keamanan, dan standardisasi tata 
+kelola sebagaimana dimaksud dalam Pasal 107 ayat (2) 
+diatur dalam Peraturan Anggota Dewan Gubernur. 
+ 
+BAB X 
+KOORDINASI DAN KOMUNIKASI 
+ 
+Pasal 112 
+Dalam melaksanakan kewenangan dan fungsi di bidang Sistem 
+Pembayaran, Bank Indonesia dapat berkoordinasi dengan 
+otoritas, lembaga, dan/atau pihak lain. 
+ 
+Pasal 113 
+Bank Indonesia melakukan komunikasi kebijakan Sistem 
+Pembayaran kepada PJP dan/atau PIP serta pihak lain.
+
+[Halaman 46]
+- 46 - 
+ 
+BAB XI 
+KETENTUAN PERALIHAN 
+ 
+Pasal 114 
+(1) Pada saat Peraturan Bank Indonesia ini diundangkan, 
+Bank Indonesia melakukan asesmen terhadap 
+penyelenggara jasa sistem pembayaran yang telah 
+memperoleh izin sebelum Peraturan Bank Indonesia ini 
+mulai berlaku, untuk: 
+a. melakukan reklasifikasi aktivitas PJP sebagaimana 
+dimaksud dalam Pasal 12 atau aktivitas PIP 
+sebagaimana dimaksud dalam Pasal 13; dan 
+b. memastikan kesanggupan pemenuhan persyaratan 
+perizinan PJP sebagaimana dimaksud dalam Pasal 18 
+ayat (3) , ayat (4), dan ayat (5) atau persyaratan 
+penetapan PIP sebagaimana dimaksud dalam Pasal 
+24 ayat (3), ayat (4), dan ayat (5), sesuai hasil 
+reklasifikasi sebagaimana dimaksud dalam huruf a 
+dan batasan per izinan dan/atau penetapan 
+sebagaimana dimaksud dalam Pasal 28. 
+(2) Berdasarkan hasil asesmen sebagaimana dimaksud pada 
+ayat (1) , Bank Indonesia melakukan konversi atas izin 
+penyelenggara jasa sistem pembayaran menjadi izin PJP 
+atau menjadi penetapan PIP setelah Peraturan Bank 
+Indonesia ini mulai berlaku. 
+ 
+Pasal 115 
+(1) Terhadap penyelenggara jasa sistem pembayaran berizin 
+yang menyatakan kesanggupan untuk memenuhi 
+persyaratan sebagaimana dimaksud dalam Pasal 114 ayat 
+(1) huruf b berdasarkan hasil asesmen, berlaku ketentuan: 
+a. Bank Indonesia memberikan jangka waktu paling 
+lama 2 (dua) tahun untuk memenuhi persyaratan 
+sebagaimana dimak sud dalam Pasal 114 ayat (1) 
+huruf b; dan 
+b. dalam jangka waktu sebagaimana dimaksud dalam 
+huruf a, penyelenggara jasa sistem pembayaran
+
+[Halaman 47]
+- 47 - 
+ 
+berizin hanya dapat melakukan aktivitas sesuai 
+dengan izin PJP dan penetapan PIP yang diberikan 
+oleh Bank Indonesia. 
+(2) Terhadap penyelenggara jasa sistem pembayaran berizin 
+yang menyatakan tidak sanggup untuk memenuhi 
+persyaratan sebagaimana dimaksud dalam Pasal 114 ayat 
+(1) huruf b berdasarkan hasil asesmen, berlaku ketentuan: 
+a. Bank Indonesia memberikan jangka waktu paling 
+lama 2 (dua) tahun kepada penyelenggara jasa sistem 
+pembayaran berizin untuk menyelesaikan hak dan 
+kewajiban sebagai penyelenggara jasa sistem 
+pembayaran; dan 
+b. Bank Indonesia mencabut izin PJP atau penetapan 
+PIP setelah penyelesaian hak dan kewajiban 
+sebagaimana dimaksud dalam huruf a. 
+ 
+Pasal 116 
+(1) Bank Indonesia melakukan evaluasi terhadap pemenuhan 
+persyaratan oleh PJP dan PIP dalam jangka waktu 
+sebagaimana dimaksud dalam Pasal 115 ayat (1). 
+(2) Berdasarkan hasil evaluasi sebagaimana dimaksud pada 
+ayat (1), Bank Indonesia dapat: 
+a. memperpanjang izin PJP dan/atau penetapan PIP; 
+atau 
+b. mencabut izin PJP dan/atau penetapan PIP. 
+ 
+Pasal 117 
+Pihak yang sedang dalam proses tahapan perizinan sebagai 
+penyelenggara jasa sistem pembayaran pada saat Peraturan 
+Bank Indonesia ini mulai berlaku, harus memenuhi seluru h 
+persyaratan perizinan PJP atau penetapan P IP yang diatur 
+dalam Peraturan Bank Indonesia ini. 
+ 
+Pasal 118 
+(1) Ketentuan komposisi kepemilikan saham sebagaimana 
+dimaksud dalam Pasal 19 ayat (1) atau Pasal 25 ayat (1) 
+harus dipenuhi oleh penyelenggara jasa sistem
+
+[Halaman 48]
+- 48 - 
+ 
+pembayaran yang telah memperoleh izin sebelum 
+Peraturan Bank Indonesia ini mulai berlaku, apabila 
+setelah berlakunya Peraturan Bank Indonesia terdapat 
+perubahan komposisi kepemilikan asing yang dilakukan 
+oleh pihak asing. 
+(2) Ketentuan komposisi kepemilikan saham sebagaimana 
+dimaksud pada ayat (1) tidak berlaku terhadap perubahan 
+komposisi kepemilikan asing yang dilakukan atas 
+kebijakan atau tindak lanjut pengawasan Bank Indonesia. 
+(3) Ketentuan pengendalian domestik sebagaimana dimaksud 
+dalam Pasal 19 ayat (2) atau Pasal 25 ayat (2) harus 
+dipenuhi oleh penyelenggara jasa sistem pembayaran yang 
+telah memperoleh izin sebelum Peraturan Bank Indonesia 
+ini mulai berlaku, apabila setelah berl akunya Peraturan 
+Bank Indonesia terdapat perubahan pengendalian y ang 
+dilakukan oleh pihak asing. 
+(4) Ketentuan pengendalian domestik sebagaimana dimaksud 
+pada ayat ( 3) tidak berlaku terhadap perubahan 
+pengendalian asing yang dilakukan atas kebijakan atau 
+tindak lanjut pengawasan Bank Indonesia. 
+(5) Dalam hal terdapat p erubahan komposisi kepemilikan 
+asing sebagaimana dimaksud pada ayat (1) dan/atau 
+terdapat perubahan pengendalian oleh pihak asing 
+sebagaimana dimaksud pada ayat ( 3), Bank Indonesia 
+melakukan tindak lanjut pengawasan. 
+ 
+Pasal 119 
+Penyelenggara jasa sistem pembayaran yang telah mengajukan 
+atau sedang dalam proses persetujuan atas pengembangan 
+aktivitas, pengembangan produk, dan/atau kerja sama pada 
+saat Peraturan Bank I ndonesia ini mulai berlaku, harus 
+memenuhi seluruh persyaratan permohonan persetujuan atas 
+pengembangan aktivitas, pengembangan produk, dan/atau 
+kerja sama yang diatur dalam Peraturan Bank Indonesia ini.
+
+[Halaman 49]
+- 49 - 
+ 
+Pasal 120 
+Pihak yang telah ditetapkan sebagai SRO sebelum Peraturan 
+Bank Indonesia ini mulai berlaku, ditetapkan sebagai SRO 
+sebagaimana dimaksud dalam Pasal 10. 
+ 
+BAB XII 
+KETENTUAN PENUTUP 
+ 
+Pasal 121 
+Pada saat Peraturan Bank Indonesia ini mulai berlaku , semua 
+peraturan perundang-undangan mengenai Sistem Pembayaran 
+di Bank Indonesia dinyatakan masih tetap berlaku sepanjang 
+tidak bertentangan dengan ketentuan dalam Peraturan Bank 
+Indonesia ini. 
+ 
+Pasal 122 
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal 1 Juli 
+2021.
+
+[Halaman 50]
+- 50 - 
+ 
+Agar setiap orang mengetahuinya, memerintahkan 
+pengundangan Peraturan Bank Indonesia ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 29 Desember 2020 
+ 
+GUBERNUR BANK INDONESIA, 
+ 
+ TTD 
+ 
+PERRY WARJIYO 
+ 
+Diundangkan di Jakarta 
+pada tanggal 30 Desember 2020 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA 
+REPUBLIK INDONESIA, 
+ 
+ TTD 
+ 
+YASONNA H. LAOLY 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2020 NOMOR 311
+
+[Halaman 51]
+PENJELASAN 
+ATAS 
+PERATURAN BANK INDONESIA 
+NOMOR 22/23/PBI/2020 
+TENTANG 
+SISTEM PEMBAYARAN 
+ 
+I. UMUM 
+Perkembangan digitalisasi dan inovasi dalam bidang Sistem 
+Pembayaran pada satu sisi memberikan peluang bagi peningkatan 
+efisiensi industri Sistem Pembayaran dan percepatan inklusi ekonomi 
+dan keuangan digital . Pada sisi lain, perkembangan digitalisasi dan 
+inovasi Sistem Pembayaran menimbulkan tantangan yang berasal dari 
+semakin tingginya kompleksitas kegiatan dan variasi model bisnis 
+penyelenggara jasa Sistem Pembayaran sehingga meningkatkan berbagai 
+risiko dalam penyelenggaraan Sistem Pembayaran yang dapat 
+berdampak pada stabilitas sistem keuangan secara keseluruhan. 
+Reformasi pengaturan Sistem Pembayaran diperlukan sebagai 
+upaya untuk merespons digitalisasi dan inovasi Sistem Pembayaran 
+melalui penataan kembali industri Sistem Pembayaran, termasuk 
+memitigasi risiko yang ditimbulkan oleh semakin berkembangnya 
+aktivitas penyelenggara jasa Sistem Pembayaran yang dilakukan oleh 
+Lembaga Selain Bank dan perluasan eko sistem pembayaran digital 
+antarpenyelenggara dalam satu kelompok usaha atau antarkelompok 
+usaha yang menimbulkan tantangan bagi pengaturan level playing field 
+bagi penyelenggara jasa Sistem Pembayaran. 
+Reformasi pengaturan Sistem Pembayaran dilakukan antara lain 
+melalui perubahan pendekatan pengaturan penyelenggaraan Sistem
+
+[Halaman 52]
+- 2 - 
+ 
+Pembayaran dari pendekatan berdasarkan kelembagaan menjadi 
+pendekatan berdasarkan aktivitas dan risiko sehingga dapat dipastikan 
+bahwa untuk aktivitas dan risiko yang sama, berlaku aturan yang sama 
+(same risk, same regulation). 
+Pada sisi entry, reklasifika si kegiatan penyelenggaraan Sistem 
+Pembayaran berdasarkan aktivitas perlu didukung dengan penguatan 
+proses bisnis, mekanisme , dan persyaratan perizinan , antara lain melalui 
+pengaturan aspek permodalan, manajemen risiko, sistem informasi, dan 
+kelembagaan, t ermasuk kepemilikan penyelenggara jasa Sistem 
+Pembayaran. Selain itu, penyederhanaan proses perizinan perlu dilakukan 
+untuk meningkatkan efisiensi perizinan melalui pemberian izin 
+berdasarkan kelompok aktivitas sesuai dengan kategori izin (bundling). 
+Pengawasan penyelenggaraan Sistem Pembayaran perlu diperkuat 
+untuk memastikan perkembangan aktivitas /operasional usaha , kinerja 
+usaha, dan eksposur risiko yang terdapat pada penyelenggara jasa Sistem 
+Pembayaran, didukung dengan aspek keuangan , permodalan, tata kelola 
+serta manajemen risiko yang memadai. Untuk itu, pendekatan pengawasan 
+berbasis risiko perlu diperkuat dengan asesmen pengawasan terhadap 
+ukuran, keterhubungan/interkoneksi, kompleksitas produk/aktivitas dan 
+ketergantian penyelenggara jasa Siste m Pembayaran dengan tetap 
+memperhatikan aspek kepatuhan ( compliance) penyelenggara terhadap 
+ketentuan yang berlaku. 
+Fungsi Sistem Pembayaran dalam memfasilitasi perpindahan dana 
+perlu diselaraskan dengan perkembangan digitalisasi melalui penguatan 
+pengaturan terkait konsepsi Sumber Dana serta akses ke Sumber Dana 
+melalui instrumen dan kanal, termasuk aspek penyelenggaraan S istem 
+Pembayaran lintas negara. 
+Sementara itu, arah pengembangan infrastruktur Sistem Pembayaran 
+sesuai dengan kebijakan Bank I ndonesia ke depan perlu diakomod asi 
+dalam kerangka pengaturan, termasuk infrastruktur Sistem Pembayaran 
+yang berdampak sistemik sebagai bagian dari infrastruktur pasar keuangan 
+dengan mengacu pada pemenuhan standar internasional. Fungsi uji coba 
+inovasi teknologi Sistem Pembayaran yang saat ini masih terbatas perlu 
+diperkuat sehingga dapat meningkatkan fungsi monitoring dan market 
+intelligence Bank Indonesia terhadap perkembangan di industri , sehingga 
+dapat menjadi masukan bagi perumusan kebijakan, pengatur an, 
+pengawasan, dan perizinan.
+
+[Halaman 53]
+- 3 - 
+ 
+Reformasi pengaturan Sistem Pembayaran perlu didukung dengan 
+penguatan pemrosesan data dan /atau informasi pembayaran yang 
+terintegrasi, termasuk pengaturan mekanisme dan infrastruktur 
+pendukung serta penerapan prinsip perlindungan data pribadi dan 
+kebijakan penggunaan infrastruktur data pihak ketiga. 
+Efektivitas pengaturan Sistem Pembayaran perlu ditingkatkan antara 
+lain melalui penerapan pendekatan pengaturan yang mengedepankan 
+principle-based regulation dan optimalisasi peran SRO dalam menerbitkan 
+ketentuan teknis dan mikro serta mendukung implementasi perizinan, 
+persetujuan, pengawasan, penyusunan , dan pengelolaan standar sesuai 
+dengan arah kebijakan Bank Indonesia . Upaya reformasi pengaturan 
+Sistem Pembayaran akan didukung dengan penguatan dan penyelarasan 
+fungsi dan kewenangan Bank Indonesia terkait perizinan, pengawasan , 
+serta data dan/atau informasi yang terintegrasi. Hal ini bertujuan untuk 
+menciptakan Sistem Pembayaran yang cepat, mudah, murah, aman , dan 
+andal dengan tetap memperhatikan perluasan akses dan perlindungan 
+konsumen. 
+Reformasi pengaturan Sistem Pembayaran diarahkan untuk dapat 
+merestrukturisasi industri yang mengedepankan praktik bisnis yang sehat 
+serta penyederhanaan pengaturan melalui re strukturisasi kerangka 
+pengaturan dan penerbitan peraturan induk yang dapat memayungi 
+ekosistem Sistem Pembayaran secara komprehensif yang sejalan dengan 
+perkembangan ekonomi dan keuangan digital. 
+ 
+II. PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Pencapaian tujuan penyelenggaraan S istem Pembayaran diarahkan 
+juga untuk mendukung stabilitas moneter dan stabilitas sistem 
+keuangan. 
+ 
+Pasal 3 
+Huruf a 
+Cukup jelas.
+
+[Halaman 54]
+- 4 - 
+ 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Penggunaan teknologi inovatif oleh industri untuk memastikan 
+kepatuhan terhadap ketentuan dan meningkatkan efektivitas 
+pengawasan dikenal dengan istilah regulatory technology. 
+Pengawasan berbasis teknologi dikenal dengan istilah supervisory 
+technology. 
+Huruf e 
+Cukup jelas. 
+ 
+Pasal 4 
+Huruf a 
+Yang dimaksud dengan “mekanisme” adalah serangkaian tahapan 
+dan tata cara dalam rangka penyelenggaraan Sistem Pembayaran. 
+Huruf b 
+Yang dimaksud dengan “infrastruktur” adalah keseluruhan 
+perangkat teknis dan/atau sistem yang digunakan untuk 
+penyelenggaraan Sistem Pembayaran. 
+Huruf c 
+Yang dimaksud dengan “kelembagaan” adalah hal-hal yang 
+menyangkut pihak yang me lakukan dan/atau mendukung 
+penyelenggaraan Sistem Pembayaran. 
+Huruf d 
+Sumber Dana ditatausahakan dalam akun Sumber Dana antara 
+lain berupa akun pengguna uang elektronik, akun simpanan, 
+dan/atau akun yang menampung fasilitas kredit. 
+Yang dimaksud dengan “akses ke Sumber Dana” adalah alat, 
+media, dan/atau seperangkat prosedur, termasuk instrumen dan 
+kanal, untuk menginisiasi transaksi pembayaran da n/atau 
+menyediakan akses ke Sumber Dana untuk pembayaran melalui 
+metode atau penggunaan teknologi tertentu. 
+Metode atau penggunaan teknologi tertentu antara lain 
+penggunaan kanal pembayaran seperti terminal Electronic Data 
+Capture (EDC), terminal Automated Teller Machine (ATM), dan
+
+[Halaman 55]
+- 5 - 
+ 
+Standar Nasional Quick Response Code Untuk Pembayaran (Quick 
+Response Code Indonesian Standard). 
+Komponen Sistem Pembayaran berlaku juga untuk transaksi 
+pembayaran yang diselenggarakan secara lintas negara antara 
+pengirim dana ( payor) dan penerima dana ( payee) yang tunduk pada 
+yurisdiksi negara yang berbeda. 
+ 
+Pasal 5 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Huruf a 
+Contoh infrastruktur Sistem Pembayaran Bank Indonesia 
+antara lain sistem Bank Indonesia – Real Time Gross 
+Settlement (BI-RTGS) dan Sistem Kliring Nasional Bank 
+Indonesia (SKNBI). 
+Huruf b 
+Contoh pihak lain yang menyelenggarakan infrastruktur 
+Sistem Pembayaran di industri antara lain penyelenggara 
+yang menyelenggarakan kliring dan/atau penyelesaian akhir 
+(settlement) bagi kepentingan anggotanya. 
+ 
+Pasal 6 
+Huruf a 
+Yang dimaksud dengan “pratransaksi” adalah kegiatan awal yang 
+dilakukan untuk memulai pemrosesan transaksi pembayaran 
+antara lain menyeleksi konsumen, pencetakan kartu, 
+personalisasi kartu, penyediaan informasi Sumber Dana, dan 
+penyediaan infrastruktur seperti terminal atau reader. 
+Huruf b 
+Yang dimaksud dengan “i nisiasi” adalah kegiatan untuk 
+menginisiasi perintah atau instruksi perpindahan dana melalui 
+alat, media, dan/atau seperangkat prosedur, dengan metode atau 
+penggunaan teknologi tertentu dalam transaksi pembayaran ,
+
+[Halaman 56]
+- 6 - 
+ 
+untuk dilanjutkan dengan kegiatan penerusan data transaksi 
+pembayaran dan otorisasi. 
+Huruf c 
+Yang dimaksud dengan “o torisasi” adalah persetujuan atas 
+transaksi setelah dilakukan kegiatan penerusan data transaksi 
+pembayaran yang dilakukan dengan cara: 
+1. melakukan verifikasi atau otentikasi identitas pemilik 
+Sumber Dana yang melakukan transaksi pembayaran; 
+2. melakukan validasi atas akses ke Sumber Dana dan 
+transaksi pembayaran yang dilakukan; dan 
+3. memastikan kecukupan Sumber Dana. 
+Huruf d 
+Yang dimaksud dengan “k liring” adalah proses yang dilakukan 
+setelah terjadinya transaksi pembayaran, yang mencakup 
+kegiatan merekonsiliasi, mengonfirmasi, dan menghitung hak dan 
+kewajiban para pihak, yang menunjukkan posisi akhir hak dan 
+kewajiban para pihak sebelum penyelesaian akhir ( settlement) 
+dilakukan. 
+Huruf e 
+Yang dimaksud dengan “p enyelesaian akhir ” adalah kegiatan 
+penyelesaian yang bersifat final dan mengikat melalui pendebitan 
+dan pengkreditan akun para pihak atas hak dan kewajiban 
+keuangan masing-masing pihak yang terlibat dalam pemrosesan 
+transaksi pembayaran berdasarkan hasil kliring. 
+Huruf f 
+Yang dimaksud dengan “pascatransaksi” adalah kegiatan setelah 
+penyelesaian akhir (settlement) transaksi pembayaran selesai 
+dilakukan, seperti pencetakan lembar tagihan atas transaksi yang 
+telah selesai dilakukan dan penyampaian data dan /atau 
+informasi atas transaksi pembayaran yang telah dilakukan 
+Pengguna Jasa. 
+ 
+Pasal 7 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas.
+
+[Halaman 57]
+- 7 - 
+ 
+Huruf c 
+Kewenangan penetapan akses ke penyelenggaraan Sistem 
+Pembayaran (entry policy) meliputi: 
+1. perizinan antara lain: 
+a. pemberian izin PJP; 
+b. jangka waktu izin; 
+c. perpanjangan dan pencabutan izin; 
+d. penyesuaian kategori izin (bundling) dan aktivitas; dan 
+e. evaluasi atas izin; dan 
+2. penetapan antara lain: 
+a. pemberian penetapan kepada PIP; 
+b. evaluasi atas penetapan; dan 
+c. pencabutan penetapan. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Kewenangan dalam penyelenggaraan infrastruktur Sistem 
+Pembayaran antara lain: 
+1. menetapkan aspek kepesertaan, antara lain kriteria, 
+kelembagaan, jenis, persyaratan, dan kewajiban; 
+2. menetapkan tata cara operasional penyelenggaraan 
+infrastruktur; 
+3. melakukan pemantauan kepatuhan peserta terhadap 
+ketentuan infrastruktur Sistem Pembayaran; dan 
+4. mengenakan sanksi. 
+Kewenangan Bank Indonesia terkait penyelenggaraan 
+infrastruktur Sistem Pembayaran dimaksud dapat diatur dalam 
+ketentuan Bank Indonesia , perjanjian atau bylaws, serta 
+ketentuan yang diterbitkan SRO berdasarkan persetujuan Bank 
+Indonesia. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Kewenangan pengelolaan data dan/atau informasi terkait Sistem 
+Pembayaran mencakup antara lain perolehan data dan/atau 
+informasi terkait Sistem Pembayaran serta penetapan mekanisme 
+dan infrastruktur data pembayaran terintegrasi.
+
+[Halaman 58]
+- 8 - 
+ 
+Huruf h 
+Cukup jelas. 
+ 
+Pasal 8 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Kebijakan penyelenggaraan aktivitas bagi PJP dan PIP antara 
+lain: 
+1. skema harga , seperti merchant discount rate (MDR), 
+terminal usage fee (TUF), dan biaya transaksi, yang 
+ditetapkan dengan pertimbangan antara lain: 
+a. perluasan akseptasi, efisiensi, kompetisi, layanan, 
+dan inovasi; 
+b. aspek cost of recovery dengan margin yang wajar 
+dan tingkat risiko; 
+c. besaran dan struktur tarif dan bea; dan 
+d. tidak bertentangan dengan kebijakan nasional; 
+2. persetujuan dan pelaporan pengembangan aktivitas, 
+pengembangan produk, dan/atau kerja sama; 
+3. skema dan prosedur (arrangement) yang melibatkan 
+para pihak dalam pembayaran elektronik; 
+4. penggunaan central bank money , yaitu dana yang 
+tersedia pada rekening yang ditatausahakan di bank 
+sentral dan dapat digunakan untuk tujuan penyelesaian 
+transaksi atau kewajiban, dalam mekanisme 
+penyelesaian akhir (settlement) transaksi domestik; 
+5. standardisasi dan sertifikasi, seperti: 
+a. standardisasi akses ke Sumber Dana, seperti 
+Standar Nasional Quick Response Code Untuk 
+Pembayaran ( Quick Response Code Indonesian 
+Standard) dan Standar Nasional Teknologi Chip 
+untuk Kartu ATM dan/atau Kartu Debit ( National 
+Standard Indonesian Chip Card Specification); 
+b. standardisasi kompetensi pegawai dalam 
+penyelenggaraan Sistem Pembayaran; dan
+
+[Halaman 59]
+- 9 - 
+ 
+c. standar nasional lainnya ya ng ditetapkan oleh 
+Bank Indonesia sebagai standar yang wajib 
+digunakan oleh seluruh penyelenggara jasa Sistem 
+Pembayaran, seperti standar open application 
+programming interface (open API ) dan standar 
+keamanan siber Sistem Pembayaran; 
+6. strategi keamanan dan ketahanan siber Sistem 
+Pembayaran mencakup antara lain: 
+a. standar keamanan siber; dan 
+b. kapabilitas pemantauan dan penanggulangan 
+insiden siber Sistem Pembayaran; 
+7. interkoneksi dan interoperabilitas antara lain 
+penetapan limit nilai instrumen dan batas nominal 
+perpindahan dana, termasuk remitansi domestik dan 
+lintas negara; 
+8. limit dan cakupan layanan; 
+9. pembatasan ruang lingkup Sumber Dana; 
+10. implementasi pengawasan; dan 
+11. pemrosesan domestik. 
+Huruf c 
+Kebijakan terkait data (data policy) antara lain: 
+1. pemrosesan data; 
+2. penerapan prinsip perlindungan data pribadi; dan 
+3. penggunaan infrastruktur data, baik yang difasilitasi 
+oleh Bank Indonesia maupun yang disediakan oleh 
+pihak ketiga, 
+di bidang Sistem Pembayaran. 
+Huruf d 
+Kebijakan penghentian akses ke penyelenggaraan Sistem 
+Pembayaran (exit policy) antara lain: 
+1. evaluasi izin atau penetapan; dan 
+2. mekanisme dan jangka waktu penyelesaian kewajiban 
+penyelenggara jasa Sistem Pembayaran yang izin atau 
+penetapannya dicabut atau berakhir. 
+Huruf e 
+Cukup jelas.
+
+[Halaman 60]
+- 10 - 
+ 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 9 
+Cukup jelas. 
+ 
+Pasal 10 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Bentuk dukungan SRO dalam implementasi proses perizinan, 
+persetujuan, dan pengawasan antara lain: 
+1. memberikan sertifikasi atau menyusun standar sebagai 
+pemenuhan persyaratan perizinan atau persetujuan; dan 
+2. melakukan verifikasi dan pendaftaran auditor sistem 
+informasi baik internal maupun eksternal. 
+Standar yang disusun sebagai pemenuhan persyaratan perizinan 
+atau persetujuan antara lain: 
+1. standardisasi ruang lingkup dan cakupan pelaksanaan audit 
+sistem informasi atau pengujian keamanan terhadap 
+infrastruktur Sistem Pembayaran yang digunakan oleh PJP 
+dan PIP atau calon PJP dan PIP; dan 
+2. standar, cakupan, metodologi, dan persyaratan auditor 
+untuk pelaksanaan audit sistem informasi PJP dan PIP atau 
+calon PJP dan PIP. 
+Huruf c 
+Ketentuan di bidang Sistem Pembayaran yang bersifat teknis dan 
+mikro yang diterbitkan oleh SRO dapat terdiri atas ketentuan SRO 
+dan pedoman teknis. 
+Contoh ketentuan SRO antara lain pengaturan mengenai 
+penagihan warkat debit di luar mekanisme Sistem Kliring 
+Nasional Bank Indonesia (SKNBI). 
+Contoh pedoman teknis antara lain pedoman pelaksanaan dalam 
+melakukan perpinda han dana melalui infrastruktur Sistem 
+Pembayaran Bank Indonesia.
+
+[Halaman 61]
+- 11 - 
+ 
+Huruf d 
+Standar yang ditetapkan oleh Bank Indonesia antara lain Standar 
+Nasional Quick Response Code Untuk Pembayaran ( Quick 
+Response Code Indonesian Standard ) dan Standar Nasional 
+Teknologi Chip untuk Kartu ATM dan/atau Kartu Debit (National 
+Standard Indonesian Chip Card Specification). 
+ 
+Pasal 11 
+Cukup jelas. 
+ 
+Pasal 12 
+Ayat (1) 
+Huruf a 
+Penyediaan informasi Sumber Dana dikenal dengan istilah 
+account information services. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Penatausahaan Sumber Dana dikenal dengan istilah account 
+issuance services. 
+Huruf d 
+Cukup jelas. 
+Ayat (2) 
+Penyelenggaraan aktivitas penyediaan informasi Sumber Dana 
+untuk inisiasi pembayaran dilakukan melalui kerja sama 
+dan/atau keterhubungan dengan PJP yang melakukan kegiatan 
+penatausahaan Sumber Dana (account issuance services). 
+Ayat (3) 
+Yang dimaksud dengan “p enerusan transaksi pembayaran ” 
+adalah: 
+a. penerusan perintah atau instruksi perpindahan dana 
+melalui alat, media, dan/atau seperangkat prosedur dengan 
+metode atau penggunaan teknologi tertentu dalam transaksi 
+pembayaran; dan/atau 
+b. penerusan data transaksi pembayaran antara lain berupa 
+data instrumen dan data nominal transaksi pembayaran.
+
+[Halaman 62]
+- 12 - 
+ 
+Dalam melakukan aktivitas yang akan diselenggarakan dalam 
+kelompok payment initiation dan/atau acquiring services, PJP juga 
+dapat menyelenggarakan satu atau lebih aktivitas sebagai 
+berikut: 
+a. menyimpan data Sumber Dana dan/atau akses ke Sumber 
+Dana; 
+b. memproses transaksi pembayaran menggunakan berbagai 
+instrumen; 
+c. mengakuisisi Penyedia Barang dan/atau Jasa; 
+d. menalangi pembayaran kepada Penyedia Barang dan/atau 
+Jasa; dan/atau 
+e. meneruskan dana ( disbursement) kepada Penyedia Barang 
+dan/atau Jasa. 
+Ayat (4) 
+Dalam melakukan aktivitas yang akan diselenggarakan dalam 
+kelompok penatausahaan Sumber Dana, PJP juga dapat 
+melakukan kegiatan antara lain: 
+a. menatausahakan akun Sumber Dana untuk pembayaran; 
+b. menerbitkan akses ke Sumber Dana, antara lain instrumen 
+berbasis media tertentu; 
+c. memiliki hubungan dengan Pengguna Jasa; dan 
+d. menyelenggarakan transfer dana sebagai fitur instrumen 
+yang diterbitkan. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 13 
+Ayat (1) 
+Untuk menyelenggarakan kliring dan/atau penyelesaian akhir 
+(settlement), PIP dapat menyelenggarakan aktivitas penerusan 
+data transaksi pembayaran dan tugas lainnya yang berkaitan 
+dengan aktivitas kliring dan penyelesaian akhir (settlement). 
+Yang dimaksud dengan “anggota PIP” ada lah PJP, PIP lain, 
+dan/atau pihak lain yang ditetapkan oleh Bank Indonesia. 
+Ayat (2) 
+Cukup jelas.
+
+[Halaman 63]
+- 13 - 
+ 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 14 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Penyediaan teknologi untuk pemrosesan transaksi 
+pembayaran meliputi penyediaan layanan teknologi 
+dan/atau platform yang digunakan oleh penyelenggara jasa 
+Sistem Pembayaran dalam pelaksanaan pemrosesan 
+transaksi pembayaran pada tahapan inisiasi , otorisasi, 
+kliring dan/atau penyelesaian akhir (settlement). 
+Penyediaan layanan teknologi untuk pemrosesan transaksi 
+pembayaran antara lain penyediaan fitur otentikasi untuk 
+otorisasi transaksi pembayaran, penyediaan teknologi 
+pengelolaan fraud (fraud man agement system), penyediaan 
+teknologi komputasi awan (cloud computing), dan penyediaan 
+card management system. 
+Huruf b 
+Penyediaan layanan penunjang kegiatan penyelenggaraan 
+Sistem Pembayaran lainnya antara lain penyedia an 
+pencetakan kartu, penyedia an personalisasi kartu, 
+penyediaan terminal, penyedia an fitur keamanan, dan 
+penyelenggara perdagangan melalui sistem elektronik yang 
+memfasilitasi transaksi pembayaran. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 15 
+Cukup jelas. 
+ 
+Pasal 16 
+Cukup jelas.
+
+[Halaman 64]
+- 14 - 
+ 
+Pasal 17 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Pemeriksaan dilakukan dengan mengunjungi lokasi pemohon (on-
+site visit). 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 18 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Aspek kelembagaan yang berupa kepemilikan antara lain 
+komposisi kepemilikan saham dan struktur kepemilikan. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Risiko operasional termasuk risiko siber. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 19 
+Ayat (1) 
+Huruf a 
+Penilaian Bank Indonesia terhadap komposisi kepemilikan 
+saham dilakukan sampai pemegang saham akhir ( ultimate 
+shareholder). 
+Huruf b 
+Cukup jelas.
+
+[Halaman 65]
+- 15 - 
+ 
+Ayat (2) 
+Huruf a 
+Penilaian Bank Indonesia terhadap komposisi saham dengan 
+hak suara dilakukan secara kolektif pada masing-masing 
+jenjang kepemilikan sampai pemegang saham akhir (ultimate 
+shareholder) dengan hak suara terbesar secara individual 
+dimiliki oleh pihak domestik. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “rapat umum pemegang saham” 
+adalah rapat umum pemegang saham sebagaimana 
+dimaksud dalam Undang -Undang tentang Perseroan 
+Terbatas. 
+Yang dimaksud dengan “keputusan atau persetujuan dalam 
+rapat umum pemegang saham yang berdampak signifikan 
+terhadap perusahaan” antara lain perubahan anggaran 
+dasar, perubahan modal, pengangkatan dan pemberhentian 
+anggota direksi dan/atau anggota dewan komisaris, serta 
+penggabungan, peleburan, pengambilalih an, pemisahan, 
+dan pembubaran. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Aspek kelembagaan berupa pengendalian lainnya antara lain 
+pengendalian yang timbul dari: 
+a. persyaratan atau kewajiban tertentu yang dituangkan dalam 
+suatu perjanjian; dan 
+b. pengambilan keputusan dalam pengelolaan operasional PJP. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 20 
+Contoh data dan/atau informasi tambahan antara lain dokumen 
+terkait arsitektur pusat data.
+
+[Halaman 66]
+- 16 - 
+ 
+Pasal 21 
+Cukup jelas. 
+ 
+Pasal 22 
+Cukup jelas. 
+ 
+Pasal 23 
+Ayat (1) 
+Penetapan PIP dilakukan berdasarkan penilaian Bank Indonesia 
+yang dapat mempertimbangkan masukan dari SRO dan/atau 
+pihak terkait lainnya. 
+Ayat (2) 
+Huruf a 
+Dampak terhadap stabilitas sistem keuangan antara lain 
+adanya risiko sistemik pada sistem keuangan yang berasal 
+dari disrupsi terhadap infrastruktur PIP. 
+Huruf b 
+Kepentingan publik antara lain dengan mempertimbangkan 
+dampak penetapan PIP dalam meningkatkan efisiensi Sistem 
+Pembayaran yang bermanfaat bagi masyarakat atau publik 
+secara luas. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 24 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Aspek kelembagaan yang berupa kepemilikan antara lain 
+komposisi kepemilikan saham dan struktur kepemilikan. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Risiko operasional termasuk risiko siber. 
+Ayat (5) 
+Cukup jelas.
+
+[Halaman 67]
+- 17 - 
+ 
+Pasal 25 
+Ayat (1) 
+Huruf a 
+Penilaian Bank Indonesia terhadap komposisi kepemilikan 
+saham dilakukan sampai pemegang saham akhir ( ultimate 
+shareholder). 
+Huruf b 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Penilaian Bank Indonesia terhadap komposisi saham dengan 
+hak suara dilakukan secara kolektif pada masing -masing 
+jenjang kepemilikan sampai pemegang saham akhir (ultimate 
+shareholder) dengan hak suara terbesar secara individual 
+dimiliki oleh pihak domestik. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “rapat umum pe megang saham” 
+adalah rapat umum pemegang saham sebagaimana 
+dimaksud dalam Undang -Undang tentang Perseroan 
+Terbatas. 
+Yang dimaksud dengan “keputusan atau persetujuan dalam 
+rapat umum pemegang saham yang berdampak signifikan 
+terhadap perusahaan” antara lain perubahan anggaran 
+dasar, perubahan modal, pengangkatan dan pemberhentian 
+anggota direksi dan/atau anggota dewan komisaris, serta 
+penggabungan, peleburan, pengambilalih an, pemisahan, 
+dan pembubaran. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Aspek kelembagaan berupa pengendalian lainnya antara lain 
+pengendalian yang timbul dari: 
+a. persyaratan atau kewajiban tertentu yang dituangkan dalam 
+suatu perjanjian; dan 
+b. pengambilan keputusan dalam pengelolaan operasional PIP.
+
+[Halaman 68]
+- 18 - 
+ 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 26 
+Contoh data dan/atau informasi tambahan antara lain dokumen 
+terkait arsitektur pusat data. 
+ 
+Pasal 27 
+Cukup jelas. 
+ 
+Pasal 28 
+Contoh pembatasan bagi pengajuan permohonan izin dan penetapan 
+antara lain pihak yang telah memperoleh izin sebagai PJP tidak dapat 
+mengajukan permohonan penetapan sebagai PIP. 
+ 
+Pasal 29 
+Cukup jelas. 
+ 
+Pasal 30 
+Cukup jelas. 
+ 
+Pasal 31 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Ketentuan peraturan perundan g-undangan mencakup 
+antara lain: 
+1. persaingan usaha yang sehat;
+
+[Halaman 69]
+- 19 - 
+ 
+2. informasi dan transaksi elektronik; 
+3. anti pencucian uang dan pendanaan terorisme; 
+4. perlindungan konsumen; 
+5. penerapan kewajiban penggunaan rupiah; dan 
+6. perlindungan data pribadi. 
+ 
+Pasal 32 
+Ayat (1) 
+Cukup jelas. 
+ Ayat (2) 
+Contoh badan hukum lain antara lain koperasi. 
+ 
+Pasal 33 
+Pemenuhan aspek manajemen risiko termasuk prinsip kehati -hatian 
+disesuaikan dengan ukuran dan kompleksitas aktivitas PJP. 
+Huruf a 
+Ruang lingkup pengawasan aktif antara lain berupa 
+penetapan akuntabilitas, kebijakan, dan proses 
+pengendalian untuk mengelola risiko yang mungkin timbul 
+dari penyelenggaraan Sistem Pembayaran. 
+Huruf b 
+Ketersedian kebijakan dan prosedur serta pemenuhan 
+kecukupan struktur organisasi antara lain tersedianya: 
+1. struktur organisasi yang jelas dan pemisahan tugas 
+atau kewenangan; 
+2. metode pengukuran risiko; dan 
+3. prosedur manajemen risiko. 
+Huruf c 
+Proses manajemen risiko dan fungsi manajemen risiko, serta 
+sumber daya manusia paling sedikit dipenuhi dengan adanya 
+fungsi khusus yang menangani manajemen risiko. 
+Huruf d 
+Pengendalian intern atas penyelenggaraan Sistem 
+Pembayaran antara lain mencakup: 
+1. prosedur dan langkah pengamanan yang dilakukan 
+dalam penyediaan layanan bagi Pengguna Jasa; 
+2. audit trail atas transaksi pembayaran yang diproses;
+
+[Halaman 70]
+- 20 - 
+ 
+3. prosedur yang memadai untuk menjamin integritas data 
+dan/atau informasi; dan 
+4. langkah untuk melindungi kerahasiaan data dan /atau 
+informasi Pengguna Jasa. 
+ 
+Pasal 34 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Pengelolaan fraud meliputi tahap prevention, detection, 
+response, dan monitoring. 
+Implementasi pengelolaan fraud dapat dilakukan antara lain 
+dengan menerapkan Fraud Detection System (FDS) pada level 
+akun dan transaksi. 
+Angka 3 
+Yang dimaksud dengan “sertifikasi dan/atau standar 
+keamanan dan keandalan sistem ” adalah sertifikasi 
+dan/atau standar yang berlaku umum atau yang ditetapkan 
+oleh Bank Indonesia atau otoritas/lembaga terkait yang 
+disesuaikan dengan jenis aktivitas yang diselenggarakan 
+PJP. 
+Angka 4 
+Cukup jelas. 
+Huruf c 
+Penerapan standar keamanan siber menggunakan pendekatan 
+aspek tata kelola ( governance), pencegahan ( prevention), dan 
+resolusi (resolution). 
+Aspek tata kelola (governance) paling sedikit mencakup komponen 
+strategi dan framework, kejelasan wewenang dan tanggung jawab, 
+serta dukungan budaya perusahaan. 
+Aspek pencegahan ( prevention) paling sedikit mencakup 
+komponen identifikasi, perlindungan, dan deteksi. 
+Aspek resolusi ( resolution) paling sedikit mencakup komponen 
+respons dan pemulihan, termasuk pelaksanaan komunikasi.
+
+[Halaman 71]
+- 21 - 
+ 
+Huruf d 
+Pengamanan data dan/atau informasi antara lain pengamanan 
+data dan/atau informasi terkait Pengguna Jasa, instrumen 
+pembayaran, dan transaksi pembayaran. 
+Huruf e 
+Cukup jelas. 
+ 
+Pasal 35 
+Ayat (1) 
+Huruf a 
+Yang dimaksud “mekanisme i nterkoneksi dan 
+interoperabilitas” antara lain mekanisme interkoneksi dan 
+interoperabilitas pemrosesan transaksi pembayaran serta 
+pemrosesan data. 
+Huruf b 
+Yang dimaksud dengan “infrastruktur data” antara lain 
+infrastruktur data te rintegrasi yang difasilitasi oleh Bank 
+Indonesia. 
+Huruf c 
+Cukup jelas. 
+Ayat (2) 
+Sistem elektronik yang digunakan untuk pemrosesan transaksi 
+pada tahapan inisiasi, otorisasi, kliring, dan penyelesaian akhir 
+(settlement) ditempatkan pada pusat data dan pusat pemulihan 
+bencana di wilayah Negara Kesatuan Republik Indonesia. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Persetujuan Bank Indonesia untuk pemrosesan transaksi 
+pembayaran di luar wilayah Negara Kesatuan Republik Indonesia 
+dapat diberikan antara lain terhadap: 
+a. rekonsiliasi global yang bukan merupakan bagian dari 
+aktivitas utama tahapan in isiasi, otorisasi, kliring, dan 
+penyelesaian akhir (settlement);
+
+[Halaman 72]
+- 22 - 
+ 
+b. sistem elektronik yang digunakan untuk manajemen risiko 
+secara terintegrasi dengan kantor pusat PJP atau kantor 
+induk/kantor entitas utama di luar wilayah Negara Kesatuan 
+Republik Indonesia; dan 
+c. sistem elektronik yang digunakan untuk penerapan anti 
+pencucian uang dan pencegahan pendanaan terorisme 
+secara terintegrasi dengan kantor pusat PJP atau kantor 
+induk PJP di luar wilayah Negara Kesatuan Republik 
+Indonesia. 
+ 
+Pasal 36 
+Cukup jelas. 
+ 
+Pasal 37 
+Cukup jelas. 
+ 
+Pasal 38 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Ketersediaan sarana dan prasarana penyelenggaraan 
+infrastruktur antara lain fasilitas contingency dan jaringan 
+komunikasi data. 
+Huruf f 
+Tata cara dan mekanisme penyelenggaraan infrastruktur 
+antara lain mekanisme kliring dan penyelesaian akhir 
+(settlement).
+
+[Halaman 73]
+- 23 - 
+ 
+Huruf g 
+Cukup jelas. 
+Huruf h 
+Ketentuan peraturan perundang -undangan mencakup 
+antara lain: 
+1. persaingan usaha yang sehat; 
+2. informasi dan transaksi elektronik; 
+3. perlindungan konsumen; 
+4. penerapan kewajiban penggunaan rupiah; dan 
+5. perlindungan data pribadi. 
+ 
+Pasal 39 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Bentuk komunikasi dan kolaborasi dengan pihak terkait 
+antara lain pelaksanaan edukasi peserta. 
+Huruf d 
+Cukup jelas. 
+ 
+Pasal 40 
+Pemenuhan aspek manajemen risiko disesuaikan dengan ukuran dan 
+kompleksitas aktivitas PIP. 
+Huruf a 
+Ruang lingkup pengawasan aktif direksi dan dewan 
+komisaris antara lain berupa penetapan akuntabilitas, 
+kebijakan, dan proses pengendalian untuk mengelola risiko 
+yang mungkin timbul dari pen yelenggaraan Sistem 
+Pembayaran.
+
+[Halaman 74]
+- 24 - 
+ 
+Huruf b 
+Ketersediaan kebijakan dan prosedur serta pemenuhan 
+kecukupan struktur organisasi antara lain tersedianya: 
+1. struktur organisasi yang jelas dan pemisahan tugas 
+atau kewenangan; 
+2. metode pengukuran risiko; dan 
+3. prosedur manajemen risiko. 
+Huruf c 
+Proses manajemen risiko dan fungsi manajemen risiko, serta 
+sumber daya manusia paling sedikit dipenuhi dengan adanya 
+fungsi khusus yang menangani manajemen risiko. 
+Huruf d 
+Pengendalian intern atas penyelenggaraan Sistem 
+Pembayaran antara lain: 
+1. prosedur dan langkah pengamanan yang dilakukan 
+dalam penyediaan layanan bagi anggota PIP; 
+2. audit trail atas transaksi pembayaran yang diproses; 
+3. prosedur yang memadai untuk menjamin integritas data 
+dan/atau informasi; dan 
+4. langkah untuk melindungi kerahasiaan data dan/atau 
+informasi Pengguna Jasa. 
+ 
+Pasal 41 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Angka 1 
+Cukup jelas. 
+Angka 2 
+Pengelolaan fraud meliputi tahap prevention, detection, 
+response, dan monitoring. 
+Implementasi pengelolaan fraud dapat dilakukan antara lain 
+dengan menerapkan Fraud Detection System (FDS) pada level 
+akun dan transaksi. 
+Angka 3 
+Yang dimaksud dengan “sertifikasi dan/atau standar 
+keamanan dan keandalan sistem ” adalah sertifikasi
+
+[Halaman 75]
+- 25 - 
+ 
+dan/atau standar yang berlaku umum atau yang ditetapkan 
+oleh Bank Indonesia atau otoritas/lembaga terkait yang 
+disesuaikan dengan jenis aktivitas yang diselenggarakan PIP. 
+Angka 4 
+Cukup jelas. 
+Huruf c 
+Penerapan standar keamanan siber menggunakan pendekatan 
+aspek tata kelola ( governance), pencegahan ( prevention), dan 
+resolusi (resolution). 
+Aspek tata kelola (governance) paling sedikit mencakup komponen 
+strategi dan framework, kejelasan wewenang dan tanggung jawab, 
+serta dukungan budaya perusahaan. 
+Aspek pencegahan ( prevention) paling sedikit mencakup 
+komponen identifikasi, perlindungan, dan deteksi. 
+Aspek resolusi (resolution) paling sedikit mencakup komponen 
+respons dan pemulihan, termasuk pelaksanaan komunikasi. 
+Huruf d 
+Pengamanan data dan/atau informasi antara lain pengamanan 
+data dan/atau informasi terkait Pengguna Jasa, instrumen 
+pembayaran, dan transaksi pembayaran. 
+Huruf e 
+Cukup jelas. 
+ 
+Pasal 42 
+Ayat (1) 
+Huruf a 
+Yang dimaksud “mekanisme interkoneksi dan 
+interoperabilitas” antara lain mekanisme interkoneksi dan 
+interoperabilitas pemrosesan transaksi pembayaran serta 
+pemrosesan data. 
+Huruf b 
+Yang dimaksud dengan “infrastruktur data” antara lain 
+infrastruktur data terinte grasi yang difasilitasi oleh Bank 
+Indonesia. 
+Huruf c 
+Cukup jelas.
+
+[Halaman 76]
+- 26 - 
+ 
+Ayat (2) 
+Sistem elektronik yang digunakan untuk pemrosesan transaksi 
+pada tahapan inisiasi , otorisasi, kliring, dan penyelesaian akhir 
+(settlement) ditempatkan pada pusat data dan pusat pemulihan 
+bencana di wilayah Negara Kesatuan Republik Indonesia. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Persetujuan Bank Indonesia untuk pemrosesan transaksi 
+pembayaran di luar wilayah Negara Kesatuan Republik Indonesia 
+dapat diberikan antara lain terhadap: 
+a. rekonsiliasi global yang bukan merupakan bagian dari 
+aktivitas utama tahapan inisiasi , otorisasi, kliring, dan 
+penyelesaian akhir (settlement); 
+b. sistem elektronik yang digunakan untuk manajemen risiko 
+secara terintegra si dengan kantor pusat PIP atau kantor 
+induk/kantor entitas utama di luar wilayah Negara Kesatuan 
+Republik Indonesia; dan 
+c. sistem elektronik yang digunakan untuk penerapan anti 
+pencucian uang dan pencegahan pendanaan terorisme 
+secara terintegrasi dengan kan tor pusat PIP atau kantor 
+induk PIP di luar wilayah Negara Kesatuan Republik 
+Indonesia. 
+ 
+Pasal 43 
+Kriteria dan persyaratan peserta, ruang lingkup layanan, hak dan 
+kewajiban, mekanisme penyelesaian sengketa, dan pemantauan 
+kepatuhan peserta diatur dalam ketentuan Bank Indonesia, perjanjian 
+atau bylaws, dan/atau ketentuan yang diterbitkan SRO. 
+ 
+Pasal 44 
+Cukup jelas. 
+ 
+Pasal 45 
+Cukup jelas.
+
+[Halaman 77]
+- 27 - 
+ 
+Pasal 46 
+Cukup jelas. 
+ 
+Pasal 47 
+Cukup jelas. 
+ 
+Pasal 48 
+Penetapan klasifikasi dengan kriteria ukuran ( size), keterhubungan 
+(interconnectedness), kompleksitas (complexity), dan/atau ketergantian 
+(substitutability) ditujukan untuk mengidentifikasi struktur industri 
+Sistem Pembayaran berdasarkan peranan dan/atau kontribusi nya 
+dalam ekosistem Sistem Pembayaran nasional. 
+ 
+Pasal 49 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Pemenuhan kewajiban tertentu terkait permodalan antara 
+lain mencakup pengenaan tambahan modal sesuai kinerja 
+usaha, profil risiko, dan asesmen dampak terhadap Sistem 
+Pembayaran dan sistem keuangan. 
+Huruf b 
+Pemenuhan kewajiban tertentu terkait manajemen risiko dan 
+sistem informasi antara lain mencakup pemenuhan standard 
+operating procedure , kapabilitas sistem informasi, sumber 
+daya ma nusia, dan organisasi seperti kewajiban untuk 
+memiliki unit khusus tertentu. 
+Huruf c 
+Cukup jelas. 
+ 
+Pasal 50 
+Cukup jelas. 
+ 
+Pasal 51 
+Cukup jelas.
+
+[Halaman 78]
+- 28 - 
+ 
+Pasal 52 
+Cukup jelas. 
+ 
+Pasal 53 
+Ayat (1) 
+Yang dimaksud dengan “ pengembangan aktivitas ” adalah 
+penambahan aktivitas pada kategori izin yang sama. 
+Pengembangan produk antara lain penambahan atau 
+pengembangan fitur, penambahan jenis akses ke Sumber Dana 
+dalam bentuk in strumen atau kanal, penggantian platform, 
+penggantian sistem, dan perpindahan infrastruktur. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 54 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Contoh jenis pengembangan aktivitas, pengembangan 
+produk dan/atau kerja sama dengan pihak lain yang 
+dikategorikan sebagai risiko rendah antara lain: 
+1. perubahan desain kartu ATM/Debit, kartu kredit, dan 
+uang elektronik berbasis chip; 
+2. kerja sama co-branding dengan pihak lain dimana peran 
+pihak lain hanya sebagai agen pemasaran; dan 
+3. penambahan variasi alat pembayaran menggunakan 
+kartu seperti kartu kredit berjenis silver, gold , atau 
+platinum. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+ 
+Pasal 55 
+Cukup jelas.
+
+[Halaman 79]
+- 29 - 
+ 
+Pasal 56 
+Cukup jelas. 
+ 
+Pasal 57 
+Dokumen pendukung untuk p emenuhan p ersyaratan disesuaikan 
+dengan kategori risiko. 
+ 
+Pasal 58 
+Cukup jelas. 
+ 
+Pasal 59 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Pemeriksaan dilakukan dengan mengunjungi lokasi pemohon (on-
+site visit). 
+ 
+Pasal 60 
+Cukup jelas. 
+ 
+Pasal 61 
+Ayat (1) 
+Huruf a 
+Asesmen terhadap Penyelenggara Penunjang dilakukan 
+sebelum pelaksanaan kerja sama, antara lain untuk 
+memastikan terpenuhinya aspek: 
+1. legalitas dan profil perusahaan Penyelenggara 
+Penunjang; 
+2. kinerja Penyelenggara Penunjang; 
+3. pemenuhan prinsip keamanan dan kea ndalan sistem 
+informasi dan infrastruktur oleh Penyelenggara 
+Penunjang;
+
+[Halaman 80]
+- 30 - 
+ 
+4. kemampuan atau kompetensi Penyelenggara 
+Penunjang; dan 
+5. pemenuhan ketentuan peraturan perundang-undangan 
+yang terkait dengan layanan yang dikerjasamakan. 
+Huruf b 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Penerapan manajemen risiko oleh Penyelenggara Penunjang 
+antara lain berupa pelaksanaan audit sistem informasi 
+secara berkala, penguatan business continuity plan , dan 
+mitigasi terhadap single point of failure. 
+Penerapan manajemen risiko dilakukan secara terintegrasi 
+dalam setiap tahapan penggunaan Penyelenggara Penunjang 
+sejak proses perencanaan, pengadaan, pengembangan, 
+operasional, pemeliharaan, hingga pengakhiran kerja sama. 
+Huruf c 
+Tersedianya akses ke Penyelenggara P enunjang oleh Bank 
+Indonesia mencakup antara lain akses terhadap data atau 
+informasi, s istem dan infrastruktur, dan sumber daya 
+manusia. 
+ 
+Pasal 62 
+Persyaratan tertentu kepada Penyelenggara Penunjang dilakukan 
+untuk memastikan aspek prudensial dalam hal terdapat 
+penampungan dana sebelum pelaksanaan penerusan pembayaran . 
+Bentuk persyaratan tertentu antara lain adanya service level 
+agreement penerusan pembayaran dari Penyelenggara Penunjang 
+kepada Penyedia Barang dan/atau Jasa seperti: 
+1. batasan jangka waktu; dan 
+2. batasan manfaat yang diperoleh.
+
+[Halaman 81]
+- 31 - 
+ 
+Pasal 63 
+Huruf a 
+Yang dimaksud dengan “mempertimbangkan aspek 
+resiprokalitas” adalah Bank Indonesia mempertimbangkan antara 
+lain kebijakan dan/atau ketentuan sistem pembayaran di negara 
+penyelenggara jasa sistem pembayaran yang akan diajak bekerja 
+sama berkedudukan, juga mengizinkan penyelenggaraan 
+aktivitas sistem pembayaran oleh PJP dan PIP di negara tersebut. 
+Huruf b 
+Yang dimaksud dengan “mempertimbangkan kesetaraan standar 
+penerapan manajemen risiko” adalah Bank Indonesia 
+mempertimbangkan antara lain kebijakan dan/atau ketentuan 
+sistem pembayaran di negara penyelenggara jasa sistem 
+pembayaran yang akan diajak bekerja sama berkedudukan, 
+memiliki standar penerapan mitigasi risiko yang paling sedikit 
+setara dengan standar penerapan mitigasi risiko yang diwajibkan 
+kepada PJP dan PIP sesuai dengan ketentuan peraturan 
+perundang-undangan di wilayah Negara Kesatuan Republik 
+Indonesia. 
+Huruf c 
+Yang dimaksud dengan “mempertimbangkan manfaat untuk 
+perekonomian Indonesia” adalah Bank Indonesia 
+mempertimbangkan antara lain kerja sama dimaksud dapat 
+meningkatkan efisiensi, inklusivitas, dan mendukung ekonomi 
+dan keuangan digital di wilayah Negara Kesatuan Republik 
+Indonesia. 
+ 
+Pasal 64 
+Cukup jelas. 
+ 
+Pasal 65 
+Cukup jelas. 
+ 
+Pasal 66 
+Huruf a 
+Cukup jelas.
+
+[Halaman 82]
+- 32 - 
+ 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Struktur kepemilikan korporasi meliputi komposisi kepemilikan 
+saham dan pengendalian korporasi. 
+Huruf e 
+Cukup jelas. 
+ 
+Pasal 67 
+Cukup jelas. 
+ 
+Pasal 68 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Yang dimaksud dengan “fasilitas kredit” adalah fasilitas kredit 
+yang disediakan melalui instrumen kartu kredit atau instrumen 
+lain yang memiliki karakteristik, fitur, dan model bisnis yang 
+sama dengan kartu kredit. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 69 
+Huruf a 
+Yang dimaksud dengan “transfer kredit” adalah rangkaian 
+perpindahan dana antara pengirim dana ( payor) dan penerima 
+dana ( payee) dimana perintah perpindahan dananya diinisiasi 
+oleh pengirim dana (payor).
+
+[Halaman 83]
+- 33 - 
+ 
+ Huruf b 
+Yang dimaksud dengan “transfer debit” adalah rangkaian 
+perpindahan dana antara pengirim dana ( payor) dan penerima 
+dana (payee) yang terdiri atas kegiatan permintaan pembayaran 
+dan pelaksanaan pembayaran, dimana perintah perpindahan 
+dananya diinisiasi oleh penerima dana (payee). 
+ 
+Pasal 70 
+Persyaratan tertentu atas penggunaan Sumber Dana dan akses ke 
+Sumber Dana antara lain penggunaan akses ke Sumber Dana, kerja 
+sama dengan PJP dan/atau PIP , dan skema atau arrangement 
+pemrosesan pembayaran. 
+ 
+Pasal 71 
+Aspek prudensial terkait Sumber Dana dan akses ke Sumber Dana 
+antara lain: 
+1. tata cara penatausahaan Sumber Dana termasuk kewajiban 
+pencatatan, pengelolaan, dan/atau penempatan dana; 
+2. fitur penggunaan; 
+3. nominal atau volume transaksi; 
+4. masa berlaku; dan/atau 
+5. jangka waktu penampungan dana. 
+Penetapan kriteria ruang lingkup, fitur penggunaan, dan kewajiban 
+pemenuhan aspek prudensial dilakukan dengan memperhatikan 
+perkembangan transaksi dan keterkaitan dalam ekosistem 
+pembayaran. 
+ 
+Pasal 72 
+Cukup jelas. 
+ 
+Pasal 73 
+Cukup jelas.
+
+[Halaman 84]
+- 34 - 
+ 
+Pasal 74 
+Ayat (1) 
+Akses ke Sumber Dana yang dihubungkan dengan interface 
+pembayaran terintegrasi diutamakan untuk instrumen yang 
+berbasis akun dan menggunakan kanal mobile atau internet. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 75 
+Ayat (1) 
+Cukup jelas. 
+Ayat (2) 
+Pertimbangan dalam penetapan sebagai infrastruktur pasar 
+keuangan yang berdampak sistemik disesuaikan dengan jenis 
+dan karakteristik infrastruktur Sistem Pembayaran yang akan 
+ditetapkan. 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Yang dimaksud dengan “ ketersediaan infrastruktur 
+Sistem Pembayaran pengganti dengan segera ” adalah 
+ketersediaan infrastruktur Sistem Pembayaran lain 
+yang dapat menggantikan fungsi infrastruktur Sistem 
+Pembayaran dimaksud dalam waktu singkat. 
+Huruf g 
+Pertimbangan hal lainnya seperti penyesuaian standar 
+internasional.
+
+[Halaman 85]
+- 35 - 
+ 
+Pasal 76 
+Ayat (1) 
+Yang dimaksud “standar internasional” antara lain Principles for 
+Financial Market Infrastructures yang diterbitkan oleh Bank for 
+International Settlements – Committee on Payment and Settlement 
+Systems (CPSS) dan International Organization of Securities 
+Commissions (IOSCO). 
+Ayat (2) 
+Huruf a 
+Aspek penyelenggaraan infrastruktur meliputi: 
+1. dasar hukum; 
+2. tata kelola; 
+3. kerangka untuk manajemen risiko komprehensif; 
+4. risiko kredit; 
+5. jaminan; 
+6. risiko likuiditas; 
+7. kepastian penyelesaian akhir (settlement); 
+8. penyelesaian akhir (settlement) dana; 
+9. sistem penyelesaian akhir (settlement) transaksi bursa; 
+10. aturan dan prosedur terkait default oleh peserta; 
+11. risiko bisnis umum; 
+12. risiko kustodian dan investasi; 
+13. risiko operasional; 
+14. persyaratan akses dan kepesertaan; 
+15. pengaturan kepesertaan bertingkat; 
+16. efisiensi dan efektivitas; 
+17. prosedur dan standar komunikasi; dan 
+18. pengungkapan aturan, prosedur utama, dan data pasar. 
+Huruf b 
+Aspek tanggung jawab Bank Indonesia sebagai otoritas 
+dalam melakukan pemantauan (oversight) meliputi: 
+1. peraturan dan pemantauan ( oversight) atas 
+infrastruktur pasar keuangan ( financial market 
+infrastructures); 
+2. kewenangan dan sumber daya pengaturan dan 
+pemantauan (oversight);
+
+[Halaman 86]
+- 36 - 
+ 
+3. pengungkapan kebijakan te rkait dengan infrastruktur 
+pasar keuangan (financial market infrastructures); 
+4. penerapan prinsip -prinsip infrastruktur pasar 
+keuangan (financial market infrastructures); dan 
+5. kerja sama dengan otoritas lainnya. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 77 
+Cukup jelas. 
+ 
+Pasal 78 
+Cukup jelas. 
+ 
+Pasal 79 
+Cukup jelas. 
+ 
+Pasal 80 
+Yang dimaksud “teknologi inovatif” adalah teknologi yang digunakan 
+dalam ekosistem ekonomi dan keuangan digital yang dapat 
+mendukung penyelenggaraan Sistem Pembayaran seperti: 
+1. penggunaan teknologi yang belum teruji; 
+2. penggunaan teknologi yang masih digunakan secara terbatas; 
+3. penggunaan teknologi yang belum distandardisasi; dan/atau 
+4. penggunaan teknologi baru, 
+yang dapat berdampak pada sistem keuangan dan Sistem 
+Pembayaran. 
+ 
+Pasal 81 
+Hasil pemantauan dan deteksi dapat digunakan antara lain untuk 
+perumusan kebijakan, pengaturan, perizinan, persetujuan, dan 
+pengawasan. 
+ 
+Pasal 82 
+Huruf a 
+Cukup jelas.
+
+[Halaman 87]
+- 37 - 
+ 
+Huruf b 
+Uji coba inovasi terhadap kebijakan atau ketentuan Sistem 
+Pembayaran antara lain penggunaan teknologi digital signature 
+terhadap ketentuan mengenai penyelenggaraan Sistem 
+Pembayaran. 
+Huruf c 
+Uji coba inovasi yang telah digunakan di industri Sistem 
+Pembayaran dan perlu didorong untuk digunakan secara luas 
+antara lain penggunaan teknologi application programming 
+interface, biometric, dan Quick Response Code Indonesian 
+Standard (QRIS). 
+ 
+Pasal 83 
+Cukup jelas. 
+ 
+Pasal 84 
+Pihak lain antara lain kementerian atau lembaga terkait. 
+ 
+Pasal 85 
+Cukup jelas. 
+ 
+Pasal 86 
+Cukup jelas. 
+ 
+Pasal 87 
+Cukup jelas. 
+ 
+Pasal 88 
+Pihak yang bekerja sama dengan PJP dan PIP antara lain 
+Penyelenggara Penunjang atau pihak lain nya yang bekerja sama 
+dengan PJP dan/atau PIP dalam memfasilitasi transaksi pembayaran. 
+Infrastruktur Sistem Pembayaran yang diselenggarakan Bank 
+Indonesia antara lain infrastruktur Sistem Pembayaran yang 
+berdampak sistemik.
+
+[Halaman 88]
+- 38 - 
+ 
+Pasal 89 
+Ayat (1) 
+Huruf a 
+Pengawasan tidak langsung dilakukan melalui monitoring, 
+identifikasi, dan/atau asesmen terhadap PJP dan PIP melalui 
+analisis laporan, data, dan informasi yang diperoleh Bank 
+Indonesia. 
+Huruf b 
+Pengawasan langsung dilakukan melalui pemeriksaan 
+kepada PJP dan PIP maupun pihak yang bekerja sama 
+dengan PJP dan PIP secara berkala dan/atau sewaktu-waktu 
+baik secara tatap muka atau mekanisme lain yang 
+ditetapkan Bank Indonesia. 
+Pemeriksaan antara lain dilakukan terhadap dokumen, 
+infrastruktur, dan sistem informasi yang digunakan oleh PJP 
+dan PIP. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 90 
+Huruf a 
+Aspek kepatuhan terhadap ketentuan perundang -undangan 
+antara lain penerapan perlindungan konsumen serta anti 
+pencucian uang dan pencegahan pendanaan terorisme. 
+Risiko PJP dan PIP terdiri dari risiko operasional, risiko 
+penyelesaian akhir (settlement), risiko hukum, risiko reputasi dan 
+risiko strategis. 
+Risiko operasional antara lain risiko terhadap sistem informasi 
+dan risiko siber. 
+Risiko penyelesaian akhir (settlement) antara lain risiko tidak 
+terpenuhinya hak dan/atau kewajiban transaksi pembayaran PJP 
+dan/atau PIP terhadap Pengguna Jasa dan/atau pihak yang 
+bekerja sama. 
+Asesmen risiko PJP dan PIP dilakukan baik terhadap PJP dan PIP 
+secara individual maupun secara terintegrasi bag i PJP dan PIP 
+yang merupakan bagian dari kelompok usaha konglomerasi.
+
+[Halaman 89]
+- 39 - 
+ 
+Huruf b 
+Penerapan prinsip tata kelola dan manajemen risiko antara lain: 
+1. pengawasan aktif direksi dan dewan komisaris; 
+2. kecukupan kebijakan dan prosedur internal; 
+3. kecukupan proses identifikasi dan mitigasi risiko; dan 
+4. pengendalian internal. 
+Huruf c 
+Cukup jelas. 
+ 
+Pasal 91 
+Mekanisme, intensitas, dan fokus pengawasan oleh Bank Indonesia 
+dilakukan dengan memperhatikan klasifikasi PJP atau PIP 
+berdasarkan risiko, termasuk memenuhi tambahan kewajiban yang 
+harus dipenuhi sesuai hasil klasifikasi. 
+ 
+Pasal 92 
+Cukup jelas. 
+ 
+Pasal 93 
+Ayat (1) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Akses terhadap sistem informasi antara lain data dan/atau 
+informasi yang dimuat dalam sistem informasi. 
+Huruf d 
+Cukup jelas. 
+Ayat (2) 
+Termasuk kebenaran data dan/atau informasi yang diperoleh 
+melalui akses terhadap infrastruktur dan/atau sistem informasi. 
+Ayat (3) 
+Cukup jelas.
+
+[Halaman 90]
+- 40 - 
+ 
+Pasal 94 
+Ayat (1) 
+Pengawasan secara terintegrasi dilakukan untuk: 
+a. mengidentifikasi dan memitigasi eksposur risiko yang timbul 
+dari konglomerasi yang dapat mempengaruhi 
+kesinambungan kegiatan bisnis dan operasional PJP 
+dan/atau PIP . Eksposur risiko dapat berasal dari kegiatan 
+perusahaan induk, perusahaan anak, dan/atau pi hak 
+terafiliasi lainnya; dan 
+b. memastikan tetap terpenuhinya aspek kelembagaan dan 
+hukum, kelayakan bisnis, tata kelola, dan manajemen risiko 
+oleh PJP dan/atau PIP. 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 95 
+Cukup jelas. 
+ 
+Pasal 96 
+Cukup jelas. 
+ 
+Pasal 97 
+Cukup jelas. 
+ 
+Pasal 98 
+Yang dimaksud dengan “ketentuan Bank Indonesia” antara lain 
+ketentuan mengenai kewajiban menjaga kerahasiaan data. 
+ 
+Pasal 99 
+Cukup jelas. 
+ 
+Pasal 100 
+Cukup jelas. 
+ 
+Pasal 101 
+Ayat (1) 
+Cukup jelas.
+
+[Halaman 91]
+- 41 - 
+ 
+Ayat (2) 
+Huruf a 
+Cukup jelas. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Pertimbangan lainnya antara lain perkembangan dan 
+keberlangsungan usaha PJP dan PIP. 
+Ayat (3) 
+Cukup jelas. 
+ 
+Pasal 102 
+Cukup jelas. 
+ 
+Pasal 103 
+Cukup jelas. 
+ 
+Pasal 104 
+Cukup jelas. 
+ 
+Pasal 105 
+Ayat (1) 
+Contoh data dan/atau informasi terkait Sistem Pembayaran yaitu 
+laporan, dokumen, data, informasi, keterangan , dan/atau 
+penjelasan terkait: 
+a. penyelenggaraan Sistem Pembayaran, seperti pengaduan 
+konsumen, fraud, insiden, dan gangguan siber; 
+b. pemantauan kepatuhan peserta infrastruktur S istem 
+Pembayaran yang diselenggarakan Bank Indonesia seperti
+
+[Halaman 92]
+- 42 - 
+ 
+aspek tata kelola, operasional, infrastruktur, business 
+continuity plan terkait insiden dan gangguan siber, fraud, dan 
+perlindungan konsumen; 
+c. transaksi pembayaran , seperti instrumen, nominal, dan 
+kanal pembayaran; 
+d. underlying transaksi pembayaran , seperti profil Penyedia 
+Barang dan/atau Jasa , profil Pengguna Jasa, metode 
+pembayaran, wilayah transaksi, dan produk; dan 
+e. kinerja PJP dan PIP, seperti laporan keuangan, laporan 
+kinerja usaha, laporan rencana perubahan modal, dan 
+rencana bisnis PJP dan/atau PIP. 
+Ayat (2) 
+Pihak lain yang bekerja sama dengan PJP dan PIP antara lain 
+penyelenggara perdagangan melalui sistem elektronik yang 
+memfasilitasi transaksi pembayaran dan Penyedia Barang 
+dan/atau Jasa. 
+Contoh data dan/atau informasi terkait Sistem P embayaran 
+yaitu: 
+1. laporan, dokumen, data, informasi, keterangan dan/atau 
+penjelasan terkait transaksi pembayaran, seperti instrumen, 
+nominal, dan kanal pembayaran; dan 
+2. underlying transaksi pembayaran, seperti profil Penyedia 
+Barang dan/atau Jasa, profil Pengguna Jasa, metode 
+pembayaran, wilayah transaksi, dan produk. 
+ 
+Pasal 106 
+Huruf a 
+Penyampaian laporan kepada Bank Indonesia dapat dilakukan 
+secara daring ( online) melalui sistem Bank Indonesia secara 
+berkala atau insidental. 
+Huruf b 
+Pengambilan data melalui koneksi antarsistem (data capturing ) 
+secara langsung dan seketika ( real time ) antara lain dilakukan 
+melalui infrastruktur data yang diselenggarakan oleh Bank 
+Indonesia, otoritas lain, atau penyediaan akses sistem informasi 
+kepada Bank Indonesia.
+
+[Halaman 93]
+- 43 - 
+ 
+Huruf c 
+Penyampaian data dan/atau informasi melalui mekanisme lain 
+antara lain penyampaian data dan/atau informasi yang 
+disampaikan dala m pertemuan dengan Bank Indonesia atau 
+media lainnya. 
+ 
+Pasal 107 
+Ayat (1) 
+Huruf a 
+Penerapan prinsip perlindungan data pribadi dilakukan 
+sesuai dengan ketentuan peraturan perundang -undangan 
+dan/atau standar internasional yang mengatur tentang 
+perlindungan data pribadi. 
+Huruf b 
+Mekanisme pemrosesan data dan/atau informasi terkait 
+Sistem Pembayaran dapat terdiri atas: 
+1. mekanisme pemrosesan data dan/atau informasi 
+pembayaran antara Pengguna Jasa dengan PJP atau 
+PIP; 
+2. mekanisme pemrosesan data dan/atau informasi 
+pembayaran antar PJP atau PIP; 
+3. mekanisme pemrosesan data dan/atau informasi 
+pembayaran antara PJP atau PIP dengan B ank 
+Indonesia; 
+4. mekanisme pemrosesan data dan/atau informasi 
+pembayaran antar Pengguna Jasa; dan 
+5. mekanisme pemrosesan data dan/atau informasi 
+pembayaran antara Pengguna Jasa dengan Bank 
+Indonesia. 
+Infrastruktur data Bank Indonesia antara lain sistem 
+informasi dan infrastruktur data yang diselenggarakan oleh 
+Bank Indonesia seperti Interface Pembayaran Terintegrasi 
+dan data hub, atau yang diselen ggarakan oleh pihak yang 
+ditunjuk Bank Indonesia. 
+Infrastruktur Sistem Pembayaran Bank Indonesia antara lain 
+infrastruktur yang digunakan untuk menyelenggarakan atau
+
+[Halaman 94]
+- 44 - 
+ 
+memfasilitasi kliring dan/atau penyelesaian akhir 
+(settlement) transaksi pembayaran. 
+Huruf c 
+Pemanfaatan infrastruktur data pihak ketiga antara lain 
+penggunaan teknologi komputasi awan (cloud computing). 
+Huruf d 
+Manajemen risiko siber paling sedikit mencakup aspek tata 
+kelola (governance), pencegahan (prevention), dan 
+penanganan (resolution). 
+Huruf e 
+Cukup jelas. 
+Ayat (2) 
+Huruf a 
+ Cukup jelas. 
+Huruf b 
+Mekanisme pemrosesan data dan /atau informasi terkait 
+Sistem P embayaran yang dilakukan dengan standardisasi 
+antara lain standardisasi open application programming 
+interface (open API). 
+Huruf c 
+Cukup jelas. 
+ 
+Pasal 108 
+Ayat (1) 
+Ketentuan perundang -undangan mengenai perlindungan data 
+pribadi antara lain kewajiban persetujuan Pengguna Jasa atas 
+penggunaan data pribadinya (consumer consent). 
+Ayat (2) 
+Pertukaran data individual nasabah berlangsung lebih efisien 
+melalui infrastruktur pengelolaan data dan/atau infrastruktur 
+Sistem Pembayaran secara terintegrasi yang dapat dilakukan oleh 
+PJP dan /atau PIP antara lain untuk mengembangkan inovasi 
+produk dan layanan baru guna meningkatkan kepuasan 
+konsumen ( consumer experience) dan inklusi atau akses 
+keuangan.
+
+[Halaman 95]
+- 45 - 
+ 
+Pasal 109 
+Ayat (1) 
+Ketentuan perundang -undangan mengenai perlindungan data 
+pribadi antara lain kewajiban persetujuan Pengguna Jasa atas 
+penggunaan data pribadinya (consumer consent). 
+Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 110 
+Cukup jelas. 
+ 
+Pasal 111 
+Cukup jelas. 
+ 
+Pasal 112 
+Koordinasi dengan otoritas, lembaga, dan/atau pihak lain dilakukan 
+antara lain dengan cara kerja sama baik dari dalam negeri maupun 
+luar negeri. 
+Koordinasi antara lain: 
+1. penggunaan infrastruktur data dan/atau informasi terintegrasi; 
+2. pertukaran data dan/atau informasi; 
+3. perumusan kebijakan, penyusunan ketentuan, rekomendasi 
+perizinan dan/atau persetujuan, serta pelaksanaan pengawasan; 
+4. fasilitasi dan uji coba inovasi teknologi sistem pembayaran; dan 
+5. keikutsertaan dalam fora internasional dan pemenuhan best 
+practices internasional. 
+ 
+Pasal 113 
+Komunikasi kebijakan dapat dilakukan Bank Indonesia secara luas 
+atau terbatas baik melalui lisan atau tertulis antara lain melalui 
+publikasi resmi atau pernyataan pejabat Bank Indonesia. 
+Contoh bentuk komunikasi kebijakan Bank Indonesia adalah siaran 
+pers, frequently asked questions , pedoman, katalog model bisnis, 
+sosialisasi, dan pertemuan dengan pelaku industri. 
+ 
+Pasal 114 
+Cukup jelas.
+
+[Halaman 96]
+- 46 - 
+ 
+Pasal 115 
+Cukup jelas. 
+ 
+Pasal 116 
+Cukup jelas. 
+ 
+Pasal 117 
+Cukup jelas. 
+ 
+Pasal 118 
+Ayat (1) 
+Yang dimaksud dengan “perubahan komposisi kepemilikan asing” 
+adalah komposisi kepemilikan asing yang mengalami perubahan 
+secara material dan/atau signifikan. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 119 
+Cukup jelas. 
+ 
+Pasal 120 
+Cukup jelas. 
+ 
+Pasal 121 
+Cukup jelas. 
+ 
+Pasal 122 
+Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6610

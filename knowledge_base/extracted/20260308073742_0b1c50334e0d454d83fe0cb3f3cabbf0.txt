@@ -1,0 +1,1319 @@
+[Halaman 1]
+2 
+ 
+PERATURAN ANGGOTA DEWAN GUBERNUR 
+NOMOR 22 TAHUN 2024 
+TENTANG 
+LAPORAN PELAKSANAAN STANDARDISASI KOMPETENSI DI BIDANG SISTEM 
+PEMBAYARAN 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+ANGGOTA DEWAN GUBERNUR BANK INDONESIA, 
+ 
+ 
+Menimbang : a. bahwa Bank Indonesia telah menerbitkan Peraturan Bank 
+Indonesia Nomor 5 Tahun 2024 tentang Standardisasi 
+Kompetensi di Bidang Sistem Pembayaran yang dalam 
+penerapannya perlu didukung dengan peraturan 
+pelaksanaan yang mengatur mengenai mekanisme 
+pelaksanaan dan tata cara penyusunan dan penyampaian 
+laporan standardisasi kompetensi di bidang sistem 
+pembayaran; 
+ b. bahwa berdasarkan pertimbangan sebagaimana dimaksud 
+dalam huruf a, perlu menetapkan Peraturan Anggota 
+Dewan Gubernur tentang Laporan Pelaksanaan 
+Standardisasi Kompetensi di Bidang Sistem Pembayaran; 
+ 
+Mengingat : a. Peraturan Bank Indonesia Nomor 5 Tahun 2024 tentang 
+Standardisasi Kompetensi di Bidang Sistem Pembayaran 
+(Lembaran Negara Republik Indonesia Tahun 2024 Nomor 
+16/BI, Tambahan Lembaran Negara Republik Indonesia 
+Nomor 84/BI); 
+ b. Peraturan Anggota Dewan Gubernur Nomor 17 Tahun 
+2024 tanggal 19 November 2024 tentang Pelaksanaan 
+Standardisasi Kompetensi di Bidang Sistem Pembayaran ; 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN ANGGOTA DEWAN GUBERNUR TENTANG 
+LAPORAN PELAKSANAAN STANDARDISASI KOMPETENSI DI 
+BIDANG SISTEM PEMBAYARAN.
+
+[Halaman 2]
+2 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud 
+dengan: 
+1. Standardisasi Kompetensi Bidang Sistem Pembayaran 
+yang selanjutnya disebut SK SP adalah penerapan standar 
+kompetensi kerja nasional Indonesia dan jenjang 
+kualifikasi nasional Indonesia di bidang sistem 
+pembayaran. 
+2. Pelaku SK SP adalah bank dan lembaga selain bank yang 
+menyelenggarakan kegiatan sistem pembayaran . 
+3. Bank adalah bank umum dan bank perekonomian rakyat 
+sebagaimana dimaksud dalam Undang -Undang mengenai 
+perbankan, termasuk kantor cabang bank asing di 
+Indonesia, dan bank umum syariah, unit usaha syariah, 
+dan bank perekonomian rakyat syariah sebagaimana 
+dimaksud dalam Undang -Undang mengenai perbankan 
+syariah. 
+4. Lembaga Selain Bank yang selanjutnya disingkat LSB 
+adalah badan usaha bukan Bank yang berbadan hukum 
+dan didirikan berdasarkan hukum Indonesia. 
+5. Kegiatan Sistem Pembayaran adalah kegiatan yang 
+menerapkan SK SP. 
+6. Penyelenggara SK SP adalah pihak yang 
+menyelenggarakan pelatihan berbasis kompetensi sistem 
+pembayaran dan yang menyelenggarakan sertifikasi 
+kompetensi sistem pembayaran . 
+7. Pelapor adalah Pelaku SK SP dan Penyelenggara SK SP 
+yang menyampaikan laporan melalui sistem pelaporan 
+Bank Indonesia, termasuk Pelaku SK SP berupa Bank 
+yang merupakan peserta sistem pembayaran Bank 
+Indonesia. 
+8. Laporan Standardisasi Kompetensi di Bidang Sistem 
+Pembayaran yang selanjutnya disebut Laporan adalah 
+informasi yang disusun dan disampaikan oleh Pelapor 
+dalam format dan definisi yang seragam sesuai dengan 
+metadata yang ditetapkan oleh Bank Indonesia. 
+9. Sistem Pelaporan Bank Indonesia adalah sistem pelaporan 
+yang meliputi sarana dan prasarana yang digunakan Bank 
+Indonesia untuk menerima dan memproses Laporan. 
+10. Lembaga Pelatihan Kerja Sistem Pembayaran yang 
+selanjutnya disebut LPK Sistem Pembayaran adalah 
+lembaga pelatihan kerja yang telah memperoleh izin atau 
+tanda daftar dari lembaga yang berwenang dan 
+memperoleh pengakuan dari Bank Indonesia. 
+11. Lembaga Sertifikasi Profesi Sistem Pembayaran yang 
+selanjutnya disebut LSP Sistem Pembayaran adalah 
+lembaga sertifikasi profesi yang telah memperoleh lisensi 
+dari badan atau lembaga yang berwenang dan memperoleh 
+pengakuan dari Bank Indonesia. 
+12. Pelatihan Berbasis Kompetensi Sistem Pembaya ran yang 
+selanjutnya disebut PBK Sistem Pembayaran adalah 
+pelatihan kerja yang menitikberatkan pada penguasaan
+
+[Halaman 3]
+3 
+ 
+kemampuan kerja sesuai dengan standar kompetensi 
+kerja nasional Indonesia bidang sistem pembayaran dan 
+persyaratan di tempat kerja. 
+13. Sertifikasi Kompetensi Sistem Pembayaran adalah proses 
+pemberian sertifikat kompetensi sistem pembayaran yang 
+dilakukan secara sistematis dan objektif melalui uji 
+kompetensi sesuai dengan standar kompetensi kerja 
+nasional Indonesia bidang sistem pembayaran. 
+14. Sertifikat Kompetensi Sistem Pembayaran adalah bukti 
+tertulis yang diterbitkan oleh LSP Sistem Pembayaran 
+yang menerangkan bahwa seseorang telah menguasai 
+kompetensi kerja tertentu di bidang sistem pembayaran 
+sesuai dengan Sertifikasi Kompetensi Sistem Pembayaran 
+yang diikuti. 
+15. Sertifikat Pelatihan Berbasis Kompetensi Sistem 
+Pembayaran yang selanjutnya disebut Sertifikat PBK 
+Sistem Pembayaran adalah bukti tertulis yang diterbitkan 
+oleh LPK Sistem Pembayaran yang menyatakan bahwa 
+seseorang telah kompeten sesuai dengan PBK Sistem 
+Pembayaran yang diikuti. 
+16. Sumber Daya Manusia Pelaku SK SP yang selanjutnya 
+disebut SDM adalah orang dalam kelompok jenjang 
+jabatan tertentu pada satuan kerja operasional yang 
+melaksanakan Kegiatan Sistem Pembayaran. 
+17. Pemeliharaan Kompetensi Sistem Pembayaran adalah 
+proses pengkinian kompetensi SDM pemilik Sertifikat PBK 
+Sistem Pembayaran dan Sertifikat Kompetensi Sistem 
+Pembayaran. 
+18. Hari Kerja adalah hari kerja Bank Indonesia, tidak 
+termasuk hari yang ditetapkan Bank Indonesia untuk 
+melakukan kegiatan operasional terbatas. 
+ 
+BAB II 
+PELAPOR DAN KEWAJIBAN PELAPOR 
+ 
+Pasal 2 
+(1) Pelapor berupa Pelaku SK SP terdiri atas: 
+a. penyedia jasa pembayaran; 
+b. penyelenggara infrastruktur sistem pembayaran; 
+c. penyelenggara jasa pengolahan uang rupiah; dan 
+d. penyelenggara kegiatan usaha penukaran valuta 
+asing bukan Bank. 
+(2) Pelapor berupa Pelaku SK SP sebagaimana dimaksud pada 
+ayat (1) termasuk Bank yang merupakan peserta sistem 
+pembayaran Bank Indonesia. 
+(3) Pelapor berupa Penyelenggara SK SP terdiri atas: 
+a. LPK Sistem Pembayaran ; dan 
+b. LSP Sistem Pembayaran. 
+ 
+Pasal 3 
+(1) Pelapor wajib menyusun dan menyampaikan Laporan 
+kepada Bank Indonesia. 
+(2) Laporan sebagaimana dimaksud pada ayat (1) disusun 
+dan disampaikan secara lengkap, akurat, kini, utuh, dan 
+tepat waktu.
+
+[Halaman 4]
+4 
+ 
+(3) Dalam hal terdapat kesalahan pada Laporan yang telah 
+disampaikan, Pelapor wajib menyampaikan koreksi 
+Laporan. 
+ 
+Pasal 4 
+(1) Dalam menyampaikan Laporan kepada Bank Indonesia 
+sebagaimana dimaksud dalam Pasal 3, Pelapor harus 
+menunjuk petugas dan penanggung jawab Laporan. 
+(2) Proses pendaftaran petugas dan penanggung jawab 
+Laporan sebagaimana dimaksud pada ayat (1) untuk 
+pertama kali dilakukan dengan ketentuan: 
+a. mendaftarkan user ID petugas dan penanggung jawab 
+Laporan pada portal pelaporan Bank Indonesia ; 
+b. menyampaikan dokumen surat pengantar yang 
+dilengkapi dengan: 
+1. bukti pendaftaran user ID sebagaimana 
+dimaksud dalam huruf a telah berhasil; dan 
+2. formulir pendaftaran dengan format 
+sebagaimana tercantum dalam Lampiran I yang 
+merupakan bagian tidak terpisahkan dari 
+Peraturan Anggota Dewan Gubernur ini; dan 
+c. dokumen sebagaimana dimaksud dalam huruf b 
+disampaikan kepada Bank Indonesia dalam bentuk: 
+1. salinan cetak kepada Bank Indonesia c.q. 
+Departemen Pengelolaan dan Kepatuhan 
+Laporan, Jalan M.H. Thamrin Nomor 2, Jakarta 
+10350; dan/atau 
+2. salinan elektronik melalui surat elektronik 
+kepada pelaporan_sksp@bi.go.id. 
+(3) Dalam hal terdapat perubahan petugas dan penanggung 
+jawab Laporan sebagaimana dimaksud pada ayat (1), 
+Pelapor melakukan: 
+a. penunjukan petugas dan penanggung jawab Laporan 
+baru; 
+b. pendaftaran petugas dan penanggung jawab Laporan 
+baru dengan proses sebagaimana dimaksud pada 
+ayat (2); dan 
+c. penyampaian informasi terkait perubahan petugas 
+dan penanggung jawab Laporan kepada Bank 
+Indonesia, dalam bentuk: 
+1. salinan cetak kepada Bank Indonesia c.q . 
+Departemen Pengelolaan dan Kepatuhan 
+Laporan, Jalan M.H. Thamrin Nomor 2, Jakarta 
+10350; dan/atau 
+2. salinan elektronik melalui surat elektronik 
+kepada pelaporan_sksp@bi.go.id. 
+(4) Penunjukan petugas dan penanggung jawab Laporan baru 
+dengan proses sebagaimana dimaksud pada ayat (1) dan 
+ayat (3) tidak mengurangi dan/atau menghilangkan 
+tanggung jawab direksi atau pimpinan Pelapor.
+
+[Halaman 5]
+5 
+ 
+BAB III 
+PENYUSUNAN LAPORAN 
+ 
+Pasal 5 
+(1) Pelapor harus memiliki sandi Pelapor untuk penyampaian 
+Laporan. 
+(2) Pelapor yang belum memiliki sandi Pelapor sebagaimana 
+dimaksud pada ayat (1) harus: 
+a. mengisi data pokok Pelapor pada Sistem Pelaporan 
+Bank Indonesia; dan 
+b. menyampaikan dokumen surat permohonan yang 
+dilengkapi dengan bukti keberhasilan pengisian data 
+pokok Pelapor pada Sistem Pelaporan Bank Indonesia 
+sebagaimana dimaksud dalam huruf a dalam bentuk: 
+1. salinan cetak kepada Bank Indonesia c.q. 
+Departemen Pengelolaan dan Kepatuhan 
+Laporan, Jalan M.H. Thamrin Nomor 2, Jakarta 
+10350; dan/atau 
+2. salinan elektronik melalui surat elektronik 
+kepada pelaporan_sksp@bi.go.id. 
+(3) Dalam hal Bank Indonesia mencabut: 
+a. perizinan Pelapor sebagai: 
+1. penyedia jasa pembayaran sebagaimana 
+dimaksud dalam Pasal 2 ayat (1) huruf a ; 
+2. penyelenggara jasa pengolahan uang rupiah 
+sebagaimana dimaksud dalam Pasal 2 ayat (1) 
+huruf c; dan 
+3. penyelenggara kegiatan usaha penukaran valuta 
+asing bukan Bank sebagaimana dimaksud 
+dalam Pasal 2 ayat (1) huruf d; 
+b. persetujuan Pelapor sebagai peserta sistem 
+pembayaran Bank Indonesia sebagaimana dimaksud 
+dalam Pasal 2 ayat (2); 
+c. penetapan Pelapor sebagai penyelenggara 
+infrastruktur sistem pembayaran sebagaimana 
+dimaksud dalam Pasal 2 ayat (1) huruf b; dan/atau 
+d. pengakuan Pelapor sebagai LPK Sistem Pembayaran 
+atau LSP Sistem Pembayaran sebagaimana dimaksud 
+dalam Pasal 2 ayat (3) , 
+sandi Pelapor untuk penyampaian Laporan akan ditutup. 
+(4) Pelapor wajib menyampaikan Laporan untuk periode data 
+sebelum tanggal pencabutan perizinan atau persetujuan 
+atau penetapan atau pengakuan sebagaimana dimaksud 
+pada ayat (3). 
+ 
+Pasal 6 
+(1) Penyusunan Laporan sebagaimana dimaksud dalam Pasal 
+3 dilakukan dengan mengacu pada metadata yang 
+ditetapkan oleh Bank Indonesia. 
+(2) Metadata sebagaimana dimaksud pada ayat (1) dimuat 
+dalam: 
+a. pedoman penyusunan Laporan; dan 
+b. metadata teknis berupa struktur data dan aturan 
+validasi yang dipublikasikan pada Sistem Pelaporan 
+Bank Indonesia.
+
+[Halaman 6]
+6 
+ 
+(3) Pedoman penyusunan Laporan sebagaimana dimaksud 
+pada ayat (2) huruf a tercantum dalam Lampiran II yang 
+merupakan bagian tidak terpisahkan dari Peraturan 
+Anggota Dewan Gubernur ini. 
+(4) Dalam hal terdapat perubahan metadata sebagaimana 
+dimaksud pada ayat (2), Bank Indonesia akan 
+mencantumkan perubahan metadata tersebut dalam 
+Sistem Pelaporan Bank Indonesia. 
+(5) Pemberitahuan perubahan metadata sebagaimana 
+dimaksud pada ayat (4) disampaikan oleh Bank Indonesia 
+kepada Pelapor melalui surat dan/atau media lain. 
+ 
+Pasal 7 
+(1) Laporan sebagaimana dimaksud dalam Pasal 3 ayat (1) 
+terdiri atas: 
+a. Laporan berkala; dan/atau 
+b. Laporan insidental. 
+(2) Periode penyampaian untuk Laporan berkala 
+sebagaimana dimaksud pada ayat (1) huruf a terdiri atas: 
+a. triwulanan; dan/atau 
+b. tahunan. 
+ 
+Pasal 8 
+(1) Laporan yang disampaikan secara triwulanan 
+sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a 
+meliputi informasi: 
+a. rencana dan realisasi pemenuhan kepemilikan 
+Sertifikat PBK Sistem Pembayaran atau Sertifikat 
+Kompetensi Sistem Pembayaran masa peralihan ; 
+b. rencana dan realisasi pemenuhan kepemilikan 
+Sertifikat PBK Sistem Pembayaran atau Sertifikat 
+Kompetensi Sistem Pembayaran seluruh SDM; 
+c. jumlah SDM yang mengikuti PBK Sistem Pembayaran 
+atau Sertifikasi Kompetensi Sistem Pembayaran; 
+d. pemilik Sertifikat PBK Sistem Pembayaran atau 
+Sertifikat Kompetensi Sistem Pembayaran; dan 
+e. pemeliharaan kompetensi sistem pembayaran pemilik 
+sertifikat . 
+(2) Laporan yang disampaikan secara tahunan sebagaimana 
+dimaksud dalam Pasal 7 ayat (2) huruf b meliputi 
+informasi: 
+a. rencana penyediaan dana kompetensi sistem 
+pembayaran masa peralihan ; 
+b. rencana penyediaan dana kompetensi sistem 
+pembayaran seluruh SDM; 
+c. rencana pemenuhan kepemilikan Sertifikat PBK 
+Sistem Pembayaran atau Sertifikat Kompetensi 
+Sistem Pembayaran masa peralihan ; 
+d. rencana pemenuhan kepemilikan Sertifikat PBK 
+Sistem Pembayaran atau Sertifikat Kompetensi 
+Sistem Pembayaran seluruh SDM; 
+e. realisasi penggunaan dana kompetensi s istem 
+pembayaran masa peralihan ; dan 
+f. realisasi penggunaan dana kompetensi sistem 
+pembayaran seluruh SDM.
+
+[Halaman 7]
+7 
+ 
+(3) Penyampaian Laporan sebagaimana dimaksud pada ayat 
+(1) huruf a dan ayat (2) huruf a, huruf c, dan huruf e 
+dilakukan untuk data sampai dengan tanggal 31 Desember 
+2026. 
+ 
+Pasal 9 
+(1) Pelapor berupa Pelaku SK SP wajib menyampaikan 
+Laporan sebagaimana dimaksud dalam Pasal 8 ayat (1) 
+huruf a, Pasal 8 ayat (1) huruf b, dan Pasal 8 ayat (2). 
+(2) Pelapor berupa Penyelenggara SK SP wajib menyampaikan 
+Laporan sebagaimana dimaksud dalam Pasal 8 ayat (1) 
+huruf c, huruf d, dan huruf e. 
+ 
+Pasal 10 
+Laporan insidental sebagaimana dimaksud dalam Pasal 7 ayat 
+(1) huruf b meliputi informasi Sertifikat Kompetensi Sistem 
+Pembayaran yang ditunda, dicabut, atau dibatalkan 
+penerbitannya. 
+ 
+Pasal 11 
+Pelapor berupa: 
+a. Pelaku SK SP; dan 
+b. Penyelenggara SK SP berupa LSP Sistem Pembayaran, 
+wajib menyampaikan Laporan sebagaimana dimaksud dalam 
+Pasal 10. 
+ 
+BAB IV 
+PENYAMPAIAN LAPORAN 
+ 
+Bagian Kesatu 
+Batas Waktu Penyampaian Laporan dan/atau Koreksi 
+Laporan 
+ 
+Pasal 12 
+(1) Pelapor wajib menyampaikan Laporan dan/atau koreksi 
+Laporan yang disampaikan secara triwulanan 
+sebagaimana dimaksud dalam Pasal 8 ayat (1) dengan 
+ketentuan: 
+a. triwulan I, Laporan dan/atau koreksi Laporan 
+disampaikan paling lambat 10 (sepuluh) Hari Kerja 
+pertama di bulan April untuk data bulan Januari 
+sampai dengan akhir bulan Maret; 
+b. triwulan II, Laporan dan/atau koreksi Laporan 
+disampaikan paling lambat 10 (sepuluh) Hari Kerja 
+pertama di bulan Juli untuk data bulan April sampai 
+dengan akhir bulan Juni; 
+c. triwulan III, Laporan dan/atau koreksi Laporan 
+disampaikan paling lambat 10 (sepuluh) Hari Kerja 
+pertama di bulan Oktober untuk data bulan Juli 
+sampai dengan akhir bulan September; dan 
+d. triwulan IV, Laporan dan/atau koreksi Laporan 
+disampaikan paling lambat 10 (sepuluh) Hari Kerja 
+pertama di bulan Januari tahun berikutnya untuk 
+data bulan Oktober sampai dengan akhir bulan 
+Desember.
+
+[Halaman 8]
+8 
+ 
+(2) Dalam hal Bank Indonesia menerima Laporan dan/atau 
+koreksi Laporan setelah batas waktu sebagaimana 
+dimaksud pada ayat (1) sampai dengan 10 (sepuluh) Hari 
+Kerja berikutnya maka Pelapor dinyatakan terlambat 
+menyampaikan Laporan dan/atau koreksi Laporan. 
+(3) Dalam hal Bank Indonesia belum menerima Laporan 
+sampai dengan berakhirnya batas waktu sebagaimana 
+dimaksud pada ayat (2) maka Pelapor dinyatakan tidak 
+menyampaikan Laporan. 
+ 
+Pasal 13 
+(1) Pelapor wajib menyampaikan Laporan dan/atau koreksi 
+Laporan yang disampaikan secara tahunan sebagaimana 
+dimaksud dalam Pasal 8 ayat (2) huruf a, huruf b, huruf 
+c, dan huruf d dengan batas waktu tanggal 15 Desember 
+tahun berjalan berdasarkan posisi data SDM pada akhir 
+bulan November. 
+(2) Pelapor wajib menyampaikan Laporan dan/atau koreksi 
+Laporan yang disampaikan secara tahunan sebagaimana 
+dimaksud dalam Pasal 8 ayat (2) huruf e dan huruf f 
+dengan batas waktu paling lambat 10 (sepuluh) Hari Kerja 
+pertama di bulan Januari tahun berikutnya b erdasarkan 
+akumulasi data awal Januari sampai dengan akhir bulan 
+Desember tahun berjalan. 
+(3) Dalam hal Bank Indonesia menerima Laporan dan/atau 
+koreksi Laporan setelah batas waktu sebagaimana 
+dimaksud pada ayat (1) dan ayat (2) sampai dengan 10 
+(sepuluh) Hari Kerja berikutnya maka Pelapor dinyatakan 
+terlambat menyampaikan Laporan dan/atau koreksi 
+Laporan. 
+(4) Dalam hal Bank Indonesia belum menerima Laporan 
+sampai dengan berakhirnya batas waktu sebagaimana 
+dimaksud pada ayat (3) maka Pelapor dinyatakan tidak 
+menyampaikan Laporan. 
+ 
+Pasal 14 
+Dalam hal batas waktu penyampaian Laporan dan/atau 
+koreksi Laporan sebagaimana dimaksud dalam Pasal 13 ayat 
+(1) jatuh pada hari Sabtu, Minggu, atau hari libur maka 
+Laporan disampaikan pada Hari Kerja berikutnya, kecuali 
+ditetapkan lain oleh Bank Indonesia. 
+ 
+Pasal 15 
+(1) Pelapor wajib menyampaikan Laporan dan/atau koreksi 
+Laporan insidental sebagaimana dimaksud dalam Pasal 10 
+kepada Bank Indonesia paling lambat 10 (sepuluh) Hari 
+Kerja sejak tanggal terjadinya penundaan, pencabutan, 
+atau pembatalan penerbitan Sertifikat Kompetensi Sistem 
+Pembayaran. 
+(2) Dalam hal Bank Indonesia menerima Laporan dan/atau 
+koreksi Laporan setelah batas waktu sebagaimana 
+dimaksud pada ayat (1) sampai dengan 10 (sepuluh) Hari 
+Kerja berikutnya maka Pelapor dinyatakan terlambat 
+menyampaikan Laporan dan/atau koreksi Laporan.
+
+[Halaman 9]
+9 
+ 
+(3) Dalam hal Bank Indonesia menerima Laporan melewati 
+batas waktu sebagaimana dimaksud pada ayat (2) maka 
+Pelapor dinyatakan tidak menyampaikan Laporan. 
+ 
+Pasal 16 
+(1) Pelapor berupa Pelaku SK SP yang melanggar ketentuan 
+sebagaimana dimaksud dalam Pasal 12 ayat (1), Pasal 13 
+ayat (1), Pasal 13 ayat (2), dan Pasal 15 ayat (1) dikenai 
+sanksi administratif berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama 
+dalam Kegiatan Sistem Pembayaran, dan/atau 
+penundaan kepesertaan sistem pembayaran Bank 
+Indonesia; 
+c. penghentian sementara, sebagian, atau seluruh 
+Kegiatan Sistem Pembayaran termasuk pelaksanaan 
+kerja sama; dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran, 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran, pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah, atau 
+pencabutan izin penyelenggara kegiatan usaha 
+penukaran valuta asing bukan Bank. 
+(2) Pelapor berupa Penyelenggara SK SP yang melanggar 
+ketentuan sebagaimana dimaksud dalam Pasal 12 ayat (1) 
+dan/atau Pasal 15 ayat (1) dikenai sanksi administratif 
+berupa: 
+a. teguran tertulis; 
+b. pembekuan sebagai Penyelenggara SK SP yang diakui 
+Bank Indonesia; dan/atau 
+c. pencabutan sebagai Penyelenggara SK SP yang diakui 
+Bank Indonesia. 
+ 
+Pasal 17 
+(1) Dalam mengenakan sanksi administratif sebagaimana 
+dimaksud dalam Pasal 16, Bank Indonesia 
+mempertimbangkan: 
+a. tingkat kesalahan dan/atau pelanggaran; 
+b. akibat yang ditimbulkan; dan/atau 
+c. aspek lainnya. 
+(2) Pengenaan sanksi administratif sebagaimana dimaksud 
+dalam Pasal 16 disampaikan secara tertulis oleh Bank 
+Indonesia kepada Pelapor. 
+ 
+Pasal 18 
+Pengenaan sanksi administratif sebagaimana dimaksud dalam 
+Pasal 16 tidak menghilangkan kewajiban penyampaian 
+Laporan dan/atau koreksi Laporan sebagaimana dimaksud 
+dalam Pasal 7 ayat (1).
+
+[Halaman 10]
+10 
+ 
+Bagian Kedua 
+Prosedur Penyampaian Laporan dan/atau Koreksi Laporan 
+ 
+Pasal 19 
+(1) Laporan dan/atau koreksi Laporan sebagaimana 
+dimaksud dalam Pasal 7 ayat (1) disampaikan kepada 
+Bank Indonesia secara daring melalui Sistem Pelaporan 
+Bank Indonesia. 
+(2) Penyampaian Laporan dan/atau koreksi Laporan secara 
+daring sebagaimana dimaksud pada ayat (1) dilakukan 
+dengan memperhatikan keamanan infrastruktur teknologi 
+informasi yang digunakan untuk mengakses Sistem 
+Pelaporan Bank Indonesia. 
+ 
+Pasal 20 
+(1) Dalam hal penyampaian Laporan dan/atau koreksi 
+Laporan belum dapat disampaikan secara daring 
+sebagaimana dimaksud dalam Pasal 19 ayat (1) , 
+penyampaian Laporan dilakukan secara luring dengan 
+mengacu pada Peraturan Anggota Dewan Gubernur 
+mengenai pelaksanaan standardisasi kompetensi di 
+bidang sistem pembayaran . 
+(2) Pada saat penyampaian Laporan dan/atau koreksi 
+Laporan secara daring sebagaimana dimaksud dalam 
+Pasal 19 ayat (1) telah diimplementasikan, Pelapor tetap 
+wajib menyampaikan laporan secara luring sampai 
+dengan 6 (enam) bulan sejak Bank Indonesia menetapkan 
+kewajiban pelaporan secara daring bagi Pelapor . 
+(3) Penyampaian laporan secara luring sebagaimana 
+dimaksud pada ayat (2) dilakukan dengan mengacu pada 
+Peraturan Anggota Dewan Gubernur mengenai 
+pelaksanaan standardisasi kompetensi di bidang sistem 
+pembayaran sebagaimana dimaksud pada ayat (1) . 
+(4) Mekanisme pelaporan secara daring oleh Pelapor melalui 
+Sistem Pelaporan Bank Indonesia mengacu pada 
+metadata sebagaimana dimaksud dalam Pasal 6 . 
+(5) Bank Indonesia dapat menetapkan tahapan 
+pemberlakuan implementasi kewajiban Laporan dan/atau 
+koreksi Laporan secara daring sebagaimana dimaksud 
+pada ayat (2) bagi Pelapor tertentu melalui surat dan/atau 
+media lain sesuai dengan Peraturan Anggota Dewan 
+Gubernur mengenai pelaksanaan standardisasi 
+kompetensi di bidang sistem pembayaran . 
+ 
+Pasal 21 
+(1) Dalam hal Pelapor: 
+a. mengalami gangguan teknis dalam menyampaikan 
+Laporan dan/atau koreksi Laporan; dan/atau 
+b. tidak dapat menyampaikan Laporan dan/atau 
+koreksi Laporan yang disebabkan gangguan teknis 
+pada Sistem Pelaporan Bank Indonesia, 
+yang terjadi pada batas waktu penyampaian Laporan 
+dan/atau koreksi Laporan sebagaimana dimaksud dalam 
+Pasal 12, Pasal 13, dan Pasal 15 maka Laporan dan/atau 
+koreksi Laporan disampaikan secara luring kepada Bank 
+Indonesia.
+
+[Halaman 11]
+11 
+ 
+(2) Penyusunan Laporan dan/atau koreksi Laporan yang 
+disampaikan secara luring kepada Bank Indonesia 
+sebagaimana dimaksud pada ayat (1) tetap mengacu pada 
+metadata sebagaimana dimaksud dalam Pasal 6. 
+(3) Penyampaian Laporan dan/atau koreksi Laporan secara 
+luring sebagaimana dimaksud pada ayat (1) disampaikan 
+pada Hari Kerja berikutnya setelah batas waktu 
+penyampaian Laporan dan/atau koreksi Laporan 
+sebagaimana dimaksud dalam Pasal 12, Pasal 13, dan 
+Pasal 15. 
+(4) Penyampaian Laporan dan/atau koreksi Laporan secara 
+luring sebagaimana dimaksud pada ayat (1) disampaikan 
+melalui surat elektronik kepada pelaporan_sksp@bi.go.id 
+disertai dengan surat pemberitahuan kepada Bank 
+Indonesia sebagaimana tercantum dalam Lampiran III 
+yang merupakan bagian tidak terpisahkan dari Peraturan 
+Anggota Dewan Gubernur ini. 
+(5) Surat pemberitahuan sebagaimana dimaksud pada ayat 
+(4) ditujukan kepada: 
+a. Kantor Perwakilan Dalam Negeri Bank Indonesia 
+setempat sesuai dengan wilayah tempat kedudukan 
+kantor pusat Pelapor, bagi Pelaku SK SP berupa: 
+1. penyelenggara kegiatan usaha penukaran valuta 
+asing bukan Bank; 
+2. penyedia jasa pembayaran bukan Bank yang 
+menyelenggarakan kegiatan pengelolaan 
+transfer dana; dan 
+3. penyelenggara jasa pengolahan uang rupiah 
+yang berkantor pusat di luar wilayah kerja 
+Kantor Pusat Bank Indonesia ; atau 
+b. Bank Indonesia c.q. Departemen Pengelolaan dan 
+Kepatuhan Laporan, Jalan M.H. Thamrin Nomor 2, 
+Jakarta 10350, bagi Penyelenggara SK SP dan Pelaku 
+SK SP selain pihak sebagaimana dimaksud dalam 
+huruf a. 
+(6) Wilayah kerja Kantor Perwakilan Dalam Negeri Bank 
+Indonesia sebagaimana dimaksud pada ayat (5) huruf a 
+tercantum dalam Lampiran IV yang merupakan bagian 
+tidak terpisahkan dari Peraturan Anggota Dewan 
+Gubernur ini. 
+(7) Surat pemberitahuan kepada Bank Indonesia 
+sebagaimana dimaksud pada ayat (4) ditandatangani oleh 
+pejabat Pelapor. 
+(8) Penyampaian Laporan dan/atau koreksi Laporan secara 
+luring oleh Pelapor yang mengalami gangguan teknis 
+sebagaimana dimaksud pada ayat (1) huruf a harus 
+disertai dengan bukti dan penjelasan mengenai gangguan 
+teknis tersebut. 
+(9) Bank Indonesia memberitahukan kepada Pelapor 
+mengenai terjadinya gangguan teknis sebagaimana 
+dimaksud pada ayat (1) huruf b melalui surat atau sarana 
+lain yang ditetapkan oleh Bank Indonesia . 
+ 
+Pasal 22 
+(1) Pelapor yang tidak memiliki data atas informasi terkait 
+Laporan sebagaimana dimaksud dalam Pasal 7 ayat (1)
+
+[Halaman 12]
+12 
+ 
+huruf a pada periode sebagaimana dimaksud dalam Pasal 
+7 ayat (2), tetap menyampaikan Laporan dengan isian 
+nihil. 
+(2) Laporan dengan isian nihil sebagaimana dimaksud pada 
+ayat (1) berupa berkas ( file) kosong dengan penamaan 
+berkas ( file) mengikuti aturan sebagaimana tercantum 
+dalam Lampiran II. 
+ 
+Pasal 23 
+(1) Pelapor dinyatakan telah menyampaikan Laporan 
+dan/atau koreksi Laporan pada tanggal diterimanya 
+Laporan dan/atau koreksi Laporan oleh Bank Indonesia. 
+(2) Penerimaan Laporan dan/atau koreksi Laporan 
+sebagaimana dimaksud pada ayat (1) dibuktikan dengan 
+tanda terima atas penyampaian Laporan dan/atau koreksi 
+Laporan yang diperoleh dari Sistem Pelaporan Bank 
+Indonesia. 
+(3) Tanda terima atas penyampaian Laporan dan/atau 
+koreksi Laporan sebagaimana dimaksud pada ayat (2) 
+diberikan jika Laporan dan/atau koreksi Laporan 
+dinyatakan lolos validasi pada Sistem Pelaporan Bank 
+Indonesia. 
+(4) Dalam hal terdapat gangguan pada Sistem Pelaporan Bank 
+Indonesia yang menimbulkan kendala dalam proses 
+pemberian tanda terima kepada Pelapor sebagaimana 
+dimaksud pada ayat (3), Bank Indonesia menyampaikan 
+pemberitahuan gangguan pada Sistem Pelaporan Bank 
+Indonesia kepada Pelapor. 
+(5) Bank Indonesia dapat menetapkan langkah tertentu guna 
+menindaklanjuti gangguan sebagaimana dimaksud pada 
+ayat (4). 
+ 
+Pasal 24 
+(1) Pelapor yang mengalami keadaan kahar pada batas waktu 
+penyampaian Laporan dan/atau koreksi Laporan sehingga 
+menyebabkan: 
+a. tidak tersedianya informasi sebagaimana dimaksud 
+dalam Pasal 8; atau 
+b. terhambatnya penyampaian Laporan dan/atau 
+koreksi Laporan, 
+harus segera menyampaikan informasi secara tertulis 
+kepada Bank Indonesia dengan memberikan penjelasan 
+mengenai keadaan kahar yang dialami untuk memperoleh 
+persetujuan dari Bank Indonesia. 
+(2) Penyampaian informasi secara tertulis sebagaimana 
+dimaksud pada ayat (1) dapat didahului dengan 
+penyampaian informasi singkat melalui sarana elektronik 
+dan/atau nonelektronik. 
+(3) Informasi secara tertulis sebagaimana dimaksud pada 
+ayat (1) ditandatangani oleh direksi atau pimpinan Pelapor 
+dan disampaikan kepada: 
+a. Kantor Perwakilan Dalam Negeri Bank Indonesia 
+setempat sesuai dengan wilayah tempat kedudukan 
+kantor pusat Pelapor dengan tembusan kepada 
+Departemen Pengelolaan dan Kepatuhan Laporan, 
+bagi Pelaku SK SP berupa LSB:
+
+[Halaman 13]
+13 
+ 
+1. penyelenggara kegiatan usaha penukaran valuta 
+asing bukan Bank; 
+2. penyedia jasa pembayaran bukan Bank yang 
+menyelenggarakan kegiatan pengelolaan 
+transfer dana ; dan 
+3. penyelenggara jasa pengolahan uang rupiah 
+yang berkantor pusat di luar wilayah kerja 
+Kantor Pusat Bank Indonesia ; atau 
+b. Bank Indonesia c.q. Departemen Pengelolaan dan 
+Kepatuhan Laporan, Jalan M.H. Thamrin Nomor 2, 
+Jakarta 10350, dengan tembusan kepada: 
+1. Bank Indonesia c.q. Departemen 
+Penyelenggaraan Sistem Pembayaran bagi 
+Penyelenggara SK SP ; atau 
+2. Bank Indonesia c.q. Departemen Surveilans 
+Sistem Pembayaran dan Pelindungan Konsumen 
+bagi Pelaku SK SP selain pihak sebagaimana 
+dimaksud pada huruf a. 
+(4) Wilayah kerja Kantor Perwakilan Dalam Negeri Bank 
+Indonesia sebagaimana dimaksud pada ayat (3) huruf a 
+tercantum dalam Lampiran IV. 
+(5) Pelapor yang mengalami keadaan kahar sehingga 
+menyebabkan tidak tersedianya informasi sebagaimana 
+dimaksud pada ayat (1) huruf a menyampaikan Laporan 
+dan/atau koreksi Laporan dengan isian nihil setelah 
+Pelapor kembali melakukan kegiatan operasional secara 
+normal. 
+(6) Pelapor yang mengalami keadaan kahar sehingga 
+menyebabkan terhambatnya penyampaian Laporan 
+dan/atau koreksi Laporan sebagaimana dimaksud pada 
+ayat (1) huruf b menyampaikan Laporan dan/atau koreksi 
+Laporan setelah Pelapor kembali melakukan kegiatan 
+operasional secara normal. 
+ 
+Pasal 25 
+Dalam hal terjadi kerusakan pada Laporan dan/atau koreksi 
+Laporan yang diterima oleh Bank Indonesia yang disebabkan 
+adanya gangguan pada Sistem Pelaporan Bank Indonesia maka 
+Bank Indonesia dapat meminta Pelapor untuk segera 
+menyampaikan kembali Laporan dan/atau koreksi Laporan. 
+ 
+BAB V 
+KORESPONDENSI 
+ 
+Pasal 26 
+Dalam hal terdapat perubahan alamat korespondensi 
+sebagaimana dimaksud dalam Pasal 4, Pasal 5, Pasal 21, dan 
+Pasal 2 4, Bank Indonesia memberitahukan perubahan 
+dimaksud melalui surat dan/atau sarana lain yang ditetapkan 
+oleh Bank Indonesia.
+
+[Halaman 14]
+14 
+ 
+BAB VI 
+KETENTUAN PERALIHAN 
+ 
+Pasal 27 
+Pada saat Peraturan Anggota Dewan Gubernur ini berlaku, 
+sandi Pelapor yang telah dimiliki oleh Pelapor sebelum nya, 
+dinyatakan tetap berlaku sampai dengan sandi Pelapor ditutup 
+oleh Bank Indonesia. 
+ 
+BAB VII 
+KETENTUAN PENUTUP 
+ 
+Pasal 28 
+Peraturan Anggota Dewan Gubernur ini mulai berlaku pada 
+tanggal ditetapkan. 
+ 
+Agar setiap orang mengetahuinya, memerintahkan penempatan 
+Peraturan Anggota Dewan Gubernur ini dengan 
+penempatannya dalam Berita Negara Republik Indonesia . 
+ 
+ 
+Ditetapkan di Jakarta 
+pada tanggal 20 Desember 2024 Desember 
+2024 
+ 
+ANGGOTA DEWAN GUBERNUR, 
+ 
+ TTD 
+ 
+JUDA AGUNG
+
+[Halaman 15]
+PENJELASAN 
+ATAS 
+PERATURAN ANGGOTA DEWAN GUBERNUR 
+NOMOR 22 TAHUN 2024 
+TENTANG 
+LAPORAN PELAKSANAAN STANDARDISASI KOMPETENSI DI BIDANG SISTEM 
+PEMBAYARAN 
+ 
+I. UMUM 
+Dalam rangka mewujudkan sistem pembayaran yang cepat, mudah, 
+murah, aman, dan andal, serta ketersediaan uang rupiah yang berkualitas 
+dan terpercaya di seluruh wilayah Negara Kesatuan Republik Indonesia, 
+diperlukan peningkatan kompetensi sumber daya manusia pelaku industri 
+untuk mengi mbangi perkembangan teknologi dan sistem informasi di 
+bidang sistem pembayaran . 
+Sebagai upaya untuk meningkatkan kompetensi sumber daya 
+manusia pelaku industri di bidang sistem pembayaran, Bank Indonesia 
+melakukan penyempurnaan pengaturan standardisasi kompetensi di 
+bidang sistem pembayaran melalui penerbitan Peraturan Bank Indonesia 
+Nomor 5 Tahun 2024 tentang Standardisasi Kompetensi di Bidang Sistem 
+Pembayaran. Untuk mendukung penerbitan Peraturan Bank Indonesia 
+tersebut, Bank Indonesia juga menetapkan ketentuan pelaksanaan melalui 
+Peraturan Anggota Dewan Gubernur Nomor 17 Tahun 2024 tentang 
+Pelaksanaan Standardisasi Kompetensi di Bidang Sistem Pembayaran. 
+Guna menerapkan Peraturan Bank Indonesia dan Peraturan Anggota 
+Dewan Gubernur tersebut, Bank Indonesia perlu menetapkan ketentuan 
+pelaksanaan untuk mengatur lebih lanjut hal -hal yang bersifat teknis 
+mengenai penyampaian laporan yang lengkap, akurat, kini, utuh, dan tepat 
+waktu dari pelaku industri di bidang sistem pembayaran kepada Bank 
+Indonesia melalui penerbitan Peraturan Anggota Dewan Gubernur tentang 
+Laporan Pelaksanaan Standardisasi Kompetensi di Bidang Sistem 
+Pembayaran. 
+ 
+II. PASAL DEMI PASAL 
+ 
+Pasal 1 
+Cukup jelas. 
+ 
+Pasal 2 
+Cukup jelas. 
+ 
+Pasal 3 
+Cukup jelas.
+
+[Halaman 16]
+2 
+ 
+Pasal 4 
+Ayat (1) 
+Yang dimaksud dengan “petugas” adalah pihak yang diberi 
+wewenang dan tanggung jawab untuk menyusun, melakukan 
+verifikasi, dan menyampaikan Laporan kepada Bank Indonesia. 
+Yang dimaksud dengan “penanggung jawab” adalah pihak yang 
+diberi wewenang dan tanggung jawab untuk memastikan 
+penyusunan dan penyampaian Laporan secara lengkap, akurat, 
+kini, utuh, dan tepat waktu. 
+Ayat (2) 
+Huruf a 
+Yang dimaksud dengan “portal pelaporan Bank Indonesia ” 
+adalah https://pelaporan.bi.go.id/. 
+Huruf b 
+Angka 1 
+Bukti pendaftaran user ID telah berhasil berupa 
+tangkapan layar yang menyatakan user ID telah berhasil 
+login ke dalam portal pelaporan Bank Indonesia. 
+Angka 2 
+ Cukup jelas. 
+Huruf c 
+Cukup jelas. 
+Ayat (3) 
+Perubahan petugas dan penanggung jawab termasuk perubahan 
+kewenangan penyampaian Laporan dan permintaan penutupan 
+akses petugas dan penanggung jawab Laporan . 
+Ayat (4) 
+Cukup jelas. 
+ 
+Pasal 5 
+Ayat (1) 
+Yang dimaksud dengan “sandi Pelapor” adalah sandi yang 
+digunakan untuk mengidentifikasi Pelapor dalam Sistem 
+Pelaporan Bank Indonesia. 
+Ayat (2) 
+Huruf a 
+Bukti pengisian data pokok pelapor telah berhasil berupa 
+tangkapan layar yang menyatakan data pokok pelapor telah 
+berhasil diterima oleh Sistem Pelaporan Bank Indonesia. 
+Huruf b 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Contoh: 
+PT PTW sebagai Pelaku SK SP dicabut izinnya sebagai PJPUR 
+pada tanggal 10 Maret 2025. PT PTW masih memiliki kewajiban 
+untuk menyampaikan laporan triwulan I yang disampaikan paling 
+lambat 10 (sepuluh) Hari Kerja pertama di bulan April 2025 untuk 
+data bulan Januari sampai dengan tanggal 9 Maret 2025.
+
+[Halaman 17]
+3 
+ 
+Pasal 6 
+Ayat (1) 
+Yang dimaksud dengan “metadata” adalah penjelasan mengenai 
+informasi yang dilaporkan Pelapor antara lain definisi, struktur 
+data, aturan validasi, format, dan ketentuan acuan. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+ Cukup jelas. 
+Ayat (4) 
+ Cukup jelas. 
+Ayat (5) 
+Media lain antara lain melalui pengumuman perubahan metadata 
+pada Sistem Pelaporan Bank Indonesia. 
+ 
+Pasal 7 
+Cukup jelas. 
+ 
+Pasal 8 
+ Cukup jelas. 
+ 
+Pasal 9 
+Cukup jelas. 
+ 
+Pasal 10 
+Cukup jelas. 
+ 
+Pasal 11 
+ Cukup jelas. 
+ 
+Pasal 12 
+Ayat (1) 
+Contoh 1: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan IV 
+tahun 2024 adalah Hari Kerja ke-10 di bulan Januari 2025, yaitu 
+tanggal 15 Januari 2025. Pelapor A menyampaikan Laporan 
+untuk data triwulan IV tahun 2024 pada Hari Kerja ke-9 di bulan 
+Januari 2025, yaitu tanggal 14 Januari 2025. Pelapor A 
+dinyatakan tepat waktu menyampaikan Laporan. 
+Contoh 2: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan IV 
+tahun 2024 adalah Hari Kerja ke-10 di bulan Januari 2025, yaitu 
+tanggal 15 Januari 2025. Pelapor A menyampaikan Laporan 
+untuk data triwulan IV tahun 2024 pada Hari Kerja ke-7 di bulan 
+Januari 2025, yaitu tanggal 10 Januari 2025 , dan koreksi 
+Laporan untuk data triwulan IV tahun 2024 pada Hari Kerja ke -
+10 di bulan Januari 2025, yaitu tanggal 15 Januari 2025. Pelapor 
+A dinyatakan tepat waktu menya mpaikan Laporan dan koreksi 
+Laporan.
+
+[Halaman 18]
+4 
+ 
+Ayat (2) 
+Contoh 1: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan III 
+tahun 2025 adalah Hari Kerja ke-10 di bulan Oktober 2025, yaitu 
+tanggal 14 Oktober 2025. Pelapor A menyampaikan Laporan 
+pertama kali untuk data triwulan III tahun 2025 pada Hari Kerja 
+ke-11 di bulan Oktober 2025, yaitu tanggal 15 Oktober 2025. 
+Pelapor A dinyatakan terlambat menyampaikan Laporan. 
+Contoh 2: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan III 
+tahun 2025 adalah Hari Kerja ke-10 di bulan Oktober 2025, yaitu 
+tanggal 14 Oktober 2025. Pelapor B menyampaikan Laporan 
+untuk data triwulan III tahun 2025 pada Hari Kerja ke-5 di bulan 
+Oktober 2025, yaitu tanggal 7 Oktober 2025, dan menyampaikan 
+koreksi Laporan pada Hari Kerja ke -13 di bulan Oktober, yaitu 
+tanggal 17 Oktober 2025. Pelapor B dinyatakan tepat waktu 
+menyampaikan Laporan dan terla mbat menyampaikan koreksi 
+Laporan. 
+Contoh 3: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan III 
+tahun 2025 adalah Hari Kerja ke-10 di bulan Oktober 2025, yaitu 
+tanggal 14 Oktober 2025. Pelapor B menyampaikan Laporan 
+untuk data triwulan III tahun 2025 mulai Hari Kerja ke-5 di bulan 
+Oktober 2025, yaitu tanggal 7 Oktober 2025 , dan baru 
+menyampaikan Laporan secara lengkap pada Hari Kerja ke -13 di 
+bulan Oktober 2025, yaitu tanggal 17 Oktober 2025. Pelapor B 
+dinyatakan terlambat menyampaikan Laporan. 
+Ayat (3) 
+Contoh 1: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan II tahun 
+2025 adalah Hari Kerja ke -10 di bulan Juli 2025 , yaitu tanggal 
+14 Juli 2025. Pelapor dinyatakan terlambat jika menyampaikan 
+Laporan pada Hari Kerja ke -11 di bulan Juli 2025, yaitu tanggal 
+15 Juli 2025, hingga Hari Kerja ke -20 di bulan Juli 2025 , yaitu 
+tanggal 28 Juli 2025. Pelapor A belum menyampaikan Laporan 
+untuk data triwulan II tahun 2025 kepada Bank Indonesia sampai 
+dengan Hari Kerja ke -20, yaitu tanggal 28 Juli 2025. Pelapor A 
+dinyatakan tidak menyampaikan Laporan triwulanan. 
+Contoh 2: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara triwulanan untuk data triwulan III 
+tahun 2025 adalah Hari Kerja ke-10 di bulan Oktober 2025, yaitu 
+tanggal 14 Oktober 2025. Pelapor B menyampaikan Laporan 
+untuk data triwulan III tahun 2025 mulai Hari Kerja ke-5 di bulan 
+Oktober 2025, yaitu tanggal 7 Oktober 2025, namun baru 
+menyampaikan Laporan secara lengkap pada Hari Kerja ke -21, 
+yaitu tanggal 29 Oktober 2025. Pelapor B telah dinyatakan tidak 
+menyampaikan Laporan pada tanggal 28 Oktober 2025.
+
+[Halaman 19]
+5 
+ 
+Pasal 13 
+Ayat (1) 
+Contoh: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. rencana penyediaan dana kompetensi sistem pembayaran 
+masa peralihan; 
+b. rencana penyediaan dana kompetensi sistem pembayaran 
+seluruh SDM; 
+c. rencana pemenuhan kepemilikan Sertifikat PBK Sistem 
+Pembayaran atau Sertifikat Kompetensi Sistem Pembayaran 
+masa peralihan ; dan 
+d. rencana pemenuhan kepemilikan Sertifikat PBK Sistem 
+Pembayaran atau Sertifikat Kompetensi Sistem Pembayaran 
+seluruh SDM, 
+tahun 2026 adalah tanggal 15 Desember 2025. Pelapor 
+menyampaikan Laporan dan/atau koreksi Laporan rencana 
+tahun 2026 tersebut pada tanggal 12 Desember 2025. Pelapor 
+dinyatakan tepat waktu menyampaikan Laporan dan/atau 
+koreksi Laporan. 
+Ayat (2) 
+Contoh: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. realisasi penggunaan dana kompetensi sistem pembayaran 
+masa peralihan ; dan 
+b. realisasi penggunaan dana kompetensi sistem pembayaran 
+seluruh SDM, 
+tahun 2025 adalah Hari Kerja ke-10 di bulan Januari 2026, yaitu 
+tanggal 15 Januari 2026. Pelapor menyampaikan Laporan 
+dan/atau koreksi Laporan untuk data tahun 2025 tersebut pada 
+Hari Kerja ke -3 di bulan Januari 2026 , yaitu tanggal 6 Januari 
+2026. Pelapor dinyatakan tepat waktu menyampaikan Laporan 
+dan/atau koreksi Laporan. 
+Ayat (3) 
+Contoh 1: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. rencana penyediaan dana kompetensi sistem pembayaran 
+masa peralihan; 
+b. rencana penyediaan dana kompetensi sistem pembayaran 
+seluruh SDM; 
+c. rencana pemenuhan kepemilikan Sertifikat PBK Sistem 
+Pembayaran atau Sertifikat Kompetensi Sistem Pembayaran 
+masa peralihan; dan 
+d. rencana pemenuhan kepemilikan Sertifikat PBK Sistem 
+Pembayaran atau Sertifikat Kompetensi Sistem Pembayaran 
+seluruh SDM, 
+tahun 2026 adalah tanggal 15 Desember 2025. Pelapor 
+dinyatakan terlambat menyampaikan Laporan dan/atau koreksi 
+Laporan apabila Laporan dan/atau koreksi Laporan tersebut 
+disampaikan pada rentang waktu 10 (sepuluh) Hari Kerja 
+berikutnya setelah tanggal 15 Desember 2025, yaitu tanggal 16 
+Desember 2025 sampai dengan tanggal 31 Desember 2025.
+
+[Halaman 20]
+6 
+ 
+Contoh 2: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. realisasi penggunaan dana kompetensi sistem pembayaran 
+masa peralihan ; dan 
+b. realisasi penggunaan dana kompetensi sistem pembayaran 
+seluruh SDM, 
+tahun 2024 adalah Hari Kerja ke-10 di bulan Januari 2025, yaitu 
+tanggal 15 Januari 2025. Pelapor dinyatakan terlambat 
+menyampaikan Laporan dan/atau koreksi Laporan apabila 
+Laporan dan/atau koreksi Laporan tersebut disampaikan pada 
+rentang waktu 10 (sepuluh) Hari Kerja berikutnya setelah tanggal 
+15 Januari 2025, yaitu tanggal 16 Januari 2025 sampai dengan 
+tanggal 3 Februari 2025. 
+Contoh 3: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. realisasi penggunaan dana kompetensi sistem pembayaran 
+masa peralihan; dan 
+b. realisasi penggunaan dana kompetensi sistem pembayaran 
+seluruh SDM, 
+tahun 2024 adalah Hari Kerja ke-10 di bulan Januari 2025, yaitu 
+tanggal 15 Januari 2025. Pelapor A menyampaikan: 
+a. informasi realisasi penggunaan dana kompetensi sistem 
+pembayaran masa peralihan untuk data tahun 2024 pada 
+Hari Kerja ke -10 di bulan Januari 2025, yaitu tanggal 15 
+Januari 2025; dan 
+b. informasi realisasi penggunaan dana kompetensi sistem 
+pembayaran seluruh SDM pada tanggal 16 Januari 2025; 
+Pelapor A dinyatakan terlambat menyampaikan Laporan , karena 
+Bank Indonesia menerima Laporan secara lengkap pada rentang 
+waktu 10 (sepuluh) Hari Kerja berikutnya setelah tanggal 15 
+Januari 2025, yaitu tanggal 16 Januari 2025 sampai dengan 
+tanggal 3 Februari 2025. 
+Ayat (4) 
+ Contoh 1: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. rencana penyediaan dana kompetensi sistem pembayaran 
+masa peralihan; 
+b. rencana penyediaan dana kompetensi sistem pembayaran 
+seluruh SDM; 
+c. rencana pemenuhan kepemilikan Sertifikat PBK Sistem 
+Pembayaran atau Sertifikat Kompetensi Sistem Pembayaran 
+masa peralihan; dan 
+d. rencana pemenuhan kepemilikan Sertifikat PBK Sistem 
+Pembayaran atau Sertifikat Kompetensi Sistem Pembayaran 
+seluruh SDM, 
+tahun 2026 adalah tanggal 15 Desember 2025. Pelapor 
+dinyatakan terlambat menyampaikan Laporan dan/atau koreksi 
+Laporan apabila Laporan dan/atau koreksi Laporan tersebut 
+disampaikan pada rentang waktu 10 (sepuluh) Hari Kerja 
+berikutnya setelah tanggal 15 Desember 2025, yaitu tanggal 16 
+Desember 2025 sampai dengan tanggal 31 Desember 2025.
+
+[Halaman 21]
+7 
+ 
+Apabila Pelapor tidak menyampaikan Laporan sampai dengan 
+tanggal 31 Desember 2025 maka Pelapor dinyatakan tidak 
+menyampaikan Laporan. 
+Contoh 2: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. realisasi penggunaan dana kompetensi sistem pembayaran 
+masa peralihan; dan 
+b. realisasi penggunaan dana kompetensi sistem pembayaran 
+seluruh SDM, 
+tahun 2024 adalah Hari Kerja ke-10 di bulan Januari 2025, yaitu 
+tanggal 15 Januari 2025. Pelapor dinyatakan terlambat 
+menyampaikan Laporan dan/atau koreksi Laporan apabila 
+Laporan dan/atau koreksi Laporan tersebut disampaikan pada 
+rentang waktu 10 (sepuluh) Hari Kerja berikutnya setelah tanggal 
+15 Januari 2025 yaitu tanggal 16 Januari 2025 sampai dengan 
+tanggal 3 Februari 2025. Apabila Pelapor tidak menyampaikan 
+Laporan sampai dengan tanggal 3 Februari 2025 maka Pelapor 
+dinyatakan tidak menyampaikan Laporan . 
+Contoh 3: 
+Batas waktu penyampaian Laporan dan/atau koreksi Laporan 
+yang disampaikan secara tahunan untuk informasi: 
+a. realisasi penggunaan dana kompetensi sistem pembayaran 
+masa peralihan; dan 
+b. realisasi penggunaan dana kompetensi sistem pembayaran 
+seluruh SDM, 
+tahun 2024 adalah Hari Kerja ke-10 di bulan Januari 2025, yaitu 
+tanggal 15 Januari 2025. Pelapor A menyampaikan: 
+a. informasi realisasi penggunaan dana kompetensi sistem 
+pembayaran masa peralihan untuk data tahun 202 4 pada 
+Hari Kerja ke -10 di bulan Januari 202 5, yaitu tanggal 15 
+Januari 2025; dan 
+b. informasi realisasi penggunaan dana kompetensi sistem 
+pembayaran seluruh SDM pada tanggal 4 Februari 2025; 
+Pelapor A dinyatakan tidak menyampaikan Laporan, karena Bank 
+Indonesia tidak menerima Laporan secara lengkap pada rentang 
+waktu 10 (sepuluh) Hari Kerja berikutnya setelah tanggal 15 
+Januari 2025, yaitu sampai dengan tanggal 3 Februari 2025. 
+ 
+Pasal 14 
+Cukup jelas. 
+ 
+Pasal 15 
+ Ayat (1) 
+ Contoh: 
+Pada tanggal 3 Januari 2025, Pelapor A mengalami pencabutan 
+penerbitan Sertifikat Kompetensi Sistem Pembayaran untuk SDM 
+yang ada di Pelapor A. Dengan demikian, Pelapor A wajib 
+menyampaikan Laporan insidental berupa informasi Sertifikat 
+Kompetensi Sistem Pembayaran yang ditunda, dicabut, atau 
+dibatalkan penerbitannya kepada Sistem Pelaporan Bank 
+Indonesia dalam rentang waktu 10 (sepuluh) Hari Kerja, yaitu 
+sejak tanggal 4 Januari 2025 sampai dengan tanggal 17 Januari 
+2025.
+
+[Halaman 22]
+8 
+ 
+Ayat (2) 
+ Contoh: 
+Pada tanggal 3 Januari 2025, Pelapor A mengalami pencabutan 
+penerbitan Sertifikat Kompetensi Sistem Pembayaran untuk SDM 
+yang ada di Pelapor A. De ngan demikian, Pelapor A wajib 
+menyampaikan Laporan insidental berupa informasi Sertifikat 
+Kompetensi Sistem Pembayaran yang ditunda, dicabut, atau 
+dibatalkan penerbitannya kepada Sistem Pelaporan Bank 
+Indonesia dalam rentang waktu 10 (sepuluh) Hari Kerja, yaitu 
+sejak tanggal 4 Januari 2025 sampai dengan tanggal 17 Januari 
+2025. 
+Pelapor A dinyatakan terlambat menyampaikan Laporan 
+insidental berupa informasi Sertifikat Kompetensi Sistem 
+Pembayaran yang ditunda, dicabut, atau dibatalkan 
+penerbitannya kepada Sistem Pelaporan Bank Indonesia apabila 
+Laporan diterima oleh Bank Indonesia pada rentang waktu 10 
+(sepuluh) Hari Kerja setelah tanggal 17 Januari 2025, yaitu sejak 
+tanggal 18 Januari 2025 sampai dengan tanggal 5 Februari 2025. 
+ Ayat (3) 
+ Contoh: 
+Pada tanggal 3 Januari 2025, Pelapor A mengalami pencabutan 
+penerbitan Sertifikat Kompetensi Sistem Pembayaran untuk SDM 
+yang ada di Pelapor A. De ngan demikian, Pelapor A wajib 
+menyampaikan Laporan insidental berupa informasi Sertifikat 
+Kompetensi Sistem Pembayaran yang ditunda, dicabut, atau 
+dibatalkan penerbitannya kepada Sistem Pelaporan Bank 
+Indonesia dalam rentang waktu 10 (sepuluh) Hari Kerja, yaitu 
+sejak tanggal 4 Januari 2025 sampai dengan tanggal 17 Januari 
+2025. 
+Pelapor A dinyatakan terlambat menyampaikan Laporan 
+insidental berupa informasi Sertifikat Kompetensi Sistem 
+Pembayaran yang ditunda, dicabut, atau dibatalkan 
+penerbitannya kepada Sistem Pelaporan Bank Indonesia apabila 
+Laporan diterima oleh Bank Indonesia pada rentang waktu 10 
+(sepuluh) Hari Kerja setelah tanggal 17 Januari 2025, yaitu sejak 
+tanggal 18 Januari 2025 sampai dengan tanggal 5 Februari 2025. 
+Pelapor A dinyatakan tidak menyampaikan Laporan insidental 
+berupa informasi Sertifikat Kompetensi Sistem Pembayaran yang 
+ditunda, dicabut, atau dibatalkan penerbitannya kepada Sistem 
+Pelaporan Bank Indonesia apabila sampai dengan tanggal 
+5 Februari 2025, Laporan belum diterima oleh Bank Indonesia. 
+ 
+Pasal 16 
+ Cukup jelas. 
+ 
+Pasal 17 
+ Cukup jelas. 
+ 
+Pasal 18 
+ Cukup jelas.
+
+[Halaman 23]
+9 
+ 
+Pasal 19 
+ Ayat (1) 
+Yang dimaksud dengan “secara daring melalui Sistem Pelaporan 
+Bank Indonesia” adalah mekanisme penyampaian Laporan 
+dan/atau koreksi Laporan , antara lain melalui unggah file, web 
+entry form, dan/atau application programming interface (API). 
+Ayat (2) 
+Keamanan infrastruktur teknologi informasi memperhatikan 
+ketentuan Bank Indonesia yang mengatur mengenai keamanan 
+sistem informasi dan ketahanan siber. 
+Keamanan lingkungan perangkat antara lain perangkat yang 
+digunakan dipastikan bebas dari malware. 
+ 
+Pasal 20 
+Cukup jelas. 
+ 
+Pasal 21 
+Ayat (1) 
+Yang dimaksud dengan “gangguan teknis” adalah gangguan pada 
+infrastruktur teknologi, antara lain perangkat keras, perangkat 
+lunak, jaringan komunikasi data, dan kelistrikan. 
+Yang dimaksud dengan ”Laporan disampaikan secara luring” 
+adalah Laporan disampaikan tidak melalui Sistem Pelaporan 
+Bank Indonesia namun disampaikan antara lain melalui surat 
+elektronik dan cloud Bank Indonesia. 
+Ayat (2) 
+Cukup jelas. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+Ayat (8) 
+ Cukup jelas. 
+Ayat (9) 
+Cukup jelas. 
+ 
+Pasal 22 
+ Ayat (1) 
+ Contoh: 
+Pelapor R merupakan LPK S istem Pembayaran baru yang 
+mendapat pengakuan Bank Indonesia pada tanggal 31 Desember 
+2024. Pelapor R tetap menyampaikan Laporan atas informasi 
+pemeliharaan kompetensi s istem pembayaran pemilik sertifikat 
+untuk periode triwulan IV 2024 dengan isian nihil. 
+ Ayat (2) 
+ Cukup jelas.
+
+[Halaman 24]
+10 
+ 
+Pasal 23 
+Ayat (1) 
+ Cukup jelas. 
+Ayat (2) 
+Tanda terima atas penyampaian Laporan dan/atau koreksi 
+Laporan yang diperoleh dari Sistem Pelaporan Bank Indonesia 
+diberikan untuk Laporan yang disampaikan oleh Pelapor secara 
+daring maupun luring. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Yang dimaksud dengan “gangguan pada Sistem Pelaporan Bank 
+Indonesia” adalah gangguan pada sarana dan prasarana yang 
+digunakan Bank Indonesia untuk menerima dan memproses 
+Laporan. 
+Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 24 
+Ayat (1) 
+Yang dimaksud dengan “keadaan kahar ” adalah keadaan yang 
+secara nyata berdampak tidak berfungsinya kegiatan operasional 
+Pelapor dan menyebabkan Pelapor tidak dapat menyusun dan 
+menyampaikan Laporan dan/atau koreksi Laporan, antara lain 
+kebakaran, kerusuhan massa, terorisme, bom, perang, serta 
+bencana alam seperti gempa bumi dan banjir, yang dibenarkan 
+oleh pejabat instansi yang berwenang dari daerah setempat atau 
+pernyataan dari instansi yang berwenang. 
+Ayat (2) 
+Penyampaian informasi singkat melalui sarana elektronik antara 
+lain melalui surat elektronik kepada pelaporan_sksp@bi.go.id, 
+telepon, dan faksimili. 
+Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+ Cukup jelas. 
+Ayat (6) 
+ Cukup jelas. 
+ 
+Pasal 25 
+ Cukup jelas. 
+ 
+Pasal 26 
+Cukup jelas. 
+ 
+Pasal 27 
+Cukup jelas. 
+ 
+Pasal 28 
+Cukup jelas.

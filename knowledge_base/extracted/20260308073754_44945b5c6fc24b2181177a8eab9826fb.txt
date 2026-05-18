@@ -1,0 +1,4 @@
+PBI Uji Coba Knowledge Ingestion
+Peraturan ini mengatur kewajiban penerapan prinsip kehati-hatian, pengawasan, pelaporan transaksi, dan dokumentasi kepatuhan oleh penyelenggara jasa pembayaran.
+Berdasarkan Pasal 42 ayat (1), penyelenggara wajib melakukan identifikasi, verifikasi, dan pemantauan transaksi untuk memastikan kesesuaian dengan ketentuan Bank Indonesia.
+Dokumen ini dibuat sebagai data uji untuk memastikan sistem SAKSI dapat mengekstrak Word native-text, melakukan chunking, dan menjadikannya konteks yang siap dibaca oleh Gemini maupun fallback RAG lokal.

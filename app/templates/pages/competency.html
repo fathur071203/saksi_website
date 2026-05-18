@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+{% block title %} · My Competency{% endblock %}
+{% block content %}
+<section class="grid gap-6 xl:grid-cols-3">
+    <div class="xl:col-span-1 rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+        <p class="text-sm font-semibold uppercase tracking-[0.3em] text-prestigeGold">My Competency</p>
+        <div class="mt-6 rounded-[2rem] bg-gradient-to-br from-biNavy to-deepBlue p-6 text-white shadow-command">
+            <p class="text-xs uppercase tracking-[0.22em] text-prestigeGold">Highest e-Badge</p>
+            <h1 class="mt-3 text-3xl font-black">{{ profile.employee.highest_badge }}</h1>
+            <p class="mt-4 text-sm text-slate-300">{{ profile.employee.name }} · {{ profile.employee.role }}</p>
+            <div class="mt-6 grid grid-cols-2 gap-4">
+                <div class="rounded-2xl border border-white/10 bg-white/5 p-4">
+                    <p class="text-xs text-slate-300">Litigation Readiness</p>
+                    <p class="mt-2 text-3xl font-black text-prestigeGold">{{ profile.employee.litigation_readiness }}%</p>
+                </div>
+                <div class="rounded-2xl border border-white/10 bg-white/5 p-4">
+                    <p class="text-xs text-slate-300">Hours Trained</p>
+                    <p class="mt-2 text-3xl font-black text-prestigeGold">{{ profile.employee.hours_trained }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="xl:col-span-2 space-y-6">
+        <div class="rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+            <h2 class="text-2xl font-bold text-biNavy">Galeri e-Badge</h2>
+            <div class="mt-5 grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+                {% for badge in profile.badges %}
+                <article class="rounded-[1.75rem] border border-prestigeGold/25 bg-gradient-to-br from-white to-amber-50 p-5 shadow-sm transition hover:-translate-y-1 hover:shadow-glow">
+                    <div class="flex items-center justify-between">
+                        <span class="text-3xl">🏅</span>
+                        <span class="rounded-full bg-prestigeGold/10 px-3 py-1 text-xs font-bold text-prestigeGold">{{ badge.level }}</span>
+                    </div>
+                    <h3 class="mt-4 text-xl font-bold text-biNavy">{{ badge.topic }}</h3>
+                    <p class="mt-2 text-sm text-slate-600">{{ badge.description }}</p>
+                    <p class="mt-4 text-xs uppercase tracking-[0.18em] text-slate-500">Diraih {{ badge.awarded_at }}</p>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="grid gap-6 lg:grid-cols-2">
+            <div class="rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+                <h3 class="text-xl font-bold text-biNavy">Rapor Evaluasi</h3>
+                <ul class="mt-5 space-y-3">
+                    {% for item in profile.evaluation.strengths %}
+                    <li class="rounded-2xl bg-emerald-50 px-4 py-3 text-sm text-slate-700">✅ {{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+                <h3 class="text-xl font-bold text-biNavy">Area Penguatan</h3>
+                <ul class="mt-5 space-y-3">
+                    {% for item in profile.evaluation.improvements %}
+                    <li class="rounded-2xl bg-amber-50 px-4 py-3 text-sm text-slate-700">⚠️ {{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+            <h3 class="text-xl font-bold text-biNavy">Riwayat Simulasi & Pembelajaran</h3>
+            <div class="mt-5 space-y-3">
+                {% for item in profile.history %}
+                <div class="flex flex-col gap-3 rounded-2xl border border-slate-200 p-4 md:flex-row md:items-center md:justify-between">
+                    <div>
+                        <p class="font-semibold text-slateInk">{{ item.title }}</p>
+                        <p class="text-sm text-slate-500">{{ item.date }}</p>
+                    </div>
+                    <div class="rounded-full bg-cleanSlate px-4 py-2 text-sm font-bold text-biNavy">Score {{ item.score }}/100</div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

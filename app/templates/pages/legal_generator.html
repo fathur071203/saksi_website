@@ -1,0 +1,204 @@
+{% extends 'base.html' %}
+{% block title %} · AI Legal Brief Generator{% endblock %}
+{% block content %}
+<section class="rounded-[1.75rem] border border-slate-200 bg-white p-5 shadow-command lg:p-6">
+    <div class="flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
+        <div>
+            <p class="text-sm font-semibold uppercase tracking-[0.3em] text-prestigeGold">AI Legal Brief Generator</p>
+            <h1 class="mt-3 text-2xl font-black tracking-tight text-biNavy lg:text-3xl">Siapkan materi BAP dalam hitungan menit, bukan hari.</h1>
+            <p class="mt-3 max-w-3xl text-sm leading-7 text-slate-600">Masukkan skenario surat panggilan APH. Mesin RAG lokal akan menarik regulasi paling relevan, lalu menyusun poin bicara legal formal ala saksi ahli BI dengan sitasi yang terlihat jelas.</p>
+        </div>
+        <div class="rounded-3xl border border-slate-200 bg-cleanSlate px-4 py-3">
+            <p class="text-xs uppercase tracking-[0.2em] text-slate-500">Anti-Halusinasi</p>
+            <p class="mt-2 text-sm font-semibold leading-6 text-slateInk">Output dipaksa bertumpu pada knowledge base JSON lokal dan akan memanggil Gemini live bila API key tersedia.</p>
+        </div>
+    </div>
+    <div class="relative mt-6 overflow-hidden rounded-[1.75rem] border border-slate-200 bg-cleanSlate p-4 scan-overlay lg:p-5">
+        <label for="legal-scenario" class="text-sm font-semibold text-slate-700">Masukkan ringkasan kasus dari surat panggilan APH di sini...</label>
+        <textarea id="legal-scenario" rows="5" class="mt-3 w-full rounded-[1.5rem] border border-slate-200 bg-white px-4 py-3 text-sm leading-7 outline-none transition focus:border-prestigeGold focus:ring-4 focus:ring-prestigeGold/10" placeholder="Terdapat kasus dugaan Tindak Pidana Pencucian Uang (TPPU). Tersangka A menggunakan layanan penyelenggara KUPVA BB untuk menukarkan valas senilai ekuivalen Rp 2 miliar tanpa underlying transaksi yang jelas..."></textarea>
+        <div id="legal-sample-note" class="mt-3 rounded-[1rem] border border-slate-200 bg-white px-4 py-3 text-xs leading-6 text-slate-500">
+            <p>Gunakan tombol <span class="font-semibold text-biNavy">Gunakan Contoh Kasus Berbasis Peraturan</span> untuk membuat contoh skenario dari regulasi lokal yang tersedia, agar jawaban AI lebih nyambung dengan basis pengetahuan saat ini.</p>
+        </div>
+        <div class="mt-5 flex flex-wrap gap-3">
+            <button id="generate-brief" class="rounded-2xl bg-prestigeGold px-6 py-3 text-sm font-bold text-deepBlue transition hover:bg-glowGold">Generate Brief</button>
+            <button id="insert-demo-case" class="rounded-2xl border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Gunakan Contoh Kasus Berbasis Peraturan</button>
+        </div>
+
+        <section id="legal-output" class="mt-6 hidden space-y-5 animate-slideUp">
+            <article class="flex justify-end">
+                <div class="max-w-4xl rounded-[1.5rem] bg-biNavy px-4 py-3 text-sm leading-7 text-white shadow-command">
+                    <p class="text-xs font-semibold uppercase tracking-[0.22em] text-prestigeGold">Skenario Anda</p>
+                    <p id="legal-scenario-preview" class="mt-3 whitespace-pre-line text-white/95"></p>
+                </div>
+            </article>
+
+            <article class="flex items-start gap-4">
+                <div class="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-deepBlue text-prestigeGold shadow-command">AI</div>
+                <div class="flex-1 rounded-[1.5rem] border border-slate-200 bg-white p-4 shadow-sm lg:p-5">
+                    <div class="flex flex-wrap items-center justify-between gap-4">
+                        <div>
+                            <p class="text-xs uppercase tracking-[0.25em] text-slate-500">Jawaban AI Legal Brief</p>
+                            <h2 class="mt-2 text-xl font-bold text-biNavy lg:text-2xl">Draft materi saksi ahli</h2>
+                        </div>
+                        <div id="brief-provider" class="rounded-2xl border border-emerald-200 bg-emerald-50 px-4 py-2 text-sm font-semibold text-validGreen">Context Retrieval Successful</div>
+                    </div>
+
+                    <div class="mt-4 grid gap-3 lg:grid-cols-3">
+                        <div class="rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-4">
+                            <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Ingestion</p>
+                            <p id="arch-ingestion" class="mt-2 text-sm text-slate-700"></p>
+                        </div>
+                        <div class="rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-4">
+                            <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Retrieval</p>
+                            <p id="arch-retrieval" class="mt-2 text-sm text-slate-700"></p>
+                        </div>
+                        <div class="rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-4">
+                            <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Generation</p>
+                            <p id="arch-generation" class="mt-2 text-sm text-slate-700"></p>
+                        </div>
+                    </div>
+
+                    <div class="mt-5 rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-4">
+                        <div class="mb-3 flex items-center justify-between gap-3">
+                            <div>
+                                <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Peta Regulasi</p>
+                                <h3 class="mt-1 text-base font-bold text-biNavy">Sitasi utama yang dipakai</h3>
+                            </div>
+                            <button data-copy-target="regulations-content" class="copy-trigger rounded-2xl border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Copy</button>
+                        </div>
+                        <div id="regulations-content" class="space-y-3"></div>
+                    </div>
+
+                    <div class="mt-4 rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-4">
+                        <div class="mb-3 flex items-center justify-between gap-3">
+                            <div>
+                                <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Draft Jawaban BAP</p>
+                                <h3 class="mt-1 text-base font-bold text-biNavy">Poin bicara siap pakai</h3>
+                            </div>
+                            <button data-copy-target="bap-content" class="copy-trigger rounded-2xl border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Copy</button>
+                        </div>
+                        <div id="bap-content" class="space-y-3"></div>
+                    </div>
+
+                    <div class="mt-4 rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-4">
+                        <div class="mb-3 flex items-center justify-between gap-3">
+                            <div>
+                                <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Antisipasi Pertanyaan Jebakan</p>
+                                <h3 class="mt-1 text-base font-bold text-biNavy">Respons penguatan jawaban</h3>
+                            </div>
+                            <button data-copy-target="traps-content" class="copy-trigger rounded-2xl border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Copy</button>
+                        </div>
+                        <div id="traps-content" class="space-y-3"></div>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </div>
+</section>
+
+<section class="mt-6">
+    <article class="rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+        <div class="flex items-start justify-between gap-4">
+            <div>
+                <p class="text-xs uppercase tracking-[0.25em] text-slate-500">Chatbot Playground</p>
+                <h2 class="mt-2 text-2xl font-bold text-biNavy">Uji chatbot legal BI</h2>
+                <p class="mt-2 text-sm text-slate-600">Gunakan panel ini untuk bertanya regulasi secara cepat. Sistem akan memakai Gemini bila tersedia, atau fallback ke RAG lokal bila belum aktif.</p>
+            </div>
+            <div class="flex flex-col items-end gap-2">
+                <div id="chat-provider-badge" class="rounded-2xl border {{ 'border-emerald-200 bg-emerald-50 text-validGreen' if gemini_status.configured else 'border-amber-200 bg-amber-50 text-amber-700' }} px-4 py-2 text-sm font-semibold">{{ gemini_status.provider }}</div>
+                <p class="text-xs text-slate-500">{{ gemini_status.status_text }}</p>
+            </div>
+        </div>
+
+        <div class="mt-6 grid gap-5 xl:grid-cols-[0.9fr,1.1fr]">
+            <div>
+            <label for="chatbot-prompt" class="text-sm font-semibold text-slate-700">Pertanyaan untuk chatbot</label>
+            <textarea id="chatbot-prompt" rows="5" class="mt-2 w-full rounded-3xl border border-slate-200 bg-cleanSlate px-5 py-4 text-sm outline-none transition focus:border-prestigeGold focus:ring-4 focus:ring-prestigeGold/10" placeholder="Contoh: Jelaskan batas wewenang BI dalam perkara KUPVA BB yang diduga terkait TPPU."></textarea>
+            <div class="mt-4 flex flex-wrap gap-3">
+                <button id="send-chatbot-prompt" class="rounded-2xl bg-biNavy px-6 py-3 text-sm font-bold text-white transition hover:bg-deepBlue">Kirim ke Chatbot</button>
+                <button id="insert-demo-chat" class="rounded-2xl border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Gunakan Prompt Contoh</button>
+            </div>
+            <p id="chatbot-loading-label" class="mt-4 hidden items-center gap-2 text-sm font-semibold text-prestigeGold">
+                <span class="loading-dot"></span>
+                <span>Gemini / engine sedang memproses jawaban...</span>
+            </p>
+        </div>
+
+            <div id="chatbot-response" class="min-h-56 rounded-3xl border border-slate-200 bg-cleanSlate p-5 text-sm leading-8 text-slate-700">
+                <div class="chat-markdown">
+                    <h2>Siap menerima pertanyaan</h2>
+                    <p>Tanyakan isu regulasi, pasal, ruang lingkup kewenangan BI, atau dokumen yang sudah Anda upload.</p>
+                    <ul>
+                        <li>Jawaban akan ditampilkan dalam format terstruktur.</li>
+                        <li>Jika proses sedang berjalan, panel ini akan menampilkan loading.</li>
+                        <li>Hasil akan tetap muncul walaupun engine sedang fallback ke knowledge base lokal.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </article>
+</section>
+
+<section class="mt-6 rounded-[2rem] border border-slate-200 bg-white p-6 shadow-sm">
+    <div class="flex flex-col gap-4 lg:flex-row lg:items-start lg:justify-between">
+        <div>
+            <p class="text-xs uppercase tracking-[0.25em] text-slate-500">Knowledge Ingestion</p>
+            <h2 class="mt-2 text-2xl font-bold text-biNavy">Upload ketentuan / peraturan</h2>
+            <p class="mt-2 max-w-3xl text-sm text-slate-600">Folder upload sudah disiapkan untuk dokumen native-text: Word (.docx), PDF berbasis teks (.pdf), dan PowerPoint (.pptx). PDF hasil scan gambar belum didukung karena tidak memiliki layer teks untuk diekstrak. Untuk PDF teks, sistem menyimpan hasil ekstraksi secara penuh agar meminimalkan risiko miss-informasi.</p>
+        </div>
+        <div class="rounded-3xl border border-slate-200 bg-cleanSlate px-5 py-4">
+            <p class="text-xs uppercase tracking-[0.2em] text-slate-500">Storage Folder</p>
+            <p class="mt-2 text-sm font-semibold text-slateInk">knowledge_base/raw · extracted · chunks</p>
+            <p class="mt-2 text-xs text-slate-500">Auto sync startup: {{ document_sync_summary.synced|default(0) }} diproses · {{ document_sync_summary.skipped|default(0) }} dilewati · {{ document_sync_summary.failed|default(0) }} gagal</p>
+        </div>
+    </div>
+
+    <div class="mt-6 grid gap-6 xl:grid-cols-[1.1fr,0.9fr]">
+        <article class="rounded-[1.75rem] border border-dashed border-prestigeGold/40 bg-prestigeGold/5 p-5">
+            <label for="regulation-upload" class="block text-sm font-semibold text-slate-700">Pilih file ketentuan</label>
+            <input id="regulation-upload" type="file" accept=".docx,.pdf,.pptx" class="mt-3 block w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm text-slate-700">
+            <p class="mt-3 text-xs text-slate-500">Format didukung: {% for ext in supported_document_extensions %}{{ ext }}{% if not loop.last %}, {% endif %}{% endfor %}</p>
+            <p class="mt-2 text-xs text-slate-500">Setiap kali aplikasi dijalankan, seluruh file baru yang Anda taruh di folder <span class="font-semibold text-slate-700">knowledge_base/raw</span> akan otomatis dicoba diproses.</p>
+            <div class="mt-5 flex flex-wrap gap-3">
+                <button id="upload-regulation" class="rounded-2xl bg-prestigeGold px-6 py-3 text-sm font-bold text-deepBlue transition hover:bg-glowGold">Upload & Konversi</button>
+                <button id="refresh-documents" class="rounded-2xl border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Refresh Daftar</button>
+            </div>
+            <div id="upload-status" class="mt-5 rounded-3xl border border-slate-200 bg-white p-4 text-sm text-slate-600">Belum ada proses upload berjalan.</div>
+        </article>
+
+        <article class="rounded-[1.75rem] border border-slate-200 bg-cleanSlate p-5">
+            <div class="flex items-center justify-between gap-3">
+                <div>
+                    <p class="text-xs uppercase tracking-[0.2em] text-slate-500">Processed Documents</p>
+                    <h3 class="mt-2 text-xl font-bold text-biNavy">Daftar knowledge yang siap dibaca AI</h3>
+                </div>
+                <div id="documents-count" class="rounded-2xl border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-600">{{ documents|length }} dokumen</div>
+            </div>
+            <div id="documents-list" class="mt-5 space-y-3">
+                {% if documents %}
+                    {% for doc in documents %}
+                    <div class="rounded-3xl border border-slate-200 bg-white p-4">
+                        <div class="flex flex-col gap-3 md:flex-row md:items-start md:justify-between">
+                            <div>
+                                <p class="font-semibold text-slateInk">{{ doc.original_name }}</p>
+                                <p class="mt-1 text-xs uppercase tracking-[0.16em] text-slate-500">{{ doc.file_type }} · {{ doc.uploaded_at }}</p>
+                            </div>
+                            <span class="rounded-full px-3 py-1 text-xs font-bold {{ 'bg-emerald-100 text-validGreen' if doc.status == 'processed' else 'bg-red-100 text-dangerCrimson' }}">{{ doc.status }}</span>
+                        </div>
+                        <div class="mt-3 grid gap-2 text-xs text-slate-500 md:grid-cols-3">
+                            <p>Word count: <span class="font-semibold text-slate-700">{{ doc.word_count }}</span></p>
+                            <p>Chunk count: <span class="font-semibold text-slate-700">{{ doc.chunk_count }}</span></p>
+                            <p>Path: <span class="font-semibold text-slate-700">{{ doc.raw_path }}</span></p>
+                        </div>
+                        <p class="mt-3 text-sm text-slate-600">{{ doc.note }}</p>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <div class="rounded-3xl border border-slate-200 bg-white p-4 text-sm text-slate-500">Belum ada dokumen yang di-upload. Setelah diproses, chunk dokumen akan ikut dibaca oleh RAG/Gemini.</div>
+                {% endif %}
+            </div>
+        </article>
+    </div>
+</section>
+
+{% endblock %}

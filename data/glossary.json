@@ -1,0 +1,18 @@
+[
+  {
+    "code": "SKSP",
+    "title": "Standardisasi Kompetensi di Bidang Sistem Pembayaran",
+    "summary": "SKSP atau SK SP adalah Standardisasi Kompetensi di Bidang Sistem Pembayaran.",
+    "description": "Istilah SKSP atau SK SP digunakan untuk merujuk pada Standardisasi Kompetensi di Bidang Sistem Pembayaran dalam konteks pengembangan kompetensi, sertifikasi, pelaporan, dan kapabilitas di area sistem pembayaran.",
+    "keywords": ["sksp", "sk sp", "standardisasi", "kompetensi", "standardisasi kompetensi sistem pembayaran", "standardisasi kompetensi di bidang sistem pembayaran", "sistem pembayaran"],
+    "aliases": ["sk sp", "standardisasi kompetensi sistem pembayaran", "standardisasi kompetensi di bidang sistem pembayaran"]
+  },
+  {
+    "code": "KKS",
+    "title": "Keamanan Siber",
+    "summary": "KKS merujuk pada aspek Keamanan Siber.",
+    "description": "Istilah KKS digunakan untuk merujuk pada domain Keamanan Siber, khususnya dalam konteks pengamanan sistem, kontrol, risiko, dan ketahanan siber.",
+    "keywords": ["kks", "keamanan siber", "cyber security", "siber", "kontrol keamanan", "keamanan sistem informasi", "ketahanan siber"],
+    "aliases": ["keamanan sistem informasi dan ketahanan siber"]
+  }
+]

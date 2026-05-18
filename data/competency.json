@@ -1,0 +1,58 @@
+{
+  "employee": {
+    "name": "Saadiah Ludmilla",
+    "role": "Asisten Direktur",
+    "unit": "Asisten Direktur · Organik · NIP 13428",
+    "highest_badge": "Asisten Direktur · Organik",
+    "litigation_readiness": 88,
+    "hours_trained": 214
+  },
+  "badges": [
+    {
+      "topic": "QRIS",
+      "level": "Master",
+      "awarded_at": "12 Januari 2025",
+      "description": "Tuntas melewati 7 simulasi persidangan QRIS dan lulus evaluasi legal reasoning tingkat eksekutif."
+    },
+    {
+      "topic": "Transfer Dana",
+      "level": "Advanced",
+      "awarded_at": "03 September 2024",
+      "description": "Memperoleh skor 91/100 pada simulasi BAP transfer dana dan manajemen risiko operasional."
+    },
+    {
+      "topic": "KUPVA",
+      "level": "Intermediate",
+      "awarded_at": "17 Mei 2024",
+      "description": "Menguasai fondasi kepatuhan KUPVA BB, customer due diligence, dan dokumentasi transaksi."
+    }
+  ],
+  "evaluation": {
+    "strengths": [
+      "Cepat mengidentifikasi rujukan PBI/PADG yang tepat untuk kasus QRIS dan PJP.",
+      "Mampu menjaga objektivitas dengan menegaskan batas kewenangan BI saat diuji silang.",
+      "Konsisten menggunakan bahasa legal formal dan tidak defensif."
+    ],
+    "improvements": [
+      "Perlu memperkaya referensi APUPPT untuk kasus indikasi smurfing pada KUPVA.",
+      "Tambahkan variasi jawaban pembuka agar lebih tegas namun tetap ringkas."
+    ]
+  },
+  "history": [
+    {
+      "title": "Simulasi Sidang QRIS",
+      "score": 94,
+      "date": "02 Maret 2026"
+    },
+    {
+      "title": "BAP Transfer Dana",
+      "score": 89,
+      "date": "24 Februari 2026"
+    },
+    {
+      "title": "Workshop Legal Drafting",
+      "score": 92,
+      "date": "11 Februari 2026"
+    }
+  ]
+}

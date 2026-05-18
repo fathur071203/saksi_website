@@ -1,0 +1,47 @@
+[
+  {
+    "code": "PBI No. 24/7/PBI/2022",
+    "title": "Penyelenggaraan Kegiatan Usaha Penukaran Valuta Asing Bukan Bank",
+    "chapter": "Bab VI Kewajiban Penerapan Prinsip Kehati-hatian",
+    "article": "Pasal 42 ayat (1)",
+    "summary": "Penyelenggara KUPVA BB wajib menerapkan identifikasi, verifikasi, dan pemantauan transaksi untuk memastikan legalitas dan kewajaran transaksi nasabah.",
+    "clause_text": "Penyelenggara KUPVA BB wajib menerapkan identifikasi, verifikasi, dan pemantauan transaksi untuk memastikan legalitas dan kewajaran transaksi nasabah.",
+    "keywords": ["kupva", "valas", "underlying", "smurfing", "transaksi", "pelaporan", "tpu", "tppu"]
+  },
+  {
+    "code": "PBI No. 23/6/PBI/2021",
+    "title": "Penyedia Jasa Pembayaran",
+    "chapter": "Bab IV Tata Kelola dan Manajemen Risiko",
+    "article": "Pasal 33 ayat (2)",
+    "summary": "PJP wajib menjaga tata kelola, manajemen risiko, dan pengendalian internal yang memadai terhadap seluruh aktivitas layanan pembayaran.",
+    "clause_text": "PJP wajib menjaga tata kelola, manajemen risiko, dan pengendalian internal yang memadai terhadap seluruh aktivitas layanan pembayaran.",
+    "keywords": ["pjp", "pengendalian", "governance", "fraud", "risiko", "izin"]
+  },
+  {
+    "code": "PADG No. 21/18/PADG/2019",
+    "title": "Implementasi Standar Nasional Quick Response Code untuk Pembayaran",
+    "chapter": "Bagian III Kewajiban Penyelenggara QRIS",
+    "article": "Pasal 12 ayat (4)",
+    "summary": "Penyelenggara QRIS wajib memastikan akurasi data merchant, keamanan transaksi, dan kepatuhan atas tata kelola operasional layanan QRIS.",
+    "clause_text": "Penyelenggara QRIS wajib memastikan akurasi data merchant, keamanan transaksi, dan kepatuhan atas tata kelola operasional layanan QRIS.",
+    "keywords": ["qris", "merchant", "acquirer", "keamanan", "transaksi", "switching"]
+  },
+  {
+    "code": "PBI No. 19/10/PBI/2017",
+    "title": "Penerapan Anti Pencucian Uang dan Pencegahan Pendanaan Terorisme bagi Penyelenggara Jasa Sistem Pembayaran Selain Bank",
+    "chapter": "Bab V Pelaporan dan Pemantauan",
+    "article": "Pasal 18 ayat (1)",
+    "summary": "Penyelenggara wajib melakukan pemantauan transaksi, pelaporan transaksi keuangan mencurigakan, serta penelusuran pola transaksi yang dipecah untuk menghindari threshold.",
+    "clause_text": "Penyelenggara wajib melakukan pemantauan transaksi, pelaporan transaksi keuangan mencurigakan, serta penelusuran pola transaksi yang dipecah untuk menghindari threshold.",
+    "keywords": ["apuppt", "smurfing", "threshold", "pelaporan", "mencurigakan", "tppu"]
+  },
+  {
+    "code": "PADG No. 24/11/PADG/2022",
+    "title": "Tata Cara Pengawasan Penyelenggara Jasa Pembayaran",
+    "chapter": "Bagian II Mekanisme Pengawasan",
+    "article": "Pasal 7 ayat (3)",
+    "summary": "Bank Indonesia berwenang melakukan klarifikasi, pemeriksaan kepatuhan, dan penetapan tindak lanjut administratif terhadap penyelenggara jasa pembayaran.",
+    "clause_text": "Bank Indonesia berwenang melakukan klarifikasi, pemeriksaan kepatuhan, dan penetapan tindak lanjut administratif terhadap penyelenggara jasa pembayaran.",
+    "keywords": ["pengawasan", "klarifikasi", "bap", "administratif", "wewenang"]
+  }
+]

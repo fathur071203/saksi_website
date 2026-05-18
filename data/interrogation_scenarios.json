@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "topic": "KUPVA",
+    "difficulty": "Tinggi",
+    "question": "Saudara Ahli, mohon jelaskan dasar hukum Bank Indonesia menilai dugaan transaksi valas senilai ekuivalen Rp2 miliar tanpa underlying yang jelas pada KUPVA BB.",
+    "stress_seconds": 60
+  },
+  {
+    "id": 2,
+    "topic": "QRIS",
+    "difficulty": "Menengah",
+    "question": "Apa dasar kewajiban penyelenggara QRIS untuk menjaga akurasi data merchant dan keamanan transaksi ketika terjadi penyalahgunaan kanal pembayaran?",
+    "stress_seconds": 55
+  },
+  {
+    "id": 3,
+    "topic": "Transfer Dana",
+    "difficulty": "Tinggi",
+    "question": "Jelaskan batas wewenang BI ketika APH meminta pendapat ahli terkait kegagalan kontrol internal PJP pada sengketa transfer dana berulang.",
+    "stress_seconds": 50
+  }
+]

@@ -1,0 +1,109 @@
+{% extends 'base.html' %}
+{% block title %} · Livia{% endblock %}
+{% block content %}
+<section class="grid gap-5 xl:grid-cols-[300px,1fr]">
+    <aside class="rounded-[1.5rem] border border-slate-200 bg-white p-4 shadow-sm lg:p-5">
+        <div class="rounded-[1.75rem] bg-gradient-to-br from-biNavy to-deepBlue p-5 text-white shadow-command">
+            <div class="flex items-start justify-between gap-3">
+                <div>
+                    <p class="text-xs uppercase tracking-[0.26em] text-prestigeGold">Legal Chat Assistant</p>
+                    <h1 class="mt-3 text-3xl font-black">Livia</h1>
+                </div>
+                <div class="flex h-16 w-16 items-center justify-center overflow-hidden rounded-2xl border border-prestigeGold/25 bg-white/10 p-2 shadow-glow">
+                    <img src="{{ url_for('static', filename='robot-avatar.svg') }}" alt="Avatar robot Livia" class="h-full w-full object-contain">
+                </div>
+            </div>
+            <p class="mt-4 text-sm leading-7 text-slate-200">Asisten regulasi bergaya chatbot untuk bertanya seputar PBI, PADG, BAP, dan dokumen yang Anda upload ke knowledge base.</p>
+            <div class="mt-5 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-slate-200">
+                <p class="font-semibold text-prestigeGold">Engine</p>
+                <p class="mt-1">{{ gemini_status.provider }} · {{ gemini_status.model }}</p>
+            </div>
+        </div>
+
+        <div class="mt-5 rounded-[1.5rem] border border-slate-200 bg-cleanSlate p-4">
+            <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Quick Prompts</p>
+            <div class="mt-4 space-y-3">
+                {% for prompt in starter_prompts %}
+                <button class="livia-starter block w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-left text-sm text-slate-700 transition hover:border-prestigeGold hover:text-biNavy" data-prompt="{{ prompt }}">{{ prompt }}</button>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="mt-5 rounded-[1.5rem] border border-slate-200 bg-white p-4">
+            <p class="text-xs uppercase tracking-[0.22em] text-slate-500">Guidance</p>
+            <ul class="mt-4 space-y-3 text-sm text-slate-600">
+                <li class="rounded-2xl bg-slate-50 px-4 py-3">Gunakan pertanyaan spesifik agar retrieval regulasi lebih presisi.</li>
+                <li class="rounded-2xl bg-slate-50 px-4 py-3">Livia membaca regulasi inti dan dokumen upload yang sudah diproses.</li>
+                <li class="rounded-2xl bg-slate-50 px-4 py-3">Setiap jawaban AI dapat dibuka rujukan kecilnya untuk melihat PBI/PADG, nomor, tanggal, pasal/ayat, dan kutipan norma.</li>
+            </ul>
+        </div>
+    </aside>
+
+    <section class="rounded-[1.5rem] border border-slate-200 bg-white shadow-command overflow-hidden">
+        <div class="border-b border-slate-200 bg-white px-6 py-5">
+            <div class="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+                <div>
+                    <p class="text-xs uppercase tracking-[0.25em] text-slate-500">Conversation</p>
+                    <h2 class="mt-2 text-2xl font-bold text-biNavy">Tanya jawab regulasi bersama Livia</h2>
+                </div>
+                <div class="flex flex-wrap items-center gap-3">
+                    <span id="livia-provider-badge" class="rounded-full border {{ 'border-emerald-200 bg-emerald-50 text-validGreen' if gemini_status.configured else 'border-amber-200 bg-amber-50 text-amber-700' }} px-4 py-2 text-sm font-semibold">{{ gemini_status.provider }}</span>
+                    <button id="livia-clear-chat" class="rounded-2xl border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Percakapan Baru</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid min-h-[680px] xl:grid-rows-[1fr,auto]">
+            <div id="livia-chat-scroll" class="bg-gradient-to-b from-cleanSlate to-white px-4 py-4 sm:px-5 sm:py-5 overflow-y-auto">
+                <div id="livia-chat-thread" class="mx-auto flex max-w-4xl flex-col gap-4">
+                    <article class="flex items-start gap-4">
+                        <div class="flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-2xl bg-deepBlue p-1 shadow-command">
+                            <img src="{{ url_for('static', filename='robot-avatar.svg') }}" alt="Avatar robot Livia" class="h-full w-full object-contain">
+                        </div>
+                        <div class="max-w-3xl rounded-[1.25rem] border border-slate-200 bg-white px-4 py-4 text-sm leading-7 text-slate-700 shadow-sm">
+                            <div class="chat-markdown">
+                                <h2>Selamat datang di Livia</h2>
+                                <p>Saya adalah asisten regulasi SAKSI yang membantu menjelaskan dasar hukum BI, merangkum dokumen yang telah di-upload, dan menyiapkan jawaban ahli dengan bahasa formal.</p>
+                                <ul>
+                                    <li>Tanyakan isu regulasi secara spesifik.</li>
+                                    <li>Saya akan menampilkan jawaban dengan format terstruktur.</li>
+                                    <li>Jika Gemini aktif, jawaban akan diperkaya dari engine live.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+
+            <div class="border-t border-slate-200 bg-white px-4 py-4 sm:px-5 sm:py-5">
+                <div class="mx-auto max-w-4xl">
+                    <div class="rounded-[1.25rem] border border-slate-200 bg-cleanSlate p-3 shadow-sm">
+                        <textarea id="livia-input" rows="3" class="w-full resize-none rounded-[1.25rem] border-0 bg-transparent px-3 py-3 text-sm leading-7 text-slate-700 outline-none focus:ring-0" placeholder="Tulis pertanyaan Anda untuk Livia... misalnya: jelaskan batas wewenang BI pada perkara QRIS atau ringkas dokumen PBI yang baru saya upload."></textarea>
+                        <div class="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+                            <p class="text-xs text-slate-500">Livia akan menjawab berdasarkan knowledge base lokal dan Gemini jika sudah tersambung.</p>
+                            <div class="flex items-center gap-3">
+                                <span id="livia-status" class="text-xs font-semibold text-slate-500">Siap menerima pertanyaan</span>
+                                <button id="livia-send" class="rounded-2xl bg-prestigeGold px-5 py-3 text-sm font-bold text-deepBlue transition hover:bg-glowGold">Kirim</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<div id="livia-citation-popover" class="pointer-events-none fixed inset-0 z-[70] hidden">
+    <div id="livia-citation-backdrop" class="absolute inset-0 bg-slateInk/35 opacity-0 transition duration-200"></div>
+    <div class="absolute inset-x-4 top-1/2 mx-auto w-full max-w-2xl -translate-y-1/2 rounded-[1.25rem] border border-slate-200 bg-white p-4 shadow-command opacity-0 transition duration-200 sm:inset-x-0" id="livia-citation-panel">
+        <div class="flex items-start justify-between gap-4 border-b border-slate-200 pb-3">
+            <div>
+                <p class="text-xs uppercase tracking-[0.2em] text-slate-500">Rujukan Jawaban</p>
+                <h3 class="mt-2 text-lg font-bold text-biNavy">Dasar hukum yang mendampingi jawaban Livia</h3>
+            </div>
+            <button id="livia-citation-close" class="rounded-xl border border-slate-200 px-3 py-2 text-sm font-semibold text-slate-600 transition hover:border-prestigeGold hover:text-biNavy">Tutup</button>
+        </div>
+        <div id="livia-citation-body" class="mt-4 max-h-[65vh] space-y-3 overflow-y-auto pr-1"></div>
+    </div>
+</div>
+{% endblock %}

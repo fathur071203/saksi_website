@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ app_title }} · Intro Experience</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        biNavy: '#003366',
+                        deepBlue: '#0A192F',
+                        prestigeGold: '#D4AF37',
+                        glowGold: '#FADB5F',
+                        cleanSlate: '#F8FAFC',
+                        surfaceWhite: '#FFFFFF',
+                        slateInk: '#1E293B',
+                        dangerCrimson: '#EF4444',
+                        validGreen: '#10B981'
+                    },
+                    boxShadow: {
+                        command: '0 20px 60px rgba(10,25,47,0.16)',
+                        glow: '0 0 0 1px rgba(212,175,55,0.18), 0 10px 30px rgba(212,175,55,0.18)'
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body class="landing-body bg-deepBlue text-white min-h-screen" data-page="landing">
+    <main class="relative flex min-h-screen items-center justify-center overflow-hidden px-4 py-8 sm:px-6 lg:px-10">
+        <div class="absolute inset-0 landing-orb opacity-90"></div>
+        <div class="relative mx-auto w-full max-w-7xl">
+            <section class="landing-hero-content text-center">
+                <div class="rounded-[2rem] border border-white/10 bg-white/10 px-5 py-7 shadow-command backdrop-blur-2xl sm:px-7 sm:py-9 lg:rounded-[2.75rem] lg:px-14 lg:py-16">
+                    <div class="mx-auto flex h-24 w-24 items-center justify-center overflow-hidden rounded-[1.75rem] bg-white shadow-glow ring-1 ring-white/20 sm:h-28 sm:w-28 lg:h-32 lg:w-32 lg:rounded-[2.5rem]">
+                        <img src="{{ url_for('static', filename='Logo Saksi.png') }}" alt="Logo SAKSI" class="h-full w-full object-contain p-2">
+                    </div>
+                    <p class="mt-5 text-[10px] font-semibold uppercase tracking-[0.28em] text-prestigeGold sm:mt-6 sm:text-xs sm:tracking-[0.38em]">SAKSI KPSP</p>
+                    <h1 class="mx-auto mt-4 max-w-3xl text-2xl font-black leading-snug tracking-tight text-white sm:mt-5 sm:text-3xl lg:mt-6 lg:text-6xl">Sistem Asistensi untuK Saksi Ahli</h1>
+                    <p class="mx-auto mt-4 max-w-xl text-sm leading-6 text-slate-300 sm:text-[15px] sm:leading-7 lg:mt-5 lg:max-w-2xl lg:text-lg lg:leading-8">Platform command center untuk menyiapkan saksi ahli Bank Indonesia secara cepat, terukur, dan berbasis regulasi.</p>
+
+                    <div class="mt-6 grid gap-4 sm:mt-8 md:grid-cols-3">
+                        {% for member in team_members %}
+                        <article class="landing-portrait-card rounded-[1.5rem] border border-white/10 bg-white/8 px-4 py-5 shadow-command backdrop-blur-xl">
+                            <div class="mx-auto flex h-16 w-16 items-center justify-center rounded-[1.25rem] bg-gradient-to-br {{ member.accent }} text-lg font-black text-white shadow-glow sm:h-20 sm:w-20 sm:text-xl">{{ member.initials }}</div>
+                            <p class="mt-4 text-center text-sm font-bold leading-6 text-white sm:text-base">{{ member.name }}</p>
+                            <p class="mt-1 text-center text-[11px] uppercase tracking-[0.12em] text-prestigeGold sm:text-xs">{{ member.role }}</p>
+                        </article>
+                        {% endfor %}
+                    </div>
+
+                    <div class="mt-6 flex justify-center sm:mt-8 lg:mt-10">
+                        <a href="{{ url_for('dashboard.index') }}" class="rounded-full bg-prestigeGold px-6 py-3 text-sm font-bold text-deepBlue shadow-glow transition hover:bg-glowGold sm:px-7 sm:py-3.5 sm:text-base">Lanjutkan</a>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,1701 @@
+[Halaman 1]
+PERATURAN BANK INDONESIA 
+NOMOR 5 TAHUN 2024 
+TENTANG 
+STANDARDISASI KOMPETENSI DI BIDANG SISTEM PEMBAYARAN 
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA 
+ 
+GUBERNUR BANK INDONESIA, 
+ 
+ 
+Menimbang : a. bahwa arah kebijakan sistem pembayaran serta 
+perkembangan teknologi dan sistem informasi di bidang 
+sistem pembayaran yang tidak terlepas dari berbagai risiko, 
+perlu diimbangi dengan peningkatan kompetensi sumber 
+daya manusia pelaku industri di bidang sistem 
+pembayaran; 
+ b. bahwa dengan berlakunya Undang-Undang Nomor 4 Tahun 
+2023 tentang Pengembangan dan Penguatan Sektor 
+Keuangan, dan sejalan dengan arah kebijakan sistem 
+pembayaran, serta untuk mendukung kebijakan ekonomi 
+dan keuangan nasional, menjaga efisiensi nasional, 
+kepentingan publik, pertumbuhan industri, dan/atau 
+persaingan usaha yang sehat, perlu dilakukan penguatan 
+industri sistem pembayaran melalui penyelarasan 
+ketentuan mengenai pengembangan dan penerapan 
+standardisasi kompetensi di bidang sistem pembayaran; 
+ c. bahwa untuk melakukan penyelarasan ketentuan 
+mengenai pengembangan dan penerapan standardisasi 
+kompetensi di bidang sistem pembayaran, Peraturan Bank 
+Indonesia Nomor 21/16/PBI/2019 tentang Standardisasi 
+Kompetensi di Bidang Sistem Pembayaran dan Pengelolaan 
+Uang Rupiah perlu diganti; 
+ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud 
+dalam huruf a, huruf b, dan huruf c, perlu menetapkan 
+Peraturan Bank Indonesia tentang Standardisasi 
+Kompetensi di Bidang Sistem Pembayaran; 
+ 
+Mengingat : 1. Undang-Undang Nomor 23 Tahun 1999 tentang Bank 
+Indonesia (Lembaran Negara Republik Indonesia Tahun
+
+[Halaman 2]
+- 2 - 
+ 
+ 1999 Nomor 66, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 3843) sebagaimana telah beberapa kali 
+diubah terakhir dengan Undang -Undang Nomor 4 T ahun 
+2023 tentang Pengembangan dan Penguatan Sektor 
+Keuangan (Lembaran Negara Republik Indonesia Tahun 
+2023 Nomor 4, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6845); 
+2. Undang-Undang Nomor 4 Tahun 2023 tentang 
+Pengembangan dan Penguatan Sektor Keuangan 
+(Lembaran Negara Republik Indonesia Tahun 2023 Nomor 
+4, Tambahan Lembaran Negara Republik Indonesia Nomor 
+6845); 
+ 
+MEMUTUSKAN: 
+Menetapkan : PERATURAN BANK INDONESIA TE NTANG STANDARDISASI 
+KOMPETENSI DI BIDANG SISTEM PEMBAYARAN. 
+ 
+BAB I 
+KETENTUAN UMUM 
+ 
+Pasal 1 
+ Dalam Peraturan Bank Indonesia ini yang dimaksud dengan: 
+1. Standardisasi Kompetensi Bidang Sistem Pembayaran yang 
+selanjutnya disebut SK SP adalah penerapan standar 
+kompetensi kerja nasional Indonesia dan jenjang kualifikasi 
+nasional Indonesia di bidang sistem pembayaran. 
+2. Standar Kompetensi Kerja Nasional Indonesia Bidang 
+Sistem Pembayaran yang selanjutnya disebut SKKNI 
+Bidang Sistem Pembayaran adalah rumusan kemampuan 
+kerja bidang sistem pembayaran yang mencakup aspek 
+pengetahuan, keterampilan dan/atau keahlian, serta sikap 
+kerja. 
+3. Kerangka Kualifikasi Nasional Indonesia Bidang Sistem 
+Pembayaran yang selanjutnya disebut KKNI Bidang Sistem 
+Pembayaran adalah kerangka penjenjangan kualifikasi 
+kompetensi yang dapat membandingkan, menyetarakan, 
+dan mengintegrasikan antara bidang pendidikan dan 
+bidang pelatihan kerja serta pengalaman kerja dalam 
+rangka pemberian pengakuan kompetensi kerja sesuai 
+dengan struktur pekerjaan di berbagai sektor. 
+4. Jenjang Kualifikasi dalam KKNI Bidang Sistem Pembayaran 
+yang selanjutnya disebut Jenjang Kualifikasi S istem 
+Pembayaran adalah jenjang pencapaian pembelajaran 
+bidang sistem pembayaran yang kedudukannya 
+disetarakan dengan je njang tertentu dalam kerangka 
+kualifikasi nasional Indonesia sebagaimana dimaksud 
+dalam ketentuan peraturan perundang-undangan 
+mengenai kerangka kualifikasi nasional Indonesia. 
+5. Pelatihan Berbasis Kompetensi Sistem Pembayaran yang 
+selanjutnya disebut PBK S istem Pembayaran adalah 
+pelatihan kerja yang menitikberatkan pada penguasaan 
+kemampuan kerja sesuai dengan SKKNI Bidang S istem 
+Pembayaran dan persyaratan di tempat kerja. 
+6. Sertifikasi Kompetensi Sistem Pembayaran adalah proses 
+pemberian sertifikat kompetensi sistem pembayaran yang 
+dilakukan secara sistematis dan objektif melalui uji
+
+[Halaman 3]
+- 3 - 
+ 
+kompetensi sesuai dengan SKKNI Bidang S istem 
+Pembayaran. 
+7. Sertifikat Pelatihan Berbasis Kompetensi Sistem 
+Pembayaran yang selanjutnya disebut Sertifikat PBK 
+Sistem Pembayaran adalah bukti tertulis yang diterbitkan 
+oleh lembaga pelatihan kerja sistem pembayaran yang 
+menyatakan bahwa seseorang telah kompeten sesuai 
+dengan PBK Sistem Pembayaran yang diikuti. 
+8. Sertifikat Kompetensi Sistem Pembayaran adalah bukti 
+tertulis yang diterbitka n oleh lembaga sertifikasi profesi 
+sistem pembayaran yang menerangkan bahwa seseorang 
+telah menguasai kompetensi kerja tertentu di bidang sistem 
+pembayaran sesuai dengan Sertifikasi Kompetensi S istem 
+Pembayaran yang diikuti. 
+9. Pelaku SK SP adalah bank dan le mbaga selain bank yang 
+menyelenggarakan kegiatan sistem pembayaran. 
+10. Bank adalah bank umum dan bank perekonomian rakyat 
+sebagaimana dimaksud dalam Undang-Undang mengenai 
+perbankan, termasuk kantor cabang bank asing di 
+Indonesia, dan bank umum syariah, unit usaha syariah, 
+dan bank perekonomian rakyat syariah sebagaimana 
+dimaksud dalam Undang -Undang mengenai perbankan 
+syariah. 
+11. Lembaga Selain Bank yang selanjutnya disingkat LSB 
+adalah badan usaha bukan Bank yang berbadan hukum 
+dan didirikan berdasarkan hukum Indonesia. 
+12. Kegiatan Sistem Pembayaran adalah kegiatan yang 
+menerapkan SK SP. 
+13. Satuan Kerja Operasional adalah unit kerja atau fungsi 
+operasional pada struktur organisasi Pelaku SK SP yang 
+melaksanakan Kegiatan Sistem Pembayaran. 
+14. Sumber Daya Manusia Pelaku S K SP yang selanjutnya 
+disebut SDM adalah orang dalam kelompok jenjang jabatan 
+tertentu pada Satuan Kerja Operasional yang 
+melaksanakan Kegiatan Sistem Pembayaran. 
+15. Lembaga Pelatihan Kerja Sistem Pembayaran yang 
+selanjutnya disebut LPK S istem Pembayaran adalah 
+lembaga pelatihan kerja yang telah memperoleh izin atau 
+tanda daftar dari lembaga yang berwenang dan memperoleh 
+pengakuan dari Bank Indonesia. 
+16. Lembaga Sertifikasi Profesi Sistem Pembayaran yang 
+selanjutnya disebut LSP S istem Pembayaran adalah 
+lembaga sertifikasi profesi yang telah memperoleh lisensi 
+dari badan atau lembaga yang berwenang dan memperoleh 
+pengakuan dari Bank Indonesia. 
+17. Penyelenggara SK SP adalah pihak yang menyelenggarakan 
+PBK S istem Pembayaran dan yang menyelenggarakan 
+Sertifikasi Kompetensi Sistem Pembayaran. 
+18. Program Pelatihan Berbasis Kompetensi Sistem 
+Pembayaran yang selanjutnya disebut Program PBK Sistem 
+Pembayaran adalah program pelatihan Kegiatan S istem 
+Pembayaran bagi SDM yang disusun secara sistematis yang 
+digunakan sebagai acuan dalam melaksanakan PBK Sistem 
+Pembayaran. 
+19. Skema Sertifikasi Kompetensi Sistem Pembayaran adalah 
+paket kompetensi dan persyaratan spesifik sesuai dengan
+
+[Halaman 4]
+- 4 - 
+ 
+jenjang jabatan tertentu dalam Keg iatan S istem 
+Pembayaran yang digunakan sebagai acuan dalam 
+melaksanakan uji Sertifikasi Kompetensi S istem 
+Pembayaran. 
+20. Pemeliharaan Kompetensi S istem Pembayaran adalah 
+proses pengkinian kompetensi SDM pemilik Sertifikat PBK 
+Sistem Pembayaran dan Sertifikat Kompetensi S istem 
+Pembayaran. 
+ 
+Pasal 2 
+Tujuan pengaturan SK SP untuk: 
+a. membangun dan memastikan kompetensi SDM; 
+b. meningkatkan integritas SDM; 
+c. mewujudkan penyelenggaraan PBK S istem Pembayaran 
+dan Sertifikasi Kompetensi S istem Pembayaran yang 
+kredibel dan berkelanjutan; dan 
+d. meningkatkan pelindungan konsumen pengguna produk 
+atau jasa sistem pembayaran. 
+ 
+Pasal 3 
+(1) Pengaturan SK SP sebagaimana dimaksud dalam Pasal 2 
+berlaku bagi Pelaku SK SP dan Penyelenggara SK SP. 
+(2) Pelaku SK SP sebagaimana dimaksud pada ayat (1) terdiri 
+atas: 
+a. penyedia jasa pembayaran; 
+b. penyelenggara infrastruktur sistem pembayaran; 
+c. penyelenggara jasa pengolahan uang rupiah; dan 
+d. penyelenggara kegiatan usaha penukaran valuta asing 
+bukan Bank. 
+(3) Penyelenggara SK SP sebagaimana dimaksud pada ayat (1) 
+terdiri atas: 
+a. LPK Sistem Pembayaran; dan 
+b. LSP Sistem Pembayaran. 
+ 
+BAB II 
+PENERAPAN SK SP 
+ 
+Pasal 4 
+SK SP mencakup Kegiatan Sistem Pembayaran yang terdiri atas: 
+a. kegiatan operasional sistem pembayaran; 
+b. kegiatan operasional jasa pengolahan uang rupiah; 
+c. kegiatan usaha penukaran valuta asing dan pembawaan 
+uang kertas asing; 
+d. kegiatan operasional setelmen transaksi tresuri dan 
+pembiayaan perdagangan; 
+e. kegiatan operasional sistem penatausahaan surat 
+berharga; dan 
+f. kegiatan operasional sistem pembayaran lainnya yang 
+ditetapkan oleh Bank Indonesia. 
+ 
+Pasal 5 
+(1) SK SP dilakukan melalui: 
+a. penerapan SKKNI Bidang Sistem Pembayaran; dan 
+b. pemenuhan Jenjang Kualifikasi Sistem Pembayaran.
+
+[Halaman 5]
+- 5 - 
+ 
+(2) Bank Indonesia menginisiasi penyusunan SKKNI Bidang 
+Sistem Pembayaran sebagaimana dimaksud pada ayat (1) 
+huruf a dan disampaikan kepada Menteri yang 
+menyelenggarakan urusan pemerintahan di bidang 
+ketenagakerjaan untuk memperoleh penetapan. 
+(3) Bank Indonesia menetapkan Jenjang Kualifikasi Sistem 
+Pembayaran sebagaimana dimaksud pada ayat (1) huruf b. 
+(4) Jenjang Kualifikasi Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (1) huruf b terdiri atas: 
+a. Jenjang Kualifikasi Sistem Pembayaran 4 bagi 
+pelaksana; 
+b. Jenjang Kualifikasi Sistem Pembayaran 5 bagi 
+penyelia; dan 
+c. Jenjang Kualifikasi Sistem Pembayaran 6 bagi pejabat 
+eksekutif dan anggota direksi. 
+(5) Bank Indonesia melakukan kaji ulang atas SKKNI Bidang 
+Sistem Pembayaran dan Jenjang Kualifikasi Sistem 
+Pembayaran sebagaimana dimaksud pada ayat (1) sesuai 
+dengan ketentuan peraturan perundang -undangan di 
+bidang ketenagakerjaan. 
+ 
+Pasal 6 
+(1) Penerapan SKKNI Bidang Sistem Pembayaran dan 
+pemenuhan Jenjang Kualifikasi Sistem Pembayaran 
+sebagaimana dimaksud dalam Pasal 5 ayat (1) dilakukan 
+melalui: 
+a. PBK Sistem Pembayaran; dan 
+b. Sertifikasi Kompetensi Sistem Pembayaran. 
+(2) PBK Sistem Pembayaran sebagaimana dimaksud pada ayat 
+(1) huruf a diselenggarakan oleh LPK Sistem Pembayaran. 
+(3) Sertifikasi Kompetensi Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (1) huruf b diselenggarakan oleh LSP 
+Sistem Pembayaran. 
+(4) Penyelenggaraan PBK Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (1) huruf a mengacu pada Program 
+PBK Sistem Pembayaran. 
+(5) Penyelenggaraan Sertifikasi Kompetensi Sistem 
+Pembayaran sebagaimana dimaksud pada ayat (1) huruf b 
+mengacu pada Skema Sertifikasi Kompetensi Sistem 
+Pembayaran. 
+(6) Penyelenggara SK SP dapat menyelenggarakan SKKNI 
+Bidang Sistem Pembayaran sebagaimana dimaksud dalam 
+Pasal 5 ayat (1) huruf a dan Jenjang Kualifikasi Sistem 
+Pembayaran sebagaimana dimaksud dalam Pasal 5 ayat (1) 
+huruf b, secara keseluruhan atau sebagian. 
+ 
+Pasal 7 
+Ketentuan lebih lanjut mengenai penerapan SK SP diatur dalam 
+Peraturan Anggota Dewan Gubernur.
+
+[Halaman 6]
+- 6 - 
+ 
+BAB III 
+PELAKU SK SP 
+ 
+Bagian Kesatu 
+Kewajiban Kepemilikan Sertifikat PBK Sistem Pembayaran 
+dan/atau Sertifikat Kompetensi Sistem Pembayaran 
+ 
+Pasal 8 
+(1) Pelaku SK SP wajib memastikan SDM yang melaksanakan 
+Kegiatan Sistem Pembayaran sebagaimana dimaksud 
+dalam Pasal 4 memiliki Sertifikat PBK Sistem Pembayaran 
+dan/atau Sertifikat Kompetensi Sistem Pembayaran. 
+(2) SDM sebagaimana dimaksud pada ayat (1) terdiri atas: 
+a. anggota direksi; 
+b. pejabat eksekutif; 
+c. penyelia; dan 
+d. pelaksana. 
+(3) Anggota direksi sebagaimana dimaksud pada ayat (2) huruf 
+a merupakan direktur atau setingkat direktur yang 
+membawahi Kegiatan Sistem Pembayaran sebagaimana 
+dimaksud dalam Pasal 4. 
+(4) Pejabat eksekutif sebagaimana dimaksud pada ayat (2) 
+huruf b merupakan kelompok jenjang jabatan pada Pelaku 
+SK SP yang bertanggung jawab langsung kep ada anggota 
+direksi dan/atau mempunyai pengaruh yang signifikan 
+terhadap kebijakan dan/atau operasional Kegiatan Sistem 
+Pembayaran. 
+(5) Penyelia sebagaimana dimaksud pada ayat (2) huruf c 
+merupakan kelompok jenjang jabatan pada Satuan Kerja 
+Operasional yang berada di bawah pejabat eksekutif yang 
+melakukan supervisi atas Kegiatan Sistem Pembayaran 
+yang dilakukan oleh pelaksana. 
+(6) Pelaksana sebagaimana dimaksud pada ayat (2) huruf d 
+merupakan kelompok jenjang jabatan pada Satuan Kerja 
+Operasional yang melaksanakan Kegiatan Sistem 
+Pembayaran dan berada di bawah supervisi penyelia. 
+(7) Pelaku SK SP yang melanggar keten tuan sebagaimana 
+dimaksud pada ayat (1) dikenai sanksi administratif 
+berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama 
+dalam Kegiatan Sistem Pembayaran, dan/atau 
+penundaan kepesertaan sistem pembayaran Bank 
+Indonesia; 
+c. penghentian sementara, sebagian, atau seluruh 
+Kegiatan Sistem Pembayaran, termasuk pelaksanaan 
+kerja sama; dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran, 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran, pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah, atau 
+pencabutan izin penyelenggara kegiatan usaha 
+penukaran valuta asing bukan Bank.
+
+[Halaman 7]
+- 7 - 
+ 
+Pasal 9 
+(1) Kepemilikan Sertifikat PBK Sistem Pembayaran dan/atau 
+Sertifikat Kompetensi Sistem Pembayaran bagi SDM 
+sebagaimana dimaksud dalam Pasal 8 ayat (1) ditetapkan 
+berdasarkan: 
+a. Jenjang Kualifikasi Sistem Pembayaran; dan 
+b. Kegiatan Sistem Pembayaran yang dilakukan Pelaku 
+SK SP sebagaimana dimaksud dalam Pasal 4. 
+(2) Kepemilikan Sertifikat PBK Sistem Pembayaran dan/atau 
+Sertifikat Kompetensi Sistem Pembayaran sebagaimana 
+dimaksud dalam Pasal 8 ayat (1) harus dipenuhi paling 
+lambat 6 (enam) bulan terhitung sejak tanggal efektif 
+menduduki jabatan. 
+ 
+Pasal 10 
+Ketentuan lebih lanjut mengenai kewajiban kepemilikan 
+Sertifikat PBK Sistem Pembayaran dan/atau Sertifikat 
+Kompetensi Sistem Pembayaran , serta tata cara pengenaan 
+sanksi administratif diatur dalam Peraturan Anggota Dewan 
+Gubernur. 
+ 
+Bagian Kedua 
+Kewajiban Pemeliharaan Kompetensi Sistem Pembayaran 
+ 
+Pasal 11 
+(1) Pelaku SK SP wajib memastikan terlaksananya 
+Pemeliharaan Kompetensi Sistem Pembayaran bagi 
+seluruh SDM yang memiliki Sertifikat PBK Sistem 
+Pembayaran dan/atau Sertifikat Kompetensi Sistem 
+Pembayaran. 
+(2) Pemeliharaan Kompetensi Sistem Pembayaran 
+sebagaimana dimaksud pada ayat (1) dilaksanakan paling 
+sedikit 1 (satu) kali dalam jangka waktu 3 (tiga) tahun. 
+(3) Pemeliharaan Kompetensi Sistem Pembayaran 
+sebagaimana dimaksud pada ayat (1) dilaksanakan pada: 
+a. LPK Sistem Pembayaran; dan/atau 
+b. LSP Sistem Pembayaran. 
+(4) Pelaku SK SP yang melanggar ketentuan sebagaimana 
+dimaksud pada ayat (1) dikenai sanksi administratif 
+berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama 
+dalam Kegiatan Sistem Pembayaran , dan/atau 
+penundaan kepesertaan sistem pembayaran Bank 
+Indonesia; 
+c. penghentian sementara, sebagian , atau seluruh 
+Kegiatan Sistem Pembayaran, termasuk pelaksanaan 
+kerja sama; dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran, 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran , pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah, atau 
+pencabutan izin penyelenggara kegiatan usaha 
+penukaran valuta asing bukan Bank.
+
+[Halaman 8]
+- 8 - 
+ 
+Bagian Ketiga 
+Kewajiban Penyediaan Dana 
+ 
+Pasal 12 
+(1) Pelaku SK SP wajib menyediakan dana yang cukup untuk 
+pengembangan dan penguatan kompetensi SDM. 
+(2) Jumlah penyediaan dana yang cukup sebagaimana 
+dimaksud pada ayat (1) ditetapkan oleh Pelaku SK SP 
+sesuai dengan asesmen kebutuhan dana untuk memenuhi 
+ketentuan SK SP. 
+(3) Pelaku SK SP wajib menyampaikan rencana penyediaan 
+dana sesuai dengan asesmen kebutuhan dana 
+sebagaimana dimaksud pada ayat (2) dan realisasinya 
+kepada Bank Indonesia. 
+(4) Bank Indonesia dapat mengevaluasi rencana penyediaan 
+dana yang disampaikan Pelaku SK SP sebagaimana 
+dimaksud pada ayat (3). 
+(5) Berdasarkan hasil evaluasi sebagaimana dimaksud pada 
+ayat (4), Bank Indonesia dapat meminta Pelaku SK SP 
+untuk menyesuaikan rencana penyediaan dana yang telah 
+disampaikan. 
+(6) Penyampaian rencana penyediaan dana sebag aimana 
+dimaksud pada ayat (3) wajib dilakukan untuk pertama kali 
+paling lambat tanggal 1 3 Desember 2024 untuk rencana 
+penyediaan dana tahun 2025. 
+(7) Pelaku SK SP yang melanggar ketentuan sebagaimana 
+dimaksud pada ayat (1), ayat (3), dan ayat (6) dikenai sanksi 
+administratif berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama 
+dalam K egiatan Sistem Pembayaran, dan/atau 
+penundaan kepesertaan sistem pemba yaran Bank 
+Indonesia; 
+c. penghentian sementara, sebagian , atau seluruh 
+Kegiatan Sistem Pembayaran termasuk pelaksanaan 
+kerja sama; dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran, 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran, pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah , atau 
+pencabutan izin penyelenggara kegiatan usaha 
+penukaran valuta asing bukan Bank. 
+ 
+Pasal 13 
+Ketentuan lebih lanjut mengenai kewajiban penyediaan dana 
+dan tata cara pengenaan sanksi administratif diatur dalam 
+Peraturan Anggota Dewan Gubernur. 
+ 
+Bagian Keempat 
+Kewajiban Penatausahaan Sertifikat PBK Sistem Pembayaran 
+dan Sertifikat Kompetensi Sistem Pembayaran 
+ 
+Pasal 14 
+(1) Pelaku SK SP wajib menatausahakan data dan informasi 
+paling sedikit:
+
+[Halaman 9]
+- 9 - 
+ 
+a. data SDM pemilik Sertifikat PBK Sistem Pembayaran 
+dan/atau Sertifikat Kompetensi Sistem Pembayaran; 
+dan 
+b. data SDM yang telah melakukan Pemeliharaan 
+Kompetensi Sistem Pembayaran. 
+(2) Pelaku SK SP yang melanggar ketentuan sebagaimana 
+dimaksud pada ayat (1) dikenai sanksi administratif 
+berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama 
+dalam Kegiatan Sistem Pembayaran, dan/atau 
+penundaan kepesertaan sistem pembayaran Bank 
+Indonesia; 
+c. penghentian sementara, sebagian , atau seluruh 
+Kegiatan Sistem Pembayaran termasuk pelaksanaan 
+kerja sama; dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran , 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran, pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah , atau 
+pencabutan izin penyelenggara kegiatan usaha 
+penukaran valuta asing bukan Bank. 
+ 
+Pasal 15 
+Ketentuan lebih lanjut mengenai kewajiban penatausahaan 
+Sertifikat PBK Sistem Pembayaran dan Sertifikat Kompetensi 
+Sistem Pembayaran, serta tata cara pengenaan sanksi 
+administratif diatur dalam Peraturan Anggota Dewan Gubernur. 
+ 
+BAB IV 
+PENYELENGGARA SK SP 
+ 
+Bagian Kesatu 
+Pembentukan LPK Sistem Pembayaran 
+ 
+Pasal 16 
+(1) LPK Sistem Pembayaran dapat dibentuk oleh: 
+a. Pelaku SK SP; 
+b. asosiasi profesi dan/atau asosiasi industri sistem 
+pembayaran; dan/atau 
+c. pihak lainnya yang ditetapkan oleh Bank Indonesia. 
+(2) Sebelum melakukan kegiatan PBK Sistem Pembayaran , 
+LPK Sistem Pembayaran sebagaimana dimaksud pada ayat 
+(1) harus memperoleh izin atau tanda daftar dari lembaga 
+yang berwenang. 
+(3) Untuk memperoleh izin atau tanda daftar sebagaimana 
+dimaksud pada ayat (2) , LPK Sistem Pembayaran harus 
+memperoleh rekomendasi dari Bank Indonesia. 
+(4) Rekomendasi Bank Indonesia untuk memperoleh izin atau 
+tanda daftar sebagai LPK Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (3) diberikan kepada calon LPK Sistem 
+Pembayaran setelah memenuhi persyaratan: 
+a. memperoleh rekomendasi dari asosiasi profesi 
+dan/atau asosiasi industri, khusus untuk calon LPK 
+Sistem Pembayaran yang dibentuk oleh asosiasi
+
+[Halaman 10]
+- 10 - 
+ 
+profesi dan/atau asosiasi industri sebagaimana 
+dimaksud pada ayat (1) huruf b dan pihak lainnya 
+sebagaimana dimaksud pada ayat (1) huruf c; 
+b. memiliki akta pendirian dan anggaran dasar beserta 
+perubahannya, bagi calon LPK Sistem Pembayaran 
+yang dibentuk oleh asosiasi profesi dan/atau asosiasi 
+industri sebagaimana dimaksud pada ayat (1) huruf b 
+dan pihak lainnya sebagaimana dimaksud pada ayat 
+(1) huruf c; 
+c. memiliki perangkat organisasi; 
+d. memiliki Program PBK Sistem Pembayaran; 
+e. memiliki instruktur dan mentor yang kompeten serta 
+berpengalaman di bidang sistem pembayaran; dan 
+f. persyaratan lainnya yang ditetapkan oleh Bank 
+Indonesia. 
+(5) Dalam proses pemberian rekomendasi sebagaimana 
+dimaksud pada ayat (3), Bank Indonesia dapat melakukan 
+pemeriksaan kepada calon LPK Sistem Pembayaran. 
+ 
+Pasal 17 
+(1) Calon LPK Sistem Pembayaran yang telah memperoleh izin 
+atau tanda daftar sebagai LPK Sistem Pembayaran 
+sebagaimana dimaksud dalam Pasal 16 ayat ( 2) harus 
+mengajukan permohonan kepada Bank Indonesia untuk 
+memperoleh pengakuan sebagai LPK Sistem Pembayaran. 
+(2) Permohonan pengakuan sebagaimana dimaksud pada ayat 
+(1) disampaikan secara tertulis dengan dilengkapi salinan 
+bukti izin atau tanda daftar sebagai LPK Sistem 
+Pembayaran dari lembaga yang b erwenang dan dokumen 
+pendukung. 
+(3) LPK Sistem Pembayaran yang telah memperoleh 
+pengakuan dari Bank Indonesia dipublikasikan dalam 
+daftar LPK Sistem Pembayaran melalui sarana yang 
+ditetapkan oleh Bank Indonesia. 
+ 
+Bagian Kedua 
+Program PBK Sistem Pembayaran 
+ 
+Pasal 18 
+(1) Program PBK Sistem Pembayaran disusun berdasarkan: 
+a. ketentuan yang ditetapkan oleh kementerian atau 
+lembaga yang berwenang; dan 
+b. pedoman PBK Sistem Pembayaran yang ditetapkan 
+oleh Bank Indonesia. 
+(2) LPK Sistem Pembayaran dapat melakukan perubahan atau 
+penambahan Program PBK Sistem Pembayaran. 
+(3) LPK Sistem Pembayaran wajib melaporkan perubahan 
+Program PBK Sistem Pembayaran sebagaimana dimaksud 
+pada ayat (2) kepada Bank Indonesia. 
+(4) Perubahan Program PBK Sistem Pembayaran sebagaimana 
+dimaksud pada ayat ( 3) disampaikan oleh LPK Sistem 
+Pembayaran secara tertulis dengan dilengkapi dokumen 
+sebagai berikut: 
+a. daftar perubahan Program PBK Sistem Pembayaran; 
+dan 
+b. Program PBK Sistem Pembayaran hasil perubahan.
+
+[Halaman 11]
+- 11 - 
+ 
+(5) LPK Sistem Pembayaran wajib memperoleh rekomendasi 
+dari Bank Indonesia untuk mengajukan permohonan 
+penambahan Program PBK Sistem Pembayaran 
+sebagaimana dimaksud pada ayat (2) kepada kementerian 
+atau lembaga yang berwenang. 
+(6) Rekomendasi penambahan Program PBK Sistem 
+Pembayaran dari Bank Indonesia sebagaimana dimaksud 
+pada ayat ( 5) diberikan kepada LPK Sistem Pembayaran 
+yang memenuhi persyaratan: 
+a. memperoleh rekomendasi dari asosiasi profesi 
+dan/atau asosiasi industri, khusus untuk pengajuan 
+dari LPK Sistem Pembayaran yang dibentuk oleh 
+asosiasi profesi dan/atau asosiasi industri 
+sebagaimana dimaksud dalam Pasal 16 ayat (1) huruf 
+b dan pihak lainnya sebagaimana dimaksud dalam 
+Pasal 16 ayat (1) huruf c; 
+b. memiliki akta pendirian dan anggaran dasar beserta 
+perubahannya, bagi calon LPK Sistem Pembayaran 
+yang dibentuk oleh asosiasi profesi dan/atau asosiasi 
+industri sebagaimana dimaksud dalam Pasal 16 ayat 
+(1) huruf b dan pihak lainnya sebagaimana dimaksud 
+dalam Pasal 16 ayat (1) huruf c; 
+c. memiliki perangkat organisasi; 
+d. memiliki Program PBK Sistem Pembayaran; 
+e. memiliki instruktur dan mentor yang kompeten serta 
+berpengalaman di bidang sistem pembayaran; dan 
+f. persyaratan lainnya yang ditetapkan oleh Bank 
+Indonesia. 
+(7) Dalam proses pemberian rekomendasi pengajuan 
+penambahan Program PBK Sistem Pembayaran 
+sebagaimana dimaksud pada ayat ( 5), Bank Indonesia 
+dapat melakukan pemeriksaan kepada LPK Sistem 
+Pembayaran. 
+(8) LPK Sistem Pembayaran yang melanggar ketentuan 
+sebagaimana dimaksud pada ayat (3) dan ayat ( 5) dikenai 
+sanksi administratif berupa: 
+a. teguran tertulis; 
+b. pembekuan sebagai LPK Sistem Pembayaran yang 
+diakui Bank Indonesia; dan/atau 
+c. pencabutan sebagai LPK Sistem Pembayaran yang 
+diakui Bank Indonesia. 
+ 
+Pasal 19 
+(1) LPK Sistem Pembayaran yang telah memperoleh izin 
+penambahan Program PBK Sistem Pembayaran dari 
+lembaga yang berwenang sebagaimana dimaksud dalam 
+Pasal 1 8 ayat ( 5) harus mengajukan permohonan 
+pengakuan penambahan Program PBK Sistem Pembayaran 
+kepada Bank Indonesia untuk memperoleh pengakuan atas 
+penambahan Program PBK Sistem Pembayaran tersebut. 
+(2) Permohonan pengakuan sebagaimana dimaksud pada ayat 
+(1) disampaikan secara tertulis dengan dilengkapi salinan 
+izin atau tanda daftar penambahan Program PBK Sistem 
+Pembayaran dari lembaga yang berwenang dan dokumen 
+pendukung.
+
+[Halaman 12]
+- 12 - 
+ 
+(3) Penambahan Program PBK Sistem Pembayaran yang telah 
+memperoleh pengakuan dari Bank Indonesia 
+dipublikasikan melalui sarana yang ditetapkan oleh Bank 
+Indonesia. 
+ 
+Pasal 20 
+Ketentuan lebih lanjut mengenai Program PBK Sistem 
+Pembayaran dan tata cara pengenaan sanksi administratif 
+diatur dalam Peraturan Anggota Dewan Gubernur. 
+ 
+Bagian Ketiga 
+Pembentukan LSP Sistem Pembayaran 
+ 
+Pasal 21 
+(1) LSP Sistem Pembayaran dibentuk dan dimiliki oleh asosiasi 
+profesi dan/atau asosiasi industri sistem pembayaran. 
+(2) Asosiasi profesi dan/atau asosiasi industri sistem 
+pembayaran sebagaimana dimaksud pada ayat (1) harus 
+memenuhi kriteria paling sedikit: 
+a. merupakan representasi dari mayoritas industri 
+sistem pembayaran; 
+b. berbadan hukum Indonesia; dan 
+c. memiliki kompetensi u ntuk menyusun, 
+mengembangkan, dan mengelola SK SP. 
+(3) Sebelum melakukan kegiatan Sertifikasi Kompetensi 
+Sistem Pembayaran, LSP Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (1) harus memperoleh lisensi dari 
+lembaga yang berwenang. 
+(4) Dalam pengajuan permohonan lisensi sebagaimana 
+dimaksud pada ayat (3), LSP Sistem Pembayaran harus 
+memperoleh rekomendasi dari Bank Indonesia. 
+(5) Rekomendasi Bank Indonesia untuk memperoleh lisensi 
+sebagai LSP Sistem Pembayaran sebagaimana dimaksud 
+pada ayat (4) diberikan kepada calon LSP Sistem 
+Pembayaran setelah memenuhi persyaratan: 
+a. memiliki rekomendasi dari asosiasi profesi dan/atau 
+asosiasi industri sistem pembayaran; 
+b. memiliki akta pendirian dan anggaran dasar beserta 
+perubahannya; 
+c. memiliki perangkat organisasi; 
+d. memiliki Skema Sertifikasi Kompetensi Sistem 
+Pembayaran; 
+e. memiliki asesor sertifikasi kompetensi di bidang 
+sistem pembayaran; 
+f. memiliki pedoman kerja internal; dan 
+g. persyaratan lainnya yang ditetapkan oleh Bank 
+Indonesia. 
+(6) Dalam proses pemberian rekomendasi sebagaimana 
+dimaksud pada ayat (4), Bank Indonesia dapat melakukan 
+pemeriksaan kepada calon LSP Sistem Pembayaran. 
+ 
+Pasal 22 
+(1) Calon LSP Sistem Pembayaran yang telah memperoleh 
+lisensi sebagai LSP Sistem Pembayaran sebagaimana 
+dimaksud dalam Pasal 21 ayat (3) harus mengajukan
+
+[Halaman 13]
+- 13 - 
+ 
+permohonan kepada Bank Indonesia untuk memperoleh 
+pengakuan sebagai LSP Sistem Pembayaran. 
+(2) Permohonan pengakuan sebagaimana dimaksud pada ayat 
+(1) disampaikan secara tertulis dengan dilengkapi salinan 
+bukti lisensi sebagai LSP Sistem Pembayaran dari lembaga 
+yang berwenang dan dokumen pendukung. 
+(3) LSP Sistem Pembayaran yang telah memperoleh 
+pengakuan dari Bank Indonesia dipublikasikan dalam 
+daftar LSP Sistem Pembayaran melalui sarana yang 
+ditetapkan oleh Bank Indonesia. 
+ 
+Bagian Keempat 
+Skema Sertifikasi Kompetensi Sistem Pembayaran 
+ 
+Pasal 23 
+(1) Skema Sertifikasi Kompetensi Sistem Pembayaran disusun 
+berdasarkan: 
+a. ketentuan yang ditetapkan oleh lembaga yang 
+berwenang; 
+b. SKKNI Bidang Sistem Pembayaran; dan 
+c. KKNI Bidang Sistem Pembayaran. 
+(2) LSP Sistem Pembayaran dapat melakukan perubahan 
+Skema Sertifikasi Kompetensi Sistem Pembayaran. 
+(3) LSP Sistem Pembayaran wajib memperoleh rekomendasi 
+dari Bank Indonesia untuk mengajukan perubahan Skema 
+Sertifikasi Kompetensi Sistem Pembayaran sebagaimana 
+dimaksud pada ayat (2) kepada lembaga yang berwenang. 
+(4) Rekomendasi perubahan Skema Sertifikasi Kompetensi 
+Sistem Pembayara n dari Bank Indonesia sebagaimana 
+dimaksud pada ayat (3) diberikan kepada LSP Sistem 
+Pembayaran yang memenuhi persyaratan: 
+a. memiliki rekomendasi dari asosiasi profesi dan/atau 
+asosiasi industri sistem pembayaran; 
+b. memiliki akta pendirian dan anggaran dasar b eserta 
+perubahannya; 
+c. memiliki perangkat organisasi; 
+d. usulan Skema Sertifikasi Kompetensi Sistem 
+Pembayaran; 
+e. kecukupan asesor sertifikasi kompetensi di bidang 
+sistem pembayaran; 
+f. pedoman kerja internal untuk usulan Skema 
+Sertifikasi Kompetensi Sistem Pembayaran; dan/atau 
+g. persyaratan lainnya yang ditetapkan oleh Bank 
+Indonesia, 
+sesuai dengan permohonan perubahan Skema Sertifikasi 
+Kompetensi Sistem Pembayaran yang diajukan kepada 
+lembaga yang berwenang. 
+(5) Dalam proses pemberian rekomendasi pengajuan 
+perubahan Skema Sertifikasi Kompetensi Sistem 
+Pembayaran sebagaimana dimaksud pada ayat ( 3), Bank 
+Indonesia dapat melakukan pemeriksaan kepada LSP 
+Sistem Pembayaran. 
+(6) LSP Sistem Pembayaran yang melanggar ketentuan 
+sebagaimana dimaksud pada ayat (3) dikenai sanksi 
+administratif berupa: 
+a. teguran tertulis;
+
+[Halaman 14]
+- 14 - 
+ 
+b. pembekuan sebagai LSP Sistem Pembayaran yang 
+diakui Bank Indonesia; dan/atau 
+c. pencabutan sebagai LSP Sistem Pembayaran yang 
+diakui Bank Indonesia. 
+ 
+Pasal 24 
+(1) LSP Sistem Pembayaran yang telah memperoleh lisensi 
+atas perubahan Skema Sertifikasi Kompetensi Sistem 
+Pembayaran dari lembaga yang berwenang sebagaimana 
+dimaksud dalam Pasal 23 ayat (3) harus mengajukan 
+permohonan pengakuan perubahan Skema Sertifikasi 
+Kompetensi Sistem Pembayaran kepada Bank Indonesia 
+untuk memperoleh pengakuan atas perubahan Skema 
+Sertifikasi Kompetensi Sistem Pembayaran tersebut. 
+(2) Permohonan pengakuan sebagaimana dimaksud pada ayat 
+(1) disampaikan secara tertulis dengan dilengkapi salinan 
+lisensi perubahan Skema Sertifikasi Kompetensi Sistem 
+Pembayaran dari lembaga yang berwenang dan dokumen 
+pendukung. 
+(3) Perubahan Skema Sertifikasi Kompetensi Sistem 
+Pembayaran yang telah memperoleh pengakuan dari Bank 
+Indonesia dipublikasikan melalui sarana yang ditetapkan 
+oleh Bank Indonesia. 
+ 
+Pasal 25 
+Ketentuan lebih lanjut mengenai Skema Sertifikasi Kompetensi 
+Sistem Pembayaran dan tata cara pengenaan sanksi 
+administratif diatur dalam Peraturan Anggota Dewan Gubernur. 
+ 
+Bagian Kelima 
+Sertifikat Profesi Luar Negeri 
+ 
+Pasal 26 
+(1) Pelaku SK SP yang memiliki SDM dengan sertifikat profesi 
+yang diterbitkan oleh lembaga sertifikasi profesi dan/atau 
+asosiasi profesi di luar negeri dapat mengajukan kepada 
+LSP Sistem Pembayaran untuk dilakukan penyetaraan. 
+(2) Dalam proses penyetaraan sebagaim ana dimaksud pada 
+ayat (1), LSP Sistem Pembayaran memperhatikan: 
+a. masa berlaku sertifikat profesi yang diterbitkan oleh 
+lembaga sertifikasi profesi dan/atau asosiasi profesi di 
+luar negeri; 
+b. cakupan Kegiatan Sistem Pembayaran dan Jenjang 
+Kualifikasi Sistem Pembayaran; dan/atau 
+c. pertimbangan lainnya. 
+(3) SDM yang telah memperoleh penyetaraan dari LSP Sistem 
+Pembayaran diperhitungkan sebagai Sertifikat Kompetensi 
+Sistem Pembayaran oleh Pelaku SK SP. 
+ 
+Bagian Keenam 
+Kewajiban Penatausahaan Data dan Informasi Penyelenggaraan 
+SK SP 
+ 
+Pasal 27 
+(1) Penyelenggara SK SP wajib menatausahakan data dan 
+informasi penyelenggaraan SK SP paling sedikit:
+
+[Halaman 15]
+- 15 - 
+ 
+a. data Sertifikat PBK Sistem Pembayaran bagi LPK 
+Sistem Pembayaran dan/atau Sertifikat Kompetensi 
+Sistem Pembayaran bagi LSP Sistem Pembayaran; 
+b. data Pemeliharaan Kompetensi Sistem Pembayaran; 
+c. data akreditasi; dan 
+d. sistem informasi pengolahan data. 
+(2) Penyelenggara SK SP yang melanggar ketentuan 
+sebagaimana dimaksud pada ayat (1) dikenai sanksi 
+administratif berupa: 
+a. teguran tertulis; 
+b. pembekuan sebagai Penyelenggara SK SP yang diakui 
+Bank Indonesia; dan/atau 
+c. pencabutan sebagai Penyelenggara SK SP yang diakui 
+Bank Indonesia. 
+(3) Ketentuan lebih lanjut mengenai tata cara pengenaan 
+sanksi administratif diatur dalam Peraturan Anggota 
+Dewan Gubernur. 
+ 
+BAB V 
+PEMELIHARAAN KOMPETENSI SISTEM PEMBAYARAN 
+ 
+Pasal 28 
+(1) Pemeliharaan Kompetensi Sistem Pembayaran 
+sebagaimana dimaksud dalam Pasal 11 ayat (3) terdiri atas: 
+a. Pemeliharaan Kompetensi Sistem Pembayaran untuk 
+PBK Sistem Pembayaran; dan 
+b. Pemeliharaan Kompetensi Sistem Pembayaran untuk 
+Sertifikasi Kompetensi Sistem Pembayaran. 
+(2) Pemeliharaan Kompetensi Sistem Pembayaran untuk PBK 
+Sistem Pembayaran dilakukan melalui training atau 
+workshop yang diselenggarakan oleh LPK Sistem 
+Pembayaran. 
+(3) Pemeliharaan Kompetensi Sistem Pembayaran untuk 
+Sertifikasi Kompetensi Sistem Pembayaran dilakukan 
+melalui uji Sertifikasi Kompetensi yang diselengg arakan 
+oleh LSP Sistem Pembayaran. 
+(4) Ketentuan lebih lanjut mengenai persyaratan dan tata cara 
+pelaksanaan Pemeliharaan Kompetensi Sistem 
+Pembayaran diatur dalam Peraturan Anggota Dewan 
+Gubernur. 
+ 
+BAB VI 
+PELAPORAN 
+ 
+Bagian Kesatu 
+Pelaporan Pelaku SK SP 
+ 
+Pasal 29 
+(1) Laporan yang disampaikan kepada Bank Indonesia 
+meliputi: 
+a. laporan berkala; dan/atau 
+b. laporan insidental. 
+(2) Laporan sebagaimana dimaksud pada ayat (1) wajib 
+disampaikan secara lengkap, akurat, kini, utuh, dan tepat 
+waktu kepada Bank Indonesia.
+
+[Halaman 16]
+- 16 - 
+ 
+(3) Dalam hal terdapat kesalahan pada laporan yang telah 
+disampaikan sebagaimana dimaksud pada ayat (1), Pelaku 
+SK SP wajib menyampaikan koreksi laporan. 
+(4) Pelaku SK SP yang melanggar keten tuan sebagaimana 
+dimaksud pada ayat (2) dan/atau ayat ( 3) dikenai sanksi 
+administratif berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama 
+dalam Kegiatan Sistem Pembayaran, dan/atau 
+penundaan kepesertaan sistem pembayaran Bank 
+Indonesia; 
+c. penghentian sementara, sebagian , atau seluruh 
+Kegiatan Sistem Pembayaran termasuk pelaksanaan 
+kerja sama; dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran, 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran, pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah , atau 
+pencabutan izin penyelenggara kegiatan usaha 
+penukaran valuta asing bukan Bank. 
+(5) Pengenaan sanksi administratif sebagaimana dimaksud 
+pada ayat (4) tidak menghilangkan kewajiban penyampaian 
+laporan sebagaimana dimaksud pada ayat (2) dan ayat (3). 
+(6) Ketentuan lebih lanjut mengenai jenis, format , dan tata 
+cara penyampaian laporan , serta tata cara pengenaan 
+sanksi administratif diatur dalam Peraturan Anggota 
+Dewan Gubernur. 
+ 
+Bagian Kedua 
+Pelaporan Penyelenggara SK SP 
+ 
+Pasal 30 
+(1) Laporan yang disampaikan kepada Bank Indonesia 
+meliputi: 
+a. laporan berkala; dan/atau 
+b. laporan insidental. 
+(2) Laporan sebagaimana dimaksud pada ayat (1) wajib 
+disampaikan secara lengkap, akurat, kini, utuh, dan tepat 
+waktu kepada Bank Indonesia. 
+(3) Dalam hal terdapat kesalahan pada laporan yang telah 
+disampaikan sebagaimana dimaksud pada ayat (1), Pelaku 
+SK SP wajib menyampaikan koreksi laporan. 
+(4) Penyelenggara SK SP yang melanggar keten tuan 
+sebagaimana dimaksud pada ayat ( 2) dan/atau ayat ( 3) 
+dikenai sanksi administratif berupa: 
+a. teguran tertulis; 
+b. pembekuan sebagai Penyelenggara SK SP yang diakui 
+Bank Indonesia; dan/atau 
+c. pencabutan sebagai Penyelenggara SK SP yang diakui 
+Bank Indonesia. 
+(5) Pengenaan sanksi administratif sebagaimana dimaksud 
+pada ayat (4) tidak menghilangkan kewajiban penyampaian 
+laporan sebagaimana dimaksud pada ayat (2) dan ayat (3). 
+(6) Ketentuan lebih lanjut mengenai jenis, format, dan tata 
+cara penyampaian laporan, serta tata cara pengenaan
+
+[Halaman 17]
+- 17 - 
+ 
+sanksi administratif diatur dalam Peraturan Anggota 
+Dewan Gubernur. 
+ 
+Bagian Ketiga 
+Sarana Penyampaian Laporan 
+ 
+Pasal 31 
+(1) Laporan sebagaimana dimaksud dalam Pasal 2 9 ayat (1) 
+dan Pasal 30 ayat (1) disampaikan kepada Bank Indonesia 
+secara daring melalui sistem pelaporan Bank Indonesia. 
+(2) Dalam hal pelaporan secara daring sebagaimana dimaksud 
+pada ayat (1) belum tersedia, laporan disampaikan secara 
+luring. 
+ 
+BAB VII 
+PENGAWASAN DAN PEMANTAUAN 
+ 
+Bagian Kesatu 
+Pengawasan Terhadap Pelaku SK SP 
+ 
+Pasal 32 
+(1) Bank Indonesia melakukan pengawasan terhadap Pelaku 
+SK SP. 
+(2) Pengawasan sebagaimana dimaksud pada ayat (1) meliputi: 
+a. pengawasan tidak langsung; dan 
+b. pengawasan langsung. 
+(3) Dalam melakukan pengawasan sebagaimana dimaksud 
+pada ayat (1), Bank Indonesia berwenang untuk meminta 
+dokumen, data, informasi, keterangan, dan/atau 
+penjelasan dari Pelaku SK SP. 
+(4) Pelaku SK SP wajib menyampaikan dokumen, data, 
+informasi, keterangan, dan/atau penjelasan atas 
+permintaan Bank Indonesia sebagaimana dimaksud pada 
+ayat (3). 
+(5) Bank Indonesia dapat menugaskan pihak lain untuk dan 
+atas nama Bank Indonesia dalam melaksanakan 
+pengawasan langsung sebagaimana dimaksud pada ayat (2) 
+huruf b. 
+(6) Pihak lain sebagaimana dimaksud pada ayat (5) harus: 
+a. melaporkan hasil pengawasan kepada Bank 
+Indonesia; dan 
+b. menjaga kerahasiaan data, informasi, dan/atau 
+keterangan yang diperoleh dari hasil pengawasan. 
+(7) Pelaku SK SP wajib menindaklanjuti hasil pengawasan 
+yang dilakukan oleh Bank Indonesia. 
+ 
+Pasal 33 
+Pelaku SK SP yang melanggar ketentuan sebagaimana dimaksud 
+dalam Pasal 3 2 ayat (4) dan/atau ayat (7) dikena i sanksi 
+administratif berupa: 
+a. teguran tertulis; 
+b. penundaan pemberian perizinan, persetujuan 
+pengembangan aktivitas, produk, dan kerja sama Kegiatan 
+Sistem Pembayaran, dan/atau penundaan kepesertaan 
+sistem pembayaran Bank Indonesia;
+
+[Halaman 18]
+- 18 - 
+ 
+c. penghentian sementara, sebagian, atau seluruh Kegiatan 
+Sistem Pembayaran termasuk pelaksanaan kerja sama ; 
+dan/atau 
+d. pencabutan izin sebagai penyedia jasa pembayaran, 
+pencabutan penetapan sebagai penyelenggara 
+infrastruktur sistem pembayaran, pencabutan izin 
+penyelenggara jasa pengolahan uang rupiah , atau 
+pencabutan izin penyelenggara kegiatan usaha penukaran 
+valuta asing bukan Bank. 
+ 
+Pasal 34 
+Ketentuan lebih lanjut mengenai tata cara pengawasan terhadap 
+Pelaku SK SP dan tata cara pengenaan sanksi administratif 
+diatur dalam Peraturan Anggota Dewan Gubernur. 
+ 
+Bagian Kedua 
+Pemantauan Terhadap Penyelenggara SK SP 
+ 
+Pasal 35 
+(1) Bank Indonesia dapat melakukan pemantauan terhadap 
+Penyelenggara SK SP. 
+(2) Dalam melakukan pemantauan sebagaimana dimaksud 
+pada ayat (1), Bank Indonesia berwenang untuk meminta 
+dokumen, data, informasi, keterangan, dan/atau 
+penjelasan dari Penyelenggara SK SP. 
+(3) Penyelenggara SK SP wajib menyampaikan dokumen, data, 
+informasi, keterangan, dan/atau penjelasan atas 
+permintaan Bank Indonesia sebagaimana dimaksud pada 
+ayat (2). 
+(4) Bank Indonesia dapat menugaskan pihak lain untuk dan 
+atas nama Bank Indonesia dalam melaksanakan 
+pemantauan terhadap Penyelenggara SK SP. 
+(5) Pihak lain sebagaimana dimaksud pada ayat (4) harus: 
+a. melaporkan hasil pemantauan kepada Bank 
+Indonesia; dan 
+b. menjaga kerahasiaan data, informasi, dan/atau 
+keterangan yang diperoleh dari hasil pemantauan. 
+(6) Penyelenggara SK SP wajib menindaklanjuti hasil 
+pemantauan yang dilakukan oleh Bank Indonesia. 
+ 
+Pasal 36 
+Penyelenggara SK SP yang melanggar ketentuan sebagaimana 
+dimaksud dalam Pasal 3 5 ayat (3) dan/atau ayat ( 6) dikenai 
+sanksi administratif berupa: 
+a. teguran tertulis; 
+b. pembekuan sebagai Penyelenggara SK SP yang diakui Bank 
+Indonesia; dan/atau 
+c. pencabutan sebagai Penyelenggara SK SP yang diakui Bank 
+Indonesia. 
+ 
+Pasal 37 
+Ketentuan lebih lanjut mengenai tata cara pemantauan 
+terhadap Penyelenggara SK SP dan tata cara pengenaan sanksi 
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+
+[Halaman 19]
+- 19 - 
+ 
+BAB VIII 
+KOORDINASI 
+ 
+Pasal 38 
+(1) Bank Indonesia dapat berkoordinasi dengan otoritas 
+terkait, kementerian atau lembaga yang berwenang, 
+asosiasi profesi, dan/atau asosiasi industri dalam rangka 
+penyelenggaraan SK SP. 
+(2) Koordinasi sebagaimana dimaksud pada ayat (1) meliputi: 
+a. pengembangan dan penerapan SKKNI Bidang Sistem 
+Pembayaran dan Jenjang Kualifikasi Sistem 
+Pembayaran; 
+b. pendirian Penyelenggara SK SP; 
+c. pengakuan sertifikat profesi yang diterbitkan oleh 
+lembaga sertifikasi di luar negeri; 
+d. tindak lanjut hasil pengawasan terhadap Pelaku SK SP 
+dan pemantauan terhadap Penyelenggara SK SP; 
+e. pengenaan sanksi terhadap Pelaku SK SP dan 
+Penyelenggara SK SP; dan 
+f. hal lainnya. 
+ 
+BAB IX 
+KETENTUAN LAIN-LAIN 
+ 
+Pasal 39 
+Bank Indonesia berdasarkan pertimbangan tertentu dapat 
+mengambil kebijakan tertentu mengenai penyelenggaraan SK 
+SP dengan tetap memperhatikan ketentuan sebagaimana 
+dimaksud dalam Peraturan Bank Indonesia ini dan ketentuan 
+peraturan perundang-undangan lainnya. 
+ 
+BAB X 
+KETENTUAN PERALIHAN 
+ 
+Pasal 40 
+Kewajiban k epemilikan Sertifikat PBK Sistem Pembayaran 
+dan/atau Sertifikat Kompetensi Sistem Pembayaran yang 
+belum terpenuhi bagi SDM sebagaimana dimaksud dalam Pasal 
+8 ayat (2) yang telah efektif menduduki jabatan sebelum 
+berlakunya Peraturan Bank Indonesia ini harus dipenuhi paling 
+lambat pada tanggal 31 Desember 2026. 
+ 
+BAB XI 
+KETENTUAN PENUTUP 
+ 
+Pasal 41 
+Pada saat Peraturan Bank Indonesia ini mulai berlaku, semua 
+peraturan yang merupakan peraturan pelaksanaan dari 
+Peraturan Bank Indonesia Nomor 21/16/PBI/2019 tentang 
+Standardisasi Kompetensi di Bidang Sistem Pembayaran dan 
+Pengelolaan Uang Rupiah (Lembaran Negara Republik Indonesia 
+Tahun 2019 Nomor 260, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6448) , dinyatakan masih tetap berlaku 
+sepanjang tidak bertentangan dengan ketentuan dalam 
+Peraturan Bank Indonesia ini.
+
+[Halaman 20]
+- 20 - 
+ 
+Pasal 42 
+Pada saat Peraturan Bank Indonesia ini mulai berlaku, 
+Peraturan Bank Indonesia Nomor 21/16/PBI/2019 tentang 
+Standardisasi Kompetensi di Bidang Sistem Pembayaran dan 
+Pengelolaan Uang Rupiah (Lembaran Negara Republik Indonesia 
+Tahun 2019 Nomor 260, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6448), dicabut dan dinyatakan tidak berlaku. 
+ 
+Pasal 43 
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal 
+diundangkan.
+
+[Halaman 21]
+- 21 - 
+ 
+ 
+Agar setiap orang mengetahuinya, memerintahkan 
+pengundangan Peraturan Bank Indonesia ini dengan 
+penempatannya dalam Lembaran Negara Republik Indonesia. 
+ 
+ 
+ Ditetapkan di Jakarta 
+ pada tanggal 9 Juli 2024 
+ 
+ GUBERNUR BANK INDONESIA, 
+ 
+ Œ 
+ 
+PERRY WARJIYO 
+ 
+Diundangkan di Jakarta 
+pada tanggal Д 
+ 
+MENTERI HUKUM DAN HAK ASASI MANUSIA 
+REPUBLIK INDONESIA, 
+ 
+Ѽ 
+ 
+YASONNA H. LAOLY 
+ 
+ 
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR Ж
+
+[Halaman 22]
+PENJELASAN 
+ATAS 
+PERATURAN BANK INDONESIA 
+NOMOR 5 TAHUN 2024 
+TENTANG 
+STANDARDISASI KOMPETENSI DI BIDANG SISTEM PEMBAYARAN 
+ 
+I. UMUM 
+Arah kebijakan sistem pembayaran serta perkembangan teknologi dan 
+sistem informasi di bidang sistem pembayaran yang tidak terlepas dari 
+berbagai risiko yang perlu dimitigasi antara lain berupa fraud, kejahatan 
+siber, dan tindak pidana pencucian uang dan/at au tindak pidana 
+pendanaan terorisme, harus diimbangi dengan peningkatan kompetensi 
+sumber daya manusia pelaku industri agar mewujudkan sistem 
+pembayaran yang cepat, mudah, murah, aman, dan andal, serta 
+ketersediaan uang rupiah yang berkualitas dan terper caya di seluruh 
+wilayah Negara Kesatuan Republik Indonesia. 
+Sebagai salah satu upaya untuk menciptakan SDM yang memiliki 
+kompetensi di bidang sistem pembayaran, B ank Indonesia telah 
+menetapkan kebijakan standardisasi kompetensi di bidang sistem 
+pembayaran dan pengelolaan uang rupiah melalui penerbitan Peraturan 
+Bank Indonesia Nomor 21/16/PBI/2019 tentang Standardisasi Kompetensi 
+di Bidang Sistem Pembayaran dan Pengelolaan Uang Rupiah. Peraturan 
+Bank Indonesia ini diberlakukan bagi pelaku sistem pembayaran d an 
+pengelolaan uang rupiah berupa Bank dan LSB dengan jenjang jabatan 
+pelaksana, penyelia, dan pejabat eksekutif untuk mengikuti PBK Sistem 
+Pembayaran dan/atau Sertifikasi Kompetensi Sistem Pembayaran. 
+Selanjutnya, untuk mendorong pertumbuhan ekonomi nasional yang 
+berkelanjutan, Pemerintah telah menerbitkan Undang -Undang Nomor 4 
+Tahun 2023 tentang Pengembangan dan Penguatan Sektor Keuangan, yang 
+antara lain mengatur mengenai penguatan kualitas sumber daya manusia 
+pada sektor keuangan termasuk s istem pembayaran yang merupakan 
+kewenangan Bank Indonesia. Berdasarkan hal tersebut, Bank Indonesia 
+perlu menyesuaikan Peraturan Bank Indonesia tentang Standardisasi 
+Kompetensi di Bidang Sistem Pembayaran. 
+ 
+II. PASAL DEMI PASAL 
+ 
+Pasal 1 
+ Cukup jelas. 
+ 
+Pasal 2 
+ Cukup jelas. 
+ 
+Pasal 3 
+ Cukup jelas.
+
+[Halaman 23]
+- 2 - 
+ 
+Pasal 4 
+ Huruf a 
+Kegiatan operasional sistem pembayaran antara lain kegiatan 
+pengelolaan transfer dana dan kegiatan dalam tahapan 
+pemrosesan transaksi pembayaran oleh penyedia jasa 
+pembayaran dan penyelenggara infrastruktur sistem 
+pembayaran, baik kegiatan dalam penyelenggaraan sistem 
+pembayaran ritel industr i, maupun penyelenggaraan sistem 
+pembayaran lainnya yang ditetapkan oleh Bank Indonesia. 
+ Huruf b 
+Kegiatan operasional jasa pengolahan uang rupiah antara lain 
+kegiatan layanan kas yang meliputi distribusi uang rupiah, 
+penyimpanan uang di khazanah, pemrosesan uang rupiah, dan 
+pengisian, pengambilan, dan/atau pemantauan kecukupan uang 
+rupiah pada automated teller machine, cash deposit machine, 
+dan/atau cash recycling machine. 
+Huruf c 
+Kegiatan usaha penukaran valuta asing antara lain kegiatan jual 
+dan beli uang kertas asing dan pembelian cek pelawat. 
+Kegiatan usaha pembawaan uang kertas asing antara lain 
+kegiatan memasukan dan/atau mengeluarkan uang kertas asing 
+ke dalam dan/atau ke luar daerah pabean yang dilakukan dengan 
+cara membawa sendiri atau dengan menggunakan jasa pihak lain 
+untuk kepentingan sendiri atau pihak lain baik melalui kargo 
+dan/atau barang bawaan penumpang. 
+Huruf d 
+ Yang dimaksud dengan ”kegiatan operasional setelmen transaksi 
+tresuri” adalah kegiatan setelmen atas transaksi tresuri. 
+ Kegiatan operasional setelmen transaksi tresuri antara lain 
+transaksi pasar uang ( money market ), transaksi fixed income , 
+transaksi dalam valuta asing ( foreign e xchange), dan transaksi 
+derivatif. 
+Yang dimaksud dengan ”kegiatan operasional setelmen transaksi 
+pembiayaan perdagangan” adalah kegiatan setelmen pembayaran 
+atas transaksi pembelian dan penjualan barang dan jasa dalam 
+perdagangan internasional maupun dalam negeri (trade finance). 
+Kegiatan operasional setelmen transaksi pembiayaan 
+perdagangan antara lain documentary credit dan documentary 
+collection seperti letter of credit , surat kredit berdokumen dalam 
+negeri, open ac count, bank garansi, standby letter of credit , 
+demand guarantee, dan bank payment obligation. 
+Huruf e 
+Yang dimaksud dengan “kegiatan operasional sistem 
+penatausahaan surat berharga” adalah kegiatan penatausahaan 
+surat berharga milik nasabah yang dilakukan oleh Pelaku SK SP 
+sebagai sub-registry melalui Bank Indonesia Scripless Securities 
+Settlement System. 
+Kegiatan pen atausahaan surat berharga milik nasabah antara 
+lain kegiatan pencatatan kepemilikan, penyelesaian transaksi, 
+dan aksi korporasi. 
+Huruf f 
+Cukup jelas. 
+ 
+Pasal 5 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+Bank Indonesia dalam menginisiasi penyusunan SKKNI Bidang 
+Sistem Pembayaran antara lain mengikutsertakan perwakilan 
+asosiasi industri dan/atau asosiasi profesi yang terkait dengan 
+Kegiatan Sistem Pembayaran.
+
+[Halaman 24]
+- 3 - 
+ 
+ Ayat (3) 
+ Cukup jelas. 
+ Ayat (4) 
+ Cukup jelas. 
+ Ayat (5) 
+Cukup jelas. 
+ 
+Pasal 6 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+ Cukup jelas. 
+ Ayat (3) 
+ Cukup jelas. 
+ Ayat (4) 
+Cukup jelas. 
+ Ayat (5) 
+ Cukup jelas. 
+ Ayat (6) 
+Penyelenggaraan PBK Sistem Pembayaran oleh LPK Sistem 
+Pembayaran dan penyelenggaraan Sertifikasi Kompetensi Sistem 
+Pembayaran oleh LSP Sistem Pembayaran dapat dilakukan pada 
+seluruh atau sebagian ruang lingkup penyelenggaraan sesuai 
+dengan kapabilitas masing-masing Penyelenggara SK SP. 
+ 
+Pasal 7 
+Cukup jelas. 
+ 
+Pasal 8 
+ Ayat (1) 
+Pelaku SK SP antara lain melakukan identifikasi SDM yang harus 
+memiliki Sertifikat PBK Sistem Pembayaran dan/atau Sertifikat 
+Kompetensi Sistem Pembayaran , dan mengikutsertakan SDM 
+dalam PBK Sistem Pembayaran atau Sertifikasi Kompetensi 
+Sistem Pembayaran untuk memastikan SDM yang melaksanakan 
+Kegiatan Sistem Pembayaran memiliki Sertifikat PBK Sistem 
+Pembayaran dan/atau Sertifikat Kompetensi Sistem Pembayaran. 
+ Ayat (2) 
+Cukup jelas. 
+ Ayat (3) 
+Cukup jelas. 
+ Ayat (4) 
+Cukup jelas. 
+ Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+ Cukup jelas. 
+Ayat (7) 
+Cukup jelas. 
+ 
+Pasal 9 
+ Cukup jelas. 
+ 
+Pasal 10 
+ Cukup jelas. 
+ 
+Pasal 11 
+Pemeliharaan Kompetensi Sistem Pembayaran dikenal sebagai 
+refreshment.
+
+[Halaman 25]
+- 4 - 
+ 
+Pasal 12 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+Asesmen kebutuhan dana yang dilakukan oleh Pelaku SK SP 
+antara lain mempertimbangkan cakupan Kegiatan Sistem 
+Pembayaran, jumlah SDM, biaya PBK Sistem Pembayaran atau 
+Sertifikasi Kompetensi Sistem Pembayaran, dan memperhatikan 
+ketentuan penyediaan dana untu k pengembangan kualitas SDM 
+sebagaimana diatur oleh otoritas yang berwenang. 
+ Ayat (3) 
+ Cukup jelas. 
+ Ayat (4) 
+ Cukup jelas. 
+Ayat (5) 
+ Cukup jelas. 
+ Ayat (6) 
+ Cukup jelas. 
+ Ayat (7) 
+ Cukup jelas. 
+ 
+Pasal 13 
+ Cukup jelas. 
+ 
+Pasal 14 
+ Cukup jelas. 
+ 
+Pasal 15 
+ Cukup jelas. 
+ 
+Pasal 16 
+ Ayat (1) 
+ Huruf a 
+ Cukup jelas. 
+ Huruf b 
+Yang dimaksud dengan “asosiasi profesi dan/atau asosiasi 
+industri sistem pembayaran” adalah asosiasi yang menaungi 
+pelaku usaha di bidang sistem pembayaran. 
+ Huruf c 
+ Cukup jelas. 
+ Ayat (2) 
+Yang dimaksud dengan “lembaga yang berwenang” adalah 
+lembaga yang berwenang memberikan izin atau tanda daftar 
+sebagaimana dimaksud dalam ketentuan peraturan perundang -
+undangan mengenai tata cara perizinan dan pendaftaran lembaga 
+pelatihan kerja. 
+ Ayat (3) 
+Cukup jelas. 
+ Ayat (4) 
+ Huruf a 
+Cukup jelas. 
+ Huruf b 
+ Cukup jelas. 
+ Huruf c 
+Perangkat organisasi antara lain struktur organisasi dan 
+uraian tugas dari jabatan yang tercantum pada struktur 
+organisasi. 
+ Huruf d 
+ Cukup jelas. 
+ Huruf e 
+ Cukup jelas.
+
+[Halaman 26]
+- 5 - 
+ 
+ Huruf f 
+ Cukup jelas. 
+ Ayat (5) 
+ Cukup jelas. 
+ 
+Pasal 17 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+Dokumen pendukung antara lain data profil LPK Sistem 
+Pembayaran dan dokumen pendukung lainnya. 
+ Ayat (3) 
+Sarana yang ditetapkan oleh Bank Indonesia antara lain laman 
+resmi Bank Indonesia dan/atau media publikasi lainnya. 
+ 
+Pasal 18 
+ Ayat (1) 
+ Huruf a 
+Ketentuan yang ditetapkan oleh kementerian atau lembaga 
+yang berwenang antara lain Peraturan Menteri Tenaga Kerja 
+dan Tra nsmigrasi mengenai pedoman penyelenggaraan 
+pelatihan berbasis kompetensi. 
+ Huruf b 
+Cukup jelas. 
+ Ayat (2) 
+Yang dimaksud dengan “perubahan” adalah penyesuaian yang 
+dilakukan oleh LPK Sistem Pembayaran atas Program PBK Sistem 
+Pembayaran yang telah berjalan. 
+Yang dimaksud dengan “penambahan” adalah penambahan 
+Program PBK Sistem Pembayaran baru oleh LPK Sistem 
+Pembayaran di luar Program PBK Sistem Pembayaran yang 
+sedang berjalan. 
+ Ayat (3) 
+ Cukup jelas. 
+ Ayat (4) 
+ Cukup jelas. 
+ Ayat (5) 
+ Lihat penjelasan Pasal 16 ayat (2). 
+ Ayat (6) 
+ Huruf a 
+ Cukup jelas. 
+ Huruf b 
+ Cukup jelas. 
+Huruf c 
+ Lihat penjelasan Pasal 16 ayat (4) huruf c. 
+Huruf d 
+Yang dimaksud dengan ”memiliki Program PBK Sistem 
+Pembayaran” adalah LPK Sistem Pembayaran memiliki 
+dokumen yang memuat penambahan Program PBK Sistem 
+Pembayaran baru di luar Program PBK Sistem Pembayaran 
+yang sedang berjalan. 
+ Huruf e 
+ Cukup jelas. 
+ Huruf f 
+ Cukup jelas. 
+ Ayat (7) 
+ Cukup jelas. 
+ Ayat (8) 
+ Cukup jelas.
+
+[Halaman 27]
+- 6 - 
+ 
+Pasal 19 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+Lihat penjelasan Pasal 17 ayat (2). 
+ Ayat (3) 
+Lihat penjelasan Pasal 17 ayat (3). 
+ 
+Pasal 20 
+ Cukup jelas. 
+ 
+Pasal 21 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+ Cukup jelas. 
+ Ayat (3) 
+Yang dimaksud dengan “lembaga yang berwenang” adalah 
+lembaga independen yang dibentuk untuk melaksanakan 
+sertifikasi kompetensi kerja. 
+Ayat (4) 
+Cukup jelas. 
+Ayat (5) 
+Huruf a 
+Lihat penjelasan Pasal 16 ayat (1) huruf b. 
+Huruf b 
+Cukup jelas. 
+Huruf c 
+Lihat penjelasan Pasal 16 ayat (4) huruf c. 
+Huruf d 
+Cukup jelas. 
+Huruf e 
+Cukup jelas. 
+Huruf f 
+Cukup jelas. 
+Huruf g 
+Cukup jelas. 
+ Ayat (6) 
+ Cukup jelas. 
+ 
+Pasal 22 
+ Ayat (1) 
+Cukup jelas. 
+ Ayat (2) 
+Lembaga yang berwenang lihat penjelasan Pasal 21 ayat (3). 
+Dokumen pendukung antara lain data profil LSP Sistem 
+Pembayaran dan dokumen pendukung lainnya. 
+ Ayat (3) 
+ Lihat penjelasan Pasal 17 ayat (3). 
+ 
+Pasal 23 
+ Ayat (1) 
+ Huruf a 
+Lihat penjelasan Pasal 21 ayat (3). 
+ Huruf b 
+ Cukup jelas. 
+ Huruf c 
+Cukup jelas. 
+ Ayat (2) 
+Yang dimaksud dengan “perubahan” adalah penambahan atau 
+pengurangan Skema Sertifikasi Kompetensi Sistem Pembayaran
+
+[Halaman 28]
+- 7 - 
+ 
+yang dimintakan lisensi oleh LSP Sistem Pembayaran kepada 
+lembaga yang berwenang. 
+ Ayat (3) 
+ Lihat penjelasan Pasal 21 ayat (3). 
+ Ayat (4) 
+ Huruf a 
+ Cukup jelas. 
+ Huruf b 
+ Cukup jelas. 
+ Huruf c 
+ Lihat penjelasan Pasal 16 ayat (4) huruf c. 
+ Huruf d 
+ Cukup jelas. 
+ Huruf e 
+ Cukup jelas. 
+ Huruf f 
+ Cukup jelas. 
+ Huruf g 
+ Cukup jelas. 
+ Ayat (5) 
+ Cukup jelas. 
+ Ayat (6) 
+ Cukup jelas. 
+ 
+Pasal 24 
+ Ayat (1) 
+ Lihat penjelasan Pasal 21 ayat (3). 
+ Ayat (2) 
+ Lihat penjelasan Pasal 22 ayat (2). 
+ Ayat (3) 
+ Lihat penjelasan Pasal 17 ayat (3). 
+ 
+Pasal 25 
+ Cukup jelas. 
+ 
+Pasal 26 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+ Huruf a 
+ Cukup jelas. 
+ Huruf b 
+ Cukup jelas. 
+ Huruf c 
+Pertimbangan lainnya antara lain rekomendasi dari asosiasi 
+profesi dan/atau asosiasi industri. 
+ Ayat (3) 
+ Cukup jelas. 
+ 
+Pasal 27 
+ Cukup jelas. 
+ 
+Pasal 28 
+ Cukup jelas. 
+ 
+Pasal 29 
+ Ayat (1) 
+Huruf a 
+Yang dimaksud dengan “laporan berkala” adalah laporan 
+dengan periode waktu yang ditetapkan oleh Bank Indonesia 
+antara lain secara triwulanan dan tahunan.
+
+[Halaman 29]
+- 8 - 
+ 
+Huruf b 
+Yang dimaksud dengan “laporan insidental” adalah laporan 
+yang diminta sewaktu-waktu guna pelaksanaan tugas Bank 
+Indonesia. 
+ Ayat (2) 
+Cukup jelas. 
+ Ayat (3) 
+ Cukup jelas. 
+Ayat (4) 
+ Cukup jelas. 
+ Ayat (5) 
+Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 30 
+ Ayat (1) 
+Huruf a 
+ Lihat penjelasan Pasal 29 ayat (1) huruf a. 
+ Huruf b 
+ Lihat penjelasan Pasal 29 ayat (1) huruf b. 
+ Ayat (2) 
+Cukup jelas. 
+ Ayat (3) 
+Cukup jelas. 
+Ayat (4) 
+ Cukup jelas. 
+Ayat (5) 
+ Cukup jelas. 
+Ayat (6) 
+Cukup jelas. 
+ 
+Pasal 31 
+ Cukup jelas. 
+ 
+Pasal 32 
+ Ayat (1) 
+ Cukup jelas. 
+ Ayat (2) 
+ Cukup jelas. 
+ Ayat (3) 
+ Cukup jelas. 
+ Ayat (4) 
+ Cukup jelas. 
+ Ayat (5) 
+ Cukup jelas. 
+Ayat (6) 
+Pihak lain yang ditugaskan oleh Bank Indonesia antara lain 
+auditor eksternal. 
+ Ayat (7) 
+ Cukup jelas. 
+ 
+Pasal 33 
+ Cukup jelas. 
+ 
+Pasal 34 
+ Cukup jelas. 
+ 
+Pasal 35 
+ Ayat (1) 
+ Cukup jelas.
+
+[Halaman 30]
+- 9 - 
+ 
+ Ayat (2) 
+ Cukup jelas. 
+ Ayat (3) 
+ Cukup jelas. 
+ Ayat (4) 
+ Pihak lain yang ditugaskan Bank Indonesia untuk melakukan 
+pemantauan kepada Penyelenggara SK SP antara lain Self 
+Regulatory Organization (SRO) bidang Sistem Pembayaran. 
+ Ayat (5) 
+ Cukup jelas. 
+ Ayat (6) 
+ Cukup jelas. 
+ 
+Pasal 36 
+ Cukup jelas. 
+ 
+Pasal 37 
+ Cukup jelas. 
+ 
+Pasal 38 
+ Ayat (1) 
+Otoritas terkait antara lain Otoritas Jasa Keuangan. 
+Kementerian atau lembaga yang berwenang antara lain: 
+a. kementerian yang menyelenggarakan urusan pemerintahan di 
+bidang ketenagakerjaan; 
+b. lembaga independen yang dibentuk untuk melaksanakan 
+sertifikasi kompetensi kerja; dan 
+c. lembaga yang memberikan izin dan tan da daftar lembaga 
+pelatihan kerja sebagaimana dimaksud dalam ketentuan 
+peraturan perundang-undangan mengenai tata cara perizinan 
+dan pendaftaran lembaga pelatihan kerja. 
+ Ayat (2) 
+Cukup jelas. 
+ 
+Pasal 39 
+Cukup jelas. 
+ 
+Pasal 40 
+ Cukup jelas. 
+ 
+Pasal 41 
+ Cukup jelas. 
+ 
+Pasal 42 
+ Cukup jelas. 
+ 
+Pasal 43 
+ Cukup jelas. 
+ 
+ 
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR ⸙
